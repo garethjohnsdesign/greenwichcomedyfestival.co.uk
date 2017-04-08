@@ -1,7 +1,7 @@
-# Bristol Comedy Garden 2017
+# Greenwich Comedy Festival 2017
 
-Website for Bristol Comedy Garden 2017. Please go to [bristolcomedygarden.co.uk](http://bristolcomedygarden.co.uk) in case you want to take a look at the website.
+Website for Greenwich Comedy Festival 2017. Please go to [greenwichcomedyfestival.co.uk](http://greenwichcomedyfestival.co.uk) in case you want to take a look at the website.
 
 * * *
 
-Copyright (c) 2016 Gareth Johns Art Direction + Design – info@garethjohnsdesign.com
+Copyright (c) 2017 Gareth Johns Art Direction + Design – info@garethjohnsdesign.com
