@@ -13,9 +13,10 @@ general:
 
     *Please note that our bars and food stalls only accept cash.*
 - title: Festival Timings
-  text: "Tues 26 September 6pm to 11pm  \nWeds 27 September 6pm to 11pm  \nThurs 28 September 6pm
-    to 11pm  \nFri 29 September 6pm to 11pm  \nSat 30 September 1pm to 11pm  \n\n*There is no
-    entry into the festival after 10pm and our bars close at 10:30pm.*"
+  text: "Tues 26 September 6pm to 11pm  \nWeds 27 September 6pm to 11pm  \nThurs 28
+    September 6pm to 11pm  \nFri 29 September 6pm to 11pm  \nSat 30 September 1pm
+    to 11pm  \n\n*There is no entry into the festival after 10pm and our bars close
+    at 10:30pm.*"
 - title: Festival Site & Lost Property
   text: "You need a ticket to come into the festival at the National Maritime Museum.
     Tickets can be purchased in advance online or at the on site Box Office on the
@@ -67,3 +68,4 @@ general:
 
 layout: info
 ---
+
