@@ -1,0 +1,54 @@
+---
+layout: default
+---
+
+<section class="line-up">
+  
+  <div class="row align-center">
+  <div class="expand columns">
+  <ul class="tabs" data-update-history="true" data-deep-link="true" data-deep-link-smudge="true" data-deep-link-smudge-delay="600" data-responsive-accordion-tabs="accordion large-tabs" data-allow-all-closed="true" id="example-tabs">
+  <li class="tabs-title is-active"><a href="#all" aria-selected="true">All</a></li>
+  {% assign collection = site.line-up | group_by_exp: "item", "item.date | date: '%A %-d %B'" %}
+  {% for day in collection %}
+  <li class="tabs-title"><a href="#{{ day.name | slugify | remove: "-" }}">{{ day.name }}</a></li>
+  {%endfor%}
+  </ul>
+  </div>
+  </div>
+  
+  <div class="row align-center">
+  <div class="small-12 columns">
+  <div class="tabs-content" data-tabs-content="example-tabs">
+  
+  <div class="tabs-panel is-active" id="all">
+    <div class="row collapse small-up-1 medium-up-2 large-up-3">
+
+    {% for day in site.line-up %}
+  {% for act in day.acts %}
+  {% include excerpt.html %}
+  {% endfor %}
+  {% endfor %}
+    </div>
+  </div>
+  
+  {% assign collection = site.line-up | group_by_exp: "item", "item.date | date: '%A %-d %B'" %}
+  {% for day in collection %}
+  
+  <div class="tabs-panel" id="{{ day.name | slugify | remove: "-" }}">
+    <div class="row collapse small-up-1 medium-up-2 large-up-3">
+    {% assign sorted = day.items | sort: 'date' %}
+    {% for day in sorted %}
+      {% for act in day.acts %}
+        {% include excerpt.html %}
+      {% endfor %}
+    {% endfor %}
+    </div>
+  </div>
+
+  {%endfor%}
+  </div>
+  </div>
+  </div>
+  
+</section>
+

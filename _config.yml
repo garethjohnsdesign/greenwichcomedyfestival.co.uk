@@ -1,0 +1,60 @@
+---
+title: Greenwich Comedy Festival
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: false
+  uploads:
+    title: Uploads
+    output: false
+defaults:
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+url: http://greenwichcomedyfestival.co.uk
+description: Greenwich Comedy Festival returns this summer for another series of unmissable shows!
+permalink: pretty
+exclude:
+- Gemfile
+- Gemfile.lock
+- bower.json
+- package.json
+- config.codekit3
+- README*
+- LICENSE*
+- CHANGELOG*
+- node_modules
+- ".gitignore"
+- bower_components
+gems:
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-feed
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+company: 57 Festivals Ltd
+date: 13 — 17 September 2017
+address: National Maritime Museum, Greenwich
+email: info@greenwichcomedyfestival.co.uk
+google_site_verification: 
+analytics: UA-52649780-1
+logo: "/assets/img/logo.svg"
+per_page: 12
+date_format: "%b %d, %Y"
+future: true
+social:
+  facebook: https://www.facebook.com/greenwichcomedyfestival
+  instagram: https://www.instagram.com/greenwichcomedyfestival
+  twitter: https://twitter.com/greenwichcomedy
+compress_html:
+  comments:
+  - "<!-- "
+  - " -->"
+  blanklines: true
+  profile: false

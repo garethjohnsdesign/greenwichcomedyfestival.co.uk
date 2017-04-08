@@ -1,0 +1,38 @@
+<div class="row align-center">
+<div class="small-8 columns">
+
+<div class="row">
+
+<div class="small-4 columns">
+  {% if page.previous.url %}
+    <a href="{{page.previous.url}}">
+      <div class="pagination align-middle">
+        <svg class="icon icon-arrow-left"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-left"></use></svg> <span class="show-for-medium">Previous</span>
+      </div>
+    </a>
+  {% endif %}
+</div>
+
+<div class="small-4 columns align-middle">
+    <a href="/line-up/#all">
+      <div class="pagination align-middle text-center">
+        <svg class="icon icon-grid"><use xlink:href="/assets/icons/symbol-defs.svg#icon-grid"></use></svg>
+      </div>
+    </a>
+</div>
+
+
+<div class="small-4 columns text-right">
+  {% if page.next.url %}
+  <a href="{{page.next.url}}">
+    <div class="pagination align-middle">
+        <span class="show-for-medium">Next </span><svg class="icon icon-arrow-right"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow-right"></use></svg>
+    </div>
+  </a>
+  {% endif %}
+</div>
+
+</div>
+
+</div>
+</div>
