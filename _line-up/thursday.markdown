@@ -10,7 +10,7 @@ acts:
 - name: Ellie Taylor
   image: "/uploads/ellie-taylor.jpg"
 - name: John Robins
-  image: "/uploads/John-robins.jpg"
+  image: "/uploads/john-robins.jpg"
 quote: If he continues this way, Lycett will become one of mainstream’s biggest names
 quote-cite: The Times
 secondary-text: Joining Joe is quadruple Edinburgh Comedy Award nominee and Mock The
