@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://greenwichcomedyfestival.co.uk/line-up/wednesday/</loc>
+<lastmod>2017-09-13T19:30:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://greenwichcomedyfestival.co.uk/line-up/thursday/</loc>
+<lastmod>2017-09-14T19:30:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://greenwichcomedyfestival.co.uk/line-up/friday/</loc>
+<lastmod>2017-09-15T19:30:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://greenwichcomedyfestival.co.uk/line-up/saturday-mid/</loc>
+<lastmod>2017-09-16T15:45:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://greenwichcomedyfestival.co.uk/line-up/saturday-late/</loc>
+<lastmod>2017-09-16T19:30:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://greenwichcomedyfestival.co.uk/line-up/sunday-mid/</loc>
+<lastmod>2017-09-17T15:45:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://greenwichcomedyfestival.co.uk/line-up/sunday-late/</loc>
+<lastmod>2017-09-17T19:30:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://greenwichcomedyfestival.co.uk/about/</loc>
 </url>
 <url>

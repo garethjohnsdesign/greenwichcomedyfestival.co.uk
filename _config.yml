@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: false
+  line-up:
+    title: Line-up
+    output: true
 defaults:
 - scope:
     path: ''
