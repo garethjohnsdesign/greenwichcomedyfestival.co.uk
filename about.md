@@ -11,7 +11,7 @@ images:
 layout: about
 ---
 
-The magnificent Greenwich Comedy Festival returns once more to the grounds of the National Maritime Museum with even more legendary line-ups in the Big Top.
+The magnificent Greenwich Comedy Festival returns once more to the grounds of the [National Maritime Museum](/location/) with even more legendary line-ups in the Big Top.
 
 Come satisfy your comic cravings with the charismatic Mock The Week host Dara O’Briain, much lauded Qi regular Alan Davies, The Last Leg host Adam Hills, natural charmer Sara Pascoe, 8 Out Of 10 Cats favourite Joe Lycett, observational master Ed Byrne plus David O’Doherty, Ellie Taylor, Shappi Khorsandi and many many more.
 
