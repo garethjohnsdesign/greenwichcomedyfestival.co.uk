@@ -1,28 +1,28 @@
 ---
 title: Saturday Mid
-date: 2017-09-16 15:45:00 Z
+date: 2017-09-16 15:00:00 Z
 position: 4
 acts:
-- name: Nina Conti
-  image: "/uploads/nina-conti.jpg"
-- name: Marcus Brigstocke
-  image: "/uploads/marcus-brigstocke.jpg"
-- name: Jayde Adams
-  image: "/uploads/jayde-adams.jpg"
-- name: Stephen K Amos
-  image: "/uploads/stephen-k-amos.jpg"
-quote: Put simply, Nina Conti is a genius
-quote-cite: The Mirror
-secondary-text: Joining Nina is an all-star supporting line-up with multi-award winning
-  Radio 4 favourite Marcus Brigstocke, much acclaimed Bristolian and 2016 Edinburgh
-  Comedy Award nominee Jayde Adams plus globe-trotting laughter-master Stephen K Amos
-  as host.
-festival-starts-at: 2017-09-16 14:45:00 Z
-show-starts-at: 2017-09-16 15:45:00 Z
-ticket-price: "£18.50 - £24"
-ticket-link: http://www.seetickets.com/event/nina-conti/big-top-bristol-comedy-garden/1079399/
+- name: David O'Doherty
+  image: "/uploads/david-o-doherty.jpg"
+- name: Tim Key
+  image: "/uploads/tim-key.jpg"
+- name: Sara Pascoe
+  image: "/uploads/sara-pascoe.jpg"
+- name: Ed Gamble
+  image: "/uploads/ed-gamble.jpg"
+quote: When a stand up gig goes this well, you do get a sense of how religions are
+  started
+quote-cite: The Guardian
+secondary-text: Joining David is a supporting cast chock-a-block with greatness featuring
+  cult poet/comic, ‘Taskmaster’ and ‘Alan Partridge’ star Tim Key, comic/author/natural
+  charmer and Mock The Week regular Sara Pascoe and the dashing Ed Gamble as host.
+festival-starts-at: 2017-09-16 15:00:00 Z
+show-starts-at: 2017-09-16 16:30:00 Z
+ticket-price: "£20 - £25"
+ticket-link: http://www.seetickets.com/
 is-sold-out: 
 layout: event
 ---
 
-British Comedy Award winner Nina Conti headlines a huge afternoon in the Big Top. The groundbreaking ventriloquist has stormed Live At The Apollo, Sunday Night At The Palladium and now heads to Bristol Comedy Garden to top off an absolutely unmissable show.
+David O’Doherty — The Ryanair Enya, The Lidl Bublé — returns to the stunning National Maritime Museum to headline the Big Top with talking and songs played on his crappy keyboard from 1986. A bona-fide favourite of the festival, expect a hit-packed set from this ‘8 Out Of 10 Cats Does Countdown’ regular.
