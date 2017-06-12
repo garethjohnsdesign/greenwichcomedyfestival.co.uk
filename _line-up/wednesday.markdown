@@ -1,6 +1,7 @@
 ---
 title: Wednesday
 date: 2017-09-13 19:30:00 Z
+published: false
 position: 0
 acts:
 - name: Mark Watson
