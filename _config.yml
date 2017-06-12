@@ -34,17 +34,19 @@ gems:
 - jekyll-seo-tag
 - jekyll-sitemap
 - jekyll-feed
+- jekyll-default-layout
+- jekyll-mentions
 markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
 highlighter: rouge
 company: 57 Festivals Ltd
-date: 2013-01-01 00:00:00.000000000 Z
+date-text: "13 — 17 September 2017"
 address: National Maritime Museum, Greenwich
 email: info@greenwichcomedyfestival.co.uk
-google_site_verification: 
-analytics: 
+google_site_verification: pqGndzwmQkEKSTgKHo610nlM0DuQgngEzzJldUbq084
+analytics: UA-52649780-1
 logo: "/assets/img/logo.svg"
 per_page: 12
 date_format: "%b %d, %Y"
@@ -59,3 +61,4 @@ compress_html:
   - " -->"
   blanklines: true
   profile: false
+jekyll-mentions: https://instagram.com
