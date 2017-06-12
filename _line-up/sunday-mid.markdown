@@ -10,6 +10,8 @@ acts:
   image: "/uploads/stephen-k-amos.jpg"
 - name: Shappi Khorsandi
   image: "/uploads/shappi-khorsandi.jpg"
+- name: Mark Olver
+  image: "/uploads/mark-olver.jpg"
 quote: Hills delivers stand-up so effortlessly brilliant you wonder why some comedians
   even get out of bed
 quote-cite: The Guardian
