@@ -22,7 +22,7 @@ general:
     The festival is open to over 18’s only - apologies to all you younger comedy fans out there.
 
     All our bars operate the Challenge 25 scheme so if you’re lucky enough to look under 25 please bring ID!
-- title: Work With Us — Front of House Team
+- title: Work With Us
   text: |-
     Join our Front of House Team and get in on all the comedy action. You’ll be the first point of contact with our audience so good communication skills and a friendly attitude are a must. Working with our Front of House Manager you’ll be responsible for getting everyone to the right place at the right time, making sure the shows run on time and keeping the venues running smoothly. You should be confident, good with people, alert and interested in the festival you’re representing. This role is very active and a lot of fun, you should enjoy dealing with lots of people and manage all this with a level head. This is an unpaid volunteer role. You will be given food vouchers to use at our street-food stalls and as many (non-alcoholic) drinks as you need.
 
