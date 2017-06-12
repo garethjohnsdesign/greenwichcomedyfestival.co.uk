@@ -11,7 +11,7 @@ acts:
 - name: Glenn Wool
   image: "/uploads/glenn-wool.jpg"
 - name: Jarred Christmas
-  image: "/uploads/jared-christmas.jpg"
+  image: "/uploads/jarred-christmas.jpg"
 quote: A master-class in intelligent stand-up…It’s thoughtful stuff, impeccably delivered.
   With material this strong, you don’t need gimmicks
 quote-cite: The Guardian

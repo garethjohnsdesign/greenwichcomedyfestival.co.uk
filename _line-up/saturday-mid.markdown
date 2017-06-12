@@ -1,6 +1,6 @@
 ---
 title: Saturday Mid
-date: 2017-09-16 15:00:00 Z
+date: 2017-09-16 16:30:00 Z
 position: 4
 acts:
 - name: David O'Doherty
