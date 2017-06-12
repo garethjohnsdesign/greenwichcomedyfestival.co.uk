@@ -33,13 +33,16 @@ gems:
 - jekyll-seo-tag
 - jekyll-sitemap
 - jekyll-feed
+- jekyll-default-layout
+- jekyll-mentions
 markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
 highlighter: rouge
+colophon: http://garethjohnsdesign.com
 company: 57 Festivals Ltd
-date: 13 — 17 September 2017
+date-text: "13 — 17 September 2017"
 address: National Maritime Museum, Greenwich
 email: info@greenwichcomedyfestival.co.uk
 google_site_verification: 
@@ -58,3 +61,4 @@ compress_html:
   - " -->"
   blanklines: true
   profile: false
+jekyll-mentions: https://instagram.com

@@ -6,3 +6,6 @@ group :jekyll_plugins do
   gem 'jekyll-feed'
   gem 'jekyll-redirect-from'
 end
+
+gem 'jekyll-default-layout'
+gem 'jekyll-mentions'

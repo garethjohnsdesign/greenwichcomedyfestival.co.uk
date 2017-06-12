@@ -8,29 +8,29 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="generator" content="Siteleaf, http://siteleaf.com">
-<meta property="og:title" content="404">
+<meta property="og:title" content="Location">
 <meta name="description" content="Greenwich Comedy Festival returns this summer for another series of unmissable shows!">
 <meta property="og:description" content="Greenwich Comedy Festival returns this summer for another series of unmissable shows!">
-<link rel="canonical" href="http://greenwichcomedyfestival.co.uk/404.html">
-<meta property="og:url" content="http://greenwichcomedyfestival.co.uk/404.html">
+<link rel="canonical" href="http://greenwichcomedyfestival.co.uk/location/">
+<meta property="og:url" content="http://greenwichcomedyfestival.co.uk/location/">
 <meta property="og:site_name" content="Greenwich Comedy Festival">
 <script type="application/ld+json">
 {"@context": "http://schema.org",
 "@type": "WebPage",
-"headline": "404",
+"headline": "Location",
 "description": "Greenwich Comedy Festival returns this summer for another series of unmissable shows!",
 "publisher": {"@type": "Organization",
 "logo": {"@type": "ImageObject",
 "url": "http://greenwichcomedyfestival.co.uk/assets/img/logo.svg"}},
-"url": "http://greenwichcomedyfestival.co.uk/404.html"}</script>
-  <title>404 - Greenwich Comedy Festival</title>
+"url": "http://greenwichcomedyfestival.co.uk/location/"}</script>
+  <title>Location - Greenwich Comedy Festival</title>
   <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicons/apple-touch-icon.png">
   <link rel="icon" type="image/png" href="/assets/favicons/favicon-32x32.png" sizes="32x32">
   <link rel="icon" type="image/png" href="/assets/favicons/favicon-16x16.png" sizes="16x16">
   <link rel="manifest" href="/assets/favicons/manifest.json">
   <meta name="theme-color" content="#f2f2f2">
   <link rel="stylesheet" type="text/css" href="/assets/css/app.css">
-  <link rel="canonical" href="http://greenwichcomedyfestival.co.uk/404.html">
+  <link rel="canonical" href="http://greenwichcomedyfestival.co.uk/location/">
   <link rel="alternate" type="application/rss+xml" title="Greenwich Comedy Festival" href="http://greenwichcomedyfestival.co.uk/feed.xml">
 </head>
 <body>
@@ -64,7 +64,7 @@
           </ul>
           </li>
           <li><a href="/tickets/">Tickets</a></li>
-          <li><a href="/location/">Location</a></li>
+          <li class="active"><a href="/location/">Location</a></li>
           <li><a href="/about/">About</a></li>
           <li><a href="/info/">Info</a></li>
           <li class="top-bar__socials show-for-large"><a href="https://www.facebook.com/greenwichcomedyfestival" target="_blank"><svg class="icon icon-facebook"><use xlink:href="/assets/icons/symbol-defs.svg#icon-facebook"></use></svg></a></li>
@@ -100,15 +100,214 @@
       </ul>
   </nav>
 </div>
-<section class="missing">
+<section class="location">
   <div class="row">
-    <div class="small-12 medium-10 large-8 columns">
-      <h1></h1>
-<p>Sorry, that page doesn’t exist</p>
-
+    <div class="small-12 columns">
+        <div id="greenwich_canvas" class="location__map"></div>  
     </div>
   </div>
+  <div class="row location-details large-unstack">
+      <div class="columns text-center">
+        <h3>Car</h3>
+        <p>Unfortunately there is no public parking available at the museum and limited parking in Greenwich town centre. However there is blue badge parking area available in the car park on the corner of Park Row and Romney Road.</p>
+      </div>
+      <div class="columns text-center">
+        <h3>Bus</h3>
+        <p>The following buses all pass through Greenwich town centre 177, 180, 188, 199, 286, 386. For further information visit tfl.gov.uk</p>
+      </div>
+      <div class="columns text-center">
+        <h3>Train</h3>
+        <p>The nearest train stations are Greenwich and Maze Hill. From Greenwich station it is about a 10min walk through Greenwich town centre and about 8 mins walk from Maze Hill. The nearest DLR station is Cutty Sark for Maritime Greenwich, a 5min walk from the museum.</p>
+      </div>
+      <div class="columns text-center">
+        <h3>River</h3>
+        <p>All boats arrive at Greenwich Pier which is just a 5min walk away.</p>
+      </div>
+  </div> 
 </section>
+<script>
+    function initMap() {
+    var greenwich = new google.maps.LatLng(51.481015, -0.005163);
+    var greenwichoptions =
+    {
+        zoom: 15,
+        scrollwheel: false,
+        center: greenwich,
+        styles: [
+  {
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#f5f5f5"
+      }
+    ]
+  },
+  {
+    "elementType": "labels.icon",
+    "stylers": [
+      {
+        "visibility": "off"
+      }
+    ]
+  },
+  {
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#616161"
+      }
+    ]
+  },
+  {
+    "elementType": "labels.text.stroke",
+    "stylers": [
+      {
+        "color": "#f5f5f5"
+      }
+    ]
+  },
+  {
+    "featureType": "administrative.land_parcel",
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#bdbdbd"
+      }
+    ]
+  },
+  {
+    "featureType": "poi",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#eeeeee"
+      }
+    ]
+  },
+  {
+    "featureType": "poi",
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#757575"
+      }
+    ]
+  },
+  {
+    "featureType": "poi.park",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#e5e5e5"
+      }
+    ]
+  },
+  {
+    "featureType": "poi.park",
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#9e9e9e"
+      }
+    ]
+  },
+  {
+    "featureType": "road",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#ffffff"
+      }
+    ]
+  },
+  {
+    "featureType": "road.arterial",
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#757575"
+      }
+    ]
+  },
+  {
+    "featureType": "road.highway",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#dadada"
+      }
+    ]
+  },
+  {
+    "featureType": "road.highway",
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#616161"
+      }
+    ]
+  },
+  {
+    "featureType": "road.local",
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#9e9e9e"
+      }
+    ]
+  },
+  {
+    "featureType": "transit.line",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#e5e5e5"
+      }
+    ]
+  },
+  {
+    "featureType": "transit.station",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#eeeeee"
+      }
+    ]
+  },
+  {
+    "featureType": "water",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#c9c9c9"
+      }
+    ]
+  },
+  {
+    "featureType": "water",
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#9e9e9e"
+      }
+    ]
+  }
+]
+    };
+    var greenwichmap = new google.maps.Map(document.getElementById("greenwich_canvas"), greenwichoptions);
+    var myMarker = new google.maps.Marker(
+    {
+        position: greenwich,
+        map: greenwichmap,
+        title:"Greenwich",
+        icon: {
+        path: google.maps.SymbolPath.CIRCLE,
+        scale: 10
+        }
+   });
+}
+    </script>
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAUQQ_mY_I5WKAUYiZwOyTvWKNK38pC2TY&amp;libraries=places&amp;sensor=false&amp;callback=initMap"></script>   
 <footer>
   <div class="row">
     <div class="small-12 columns text-center">
