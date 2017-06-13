@@ -269,6 +269,39 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_uploads\/bottom-artwork-v2.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/bottom-artwork-v2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_uploads\/bottom-artwork-v3.png": {
+		"ft": 32768,
+		"iS": 138591,
+		"oA": 0,
+		"oAP": "\/_uploads\/bottom-artwork-v3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_uploads\/bottom-artwork.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/bottom-artwork.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/_uploads\/carl-donnelly.jpg": {
 		"ft": 16384,
 		"iS": 61270,
@@ -336,7 +369,7 @@
 		"oAP": "\/_uploads\/ed-byrne-feature.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_uploads\/ed-byrne.jpg": {
@@ -366,7 +399,7 @@
 		"oAP": "\/_uploads\/ellie-taylor.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_uploads\/gallery-01.jpg": {
@@ -558,6 +591,56 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"\/_uploads\/top-artwork-v2.png": {
+		"ft": 32768,
+		"iS": 109852,
+		"oA": 0,
+		"oAP": "\/_uploads\/top-artwork-v2.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_uploads\/top-artwork-v3.png": {
+		"ft": 32768,
+		"iS": 109852,
+		"oA": 0,
+		"oAP": "\/_uploads\/top-artwork-v3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_uploads\/top-artwork-v4.png": {
+		"ft": 32768,
+		"iS": 126720,
+		"oA": 0,
+		"oAP": "\/_uploads\/top-artwork-v4.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_uploads\/top-artwork.png": {
+		"ft": 32768,
+		"iS": 86135,
+		"oA": 0,
+		"oAP": "\/_uploads\/top-artwork.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/about.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/about.html",
+		"oF": 0
 		},
 	"\/about.md": {
 		"cS": 0,
@@ -811,23 +894,13 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/img\/logo.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/assets\/img\/logo.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
 	"\/assets\/img\/og-image.png": {
 		"ft": 32768,
 		"iS": 14790,
 		"oA": 0,
 		"oAP": "\/assets\/img\/og-image.png",
 		"oF": 0,
-		"oIPL": 0,
+		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100

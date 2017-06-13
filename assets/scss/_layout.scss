@@ -266,7 +266,7 @@ div.row.excerpt__title {
 
 
 .location {
-  background-image: url(/uploads/top-artwork-v4.png);
+  background-image: url(/uploads/top-artwork.png);
   background-repeat:no-repeat;
   background-position:center top;
   background-size:contain;
@@ -347,12 +347,12 @@ div.row.excerpt__title {
 
 .tickets {
   min-height: 50rem;
-  background-image: url(/uploads/top-artwork.png),url(/uploads/bottom-artwork.png);
+  background-image: url(/uploads/top-artwork.png),url(/uploads/bottom-artwork-v3.png);
   background-repeat:no-repeat;
   background-position:center top, center bottom;
   background-size:contain, contain;
-  padding-top: 2rem;
-  padding-bottom: 10rem;
+  padding-top: 5rem;
+  padding-bottom: 20rem;
 }
 
 .tickets h2 {
@@ -432,12 +432,12 @@ div.row.excerpt__title {
 
 .line-up {
   min-height: 50rem;
-  background-image: url(/uploads/top-artwork-v3.png),url(/uploads/bottom-artwork.png);
+  background-image: url(/uploads/top-artwork-v3.png),url(/uploads/bottom-artwork-v2.png);
   background-repeat:no-repeat;
   background-position:center top, center bottom;
   background-size:contain, contain;
   padding-top: 5rem;
-  padding-bottom: 10rem;
+  padding-bottom: 25rem;
     @include breakpoint(small only) {
     padding-top: 2rem;
   }
@@ -447,10 +447,10 @@ div.row.excerpt__title {
 // --------
 
 .info {
-  background-image: url(/uploads/top-artwork.png),url(/uploads/bottom-artwork-v3.png);
+  background-image: url(/uploads/top-artwork.png);
   background-repeat:no-repeat;
-  background-position:center top, center bottom;
-  background-size:contain, contain;
+  background-position:center top;
+  background-size:cover;
   padding-top: 5rem;
   padding-bottom: 10rem;
   @include breakpoint(small only) {
