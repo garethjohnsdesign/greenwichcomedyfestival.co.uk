@@ -64,6 +64,6 @@ featured:
   subheader: 
   is-sold-out: true
   line-up: Saturday Late
-layout: holding
+layout: index
 ---
 
