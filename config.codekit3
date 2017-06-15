@@ -275,8 +275,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/bottom-artwork-v2.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -286,8 +286,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/bottom-artwork-v3.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -320,6 +320,16 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/dara-o-briain-feature-rev.jpg": {
+		"ft": 16384,
+		"iS": 134416,
+		"oA": 0,
+		"oAP": "\/_uploads\/dara-o-briain-feature-rev.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_uploads\/dara-o-briain-feature.jpg": {
@@ -631,8 +641,8 @@
 		"oA": 0,
 		"oAP": "\/_uploads\/top-artwork.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -889,6 +899,16 @@
 		"miP": 0,
 		"oA": 2,
 		"oAP": "\/assets\/icons\/symbol-defs.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/assets\/img\/logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/assets\/img\/logo.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,

@@ -4,7 +4,7 @@ position: 0
 image: "/assets/img/og-image.png"
 carousel:
 - name: Dara Ó Briain
-  image: "/uploads/dara-o-briain-feature.jpg"
+  image: "/uploads/dara-o-briain-feature-rev.jpg"
   subheader: A masterclass in intelligent, no-frills stand-up - The Guardian
   is-sold-out: false
   line-up: Sunday Late
