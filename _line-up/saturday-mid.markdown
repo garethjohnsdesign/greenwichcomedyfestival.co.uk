@@ -17,7 +17,7 @@ secondary-text: Joining Dylan is a special guest to be announced plus quick witt
 festival-starts-at: 2017-09-16 15:30:00 Z
 show-starts-at: 2017-09-16 17:00:00 Z
 ticket-price: "£20 - £25"
-ticket-link: http://www.seetickets.com/
+ticket-link: http://www.seetickets.com/event/dylan-moran/national-maritime-museum/1121011/
 is-sold-out: 
 layout: event
 ---

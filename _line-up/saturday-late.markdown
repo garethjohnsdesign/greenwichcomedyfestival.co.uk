@@ -20,7 +20,7 @@ secondary-text: Joining Ed is Live At The Apollo star and observational king-sla
 festival-starts-at: 2017-09-16 18:00:00 Z
 show-starts-at: 2017-09-16 20:15:00 Z
 ticket-price: "£20 - £25"
-ticket-link: http://www.seetickets.com/
+ticket-link: http://www.seetickets.com/event/ed-byrne/national-maritime-museum/1121012/
 is-sold-out: 
 layout: event
 ---

@@ -19,7 +19,7 @@ secondary-text: Joining Joe is quadruple Edinburgh Comedy Award nominee and Mock
 festival-starts-at: 2017-09-14 18:00:00 Z
 show-starts-at: 2017-09-14 19:30:00 Z
 ticket-price: "£20 - £25"
-ticket-link: http://www.seetickets.com/
+ticket-link: http://www.seetickets.com/event/joe-lycett/national-maritime-museum/1121015/
 is-sold-out: 
 layout: event
 ---

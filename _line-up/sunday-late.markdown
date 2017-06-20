@@ -21,7 +21,7 @@ secondary-text: Joining Dara is an unmissable supporting cast with Comedian/Rapp
 festival-starts-at: 2017-09-17 18:00:00 Z
 show-starts-at: 2017-09-17 19:30:00 Z
 ticket-price: "£20 - £25"
-ticket-link: http://www.seetickets.com/
+ticket-link: http://www.seetickets.com/event/dara-o-briain/national-maritime-museum/1121014/
 is-sold-out: 
 layout: event
 ---

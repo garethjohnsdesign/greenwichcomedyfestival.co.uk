@@ -20,7 +20,7 @@ secondary-text: Joining Alan is an astounding supporting cast with razor-sharp L
 festival-starts-at: 2017-09-15 18:00:00 Z
 show-starts-at: 2017-09-15 19:30:00 Z
 ticket-price: "£20 - £25"
-ticket-link: http://www.seetickets.com/
+ticket-link: http://www.seetickets.com/event/alan-davies/national-maritime-museum/1121007/
 is-sold-out: 
 layout: event
 ---

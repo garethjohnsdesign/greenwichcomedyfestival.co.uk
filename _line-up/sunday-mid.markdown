@@ -21,7 +21,7 @@ secondary-text: Joining Adam is an astounding supporting cast with Live At The A
 festival-starts-at: 2017-09-17 14:45:00 Z
 show-starts-at: 2017-09-17 15:45:00 Z
 ticket-price: "£20 - £25"
-ticket-link: http://www.seetickets.com/
+ticket-link: http://www.seetickets.com/event/adam-hills/national-maritime-museum/1121013/
 is-sold-out: 
 layout: event
 ---

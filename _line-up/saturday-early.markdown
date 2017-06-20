@@ -20,7 +20,7 @@ secondary-text: Joining David is a supporting cast chock-a-block with greatness 
 festival-starts-at: 2017-09-16 13:00:00 Z
 show-starts-at: 2017-09-16 14:00:00 Z
 ticket-price: "£20 - £25"
-ticket-link: http://www.seetickets.com/
+ticket-link: http://www.seetickets.com/event/david-o-doherty/national-maritime-museum/1121010/
 is-sold-out: 
 layout: event
 ---
