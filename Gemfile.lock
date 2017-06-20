@@ -71,7 +71,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll
+  jekyll (>= 3.5)
   jekyll-default-layout
   jekyll-feed
   jekyll-mentions
