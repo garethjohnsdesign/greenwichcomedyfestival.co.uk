@@ -10,8 +10,7 @@ general:
 - title: Festival Timings
   text: "Wednesday 13 September, 6PM - 11PM  \nThursday 14 September, 6PM - 11PM  \nFriday
     15 September, 6PM - 11PM  \nSaturday 16 September, 1PM - 11PM  \nSunday 17 September,
-    1PM - 11PM\n\nThere is no entry into the festival after 10pm and our bars close
-    at 10:30pm."
+    2.45PM - 11PM"
 - title: Festival Site
   text: |-
     The festival site is open to ticket-holders only, tickets can be purchased in advance online or at the onsite Box Office (subject to availability) on the evening of the show.
