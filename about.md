@@ -17,4 +17,4 @@ Come satisfy your comic cravings with the charismatic Mock The Week host [Dara O
 
 Each year thousands of comedy-fans flock to this iconic location to witness meticulously curated shows in sublime surroundings complete with bars, gourmet street-food, music and so much more.
 
-Get your tickets now to give your inject summer with a hilarious high!
+Get your tickets now and end your summer on a hilarious high!
