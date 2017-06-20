@@ -26,4 +26,4 @@ is-sold-out:
 layout: event
 ---
 
-Dara O Briain, one of the most charismatic, intelligent, fast-talking and downright funny live performers working today. The king of audience interaction heads to Greenwich where he'll relish exchanging ultra-rapid fire quips with members of the audience, and delivers witty and daring anecdotes like no other stand-up comedian.
+Dara O Briain, one of the most charismatic, intelligent, fast-talking and downright funny live performers working today makes his Greenwich Comedy Festival debut. The king of audience interaction heads to the Big Top where he'll relish exchanging ultra-rapid fire quips with members of the audience, and delivers witty and daring anecdotes like no other stand-up comedian.
