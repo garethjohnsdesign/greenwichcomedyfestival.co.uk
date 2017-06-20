@@ -14,7 +14,7 @@ quote-cite: The Scotsman
 secondary-text: Joining Dylan is a special guest to be announced plus quick witted
   Live At The Apollo star Ivo Graham and the irresistible Mock The Week-er Ed Gamble
   as host.
-festival-starts-at: 2017-09-16 16:00:00 Z
+festival-starts-at: 2017-09-16 15:30:00 Z
 show-starts-at: 2017-09-16 17:00:00 Z
 ticket-price: "£20 - £25"
 ticket-link: http://www.seetickets.com/
