@@ -3,6 +3,11 @@ title: Greenwich Comedy Festival 2017
 position: 0
 image: "/assets/img/og-image.png"
 carousel:
+- name: Dylan Moran
+  image: "/uploads/dylan-moran-feature.jpg"
+  subheader: Jokes as sharp as barbed wire and a comedy brain quicker than a steel trap - The Scotsman
+  is-sold-out: false
+  line-up: Saturday Mid
 - name: Dara Ó Briain
   image: "/uploads/dara-o-briain-feature-rev.jpg"
   subheader: A masterclass in intelligent, no-frills stand-up - The Guardian
