@@ -5,8 +5,6 @@ position: 4
 acts:
 - name: Dylan Moran
   image: "/uploads/dylan-moran.jpg"
-- name: Special Guest
-  image: "/uploads/placeholder.jpg"
 - name: Ivo Graham
   image: "/uploads/ivo-graham.jpg"
 - name: Ed Gamble
