@@ -1,6 +1,6 @@
 ---
 title: Sunday Late
-date: 2017-09-17 20:00:00 Z
+date: 2017-09-17 19:30:00 Z
 position: 5
 day: Sunday
 acts:
@@ -19,7 +19,7 @@ secondary-text: Joining Dara is an unmissable supporting cast with Comedian/Rapp
   Taskmaster star and bloody good entertainer Doc Brown, globe trotting story-weaver
   Glenn Wool and Kiwi comedy-hero Jarred Christmas as host.
 festival-starts-at: 2017-09-17 18:00:00 Z
-show-starts-at: 2017-09-17 20:00:00 Z
+show-starts-at: 2017-09-17 19:30:00 Z
 ticket-price: "£20 - £25"
 ticket-link: http://www.seetickets.com/
 is-sold-out: 
