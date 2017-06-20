@@ -25,7 +25,7 @@ general:
   text: |-
     Join our Front of House Team and get in on all the comedy action. You’ll be the first point of contact with our audience so good communication skills and a friendly attitude are a must. Working with our Front of House Manager you’ll be responsible for getting everyone to the right place at the right time, making sure the shows run on time and keeping the venues running smoothly. You should be confident, good with people, alert and interested in the festival you’re representing. This role is very active and a lot of fun, you should enjoy dealing with lots of people and manage all this with a level head. This is an unpaid volunteer role. You will be given food vouchers to use at our street-food stalls and as many (non-alcoholic) drinks as you need.
 
-    You will be expected to work at least four shifts throughout the festival (13th to 14th Sept). Each shift lasts about four hours with breaks. You must be over 16.
+    You will be expected to work at least four shifts throughout the festival (13th to 17th Sept). Each shift lasts about four hours with breaks. You must be over 16.
 
     If you’re interested please send your name and contact details to hannah@57festivals.com with FRONT OF HOUSE TEAM in the subject line.
 layout: info
