@@ -18,8 +18,8 @@ quote-cite: The Guardian
 secondary-text: Joining Adam is an astounding supporting cast with Live At The Apollo
   & Qi’s ‘laughter-master’ Stephen K Amos, Radio 4 favourite Shappi Khorsandi and
   the simply brilliant Mark Olver as host.
-festival-starts-at: 2017-09-17 15:00:00 Z
-show-starts-at: 2017-09-17 16:30:00 Z
+festival-starts-at: 2017-09-17 14:45:00 Z
+show-starts-at: 2017-09-17 15:45:00 Z
 ticket-price: "£20 - £25"
 ticket-link: http://www.seetickets.com/
 is-sold-out: 
