@@ -712,6 +712,12 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/about.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/about.html",
+		"oF": 0
+		},
 	"\/about.md": {
 		"cS": 0,
 		"eF": 1,
