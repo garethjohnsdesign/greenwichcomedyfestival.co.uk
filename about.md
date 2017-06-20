@@ -6,8 +6,8 @@ images:
 - "/uploads/gallery-02.jpg"
 - "/uploads/gallery-03.jpg"
 - "/uploads/gallery-04.jpg"
-- "/uploads/gallery-05.jpg"
 - "/uploads/gallery-06.jpg"
+- "/uploads/Gallery-07.jpg"
 layout: about
 ---
 
