@@ -15,7 +15,7 @@ quote: It is rare for a comic to merit the word “masterful” but in this case
   no overstatement
 quote-cite: Scotsman
 secondary-text: Joining Ed is Live At The Apollo star and observational king-slacker
-  Seann Walsh, 8 Out Of 10 Cats Does Countdown star Dane Baptiste and champion story-weaver
+  Seann Walsh, 8 Out Of 10 Cats Does Countdown's Dane Baptiste and champion story-weaver
   Carl Donnelly as host.
 festival-starts-at: 2017-09-16 18:00:00 Z
 show-starts-at: 2017-09-16 20:15:00 Z
@@ -25,4 +25,4 @@ is-sold-out:
 layout: event
 ---
 
-Rich Hall’s critically acclaimed grouchy, deadpan style has established him as a master of absurdist irony and the king of rapid-fire wit. The award-winning Qi regular, world-renowned for his expertly crafted tirades and quick fire banter with audiences now saddles up and heads to the Comedy Garden.
+Observational comedy master Ed Byrne returns to Greenwich Comedy Festival. Join the wildly acclaimed Mock The Week and Have I Got News For You star as he headlines an all-star night in the Big Top.
