@@ -39,12 +39,12 @@ featured:
   image: "/uploads/sara-pascoe.jpg"
   subheader: 
   is-sold-out: 
-  line-up: Saturday Mid
+  line-up: Saturday Early
 - name: David O'Doherty
   image: "/uploads/david-o-doherty.jpg"
   subheader: 
   is-sold-out: 
-  line-up: Saturday Mid
+  line-up: Saturday Early
 - name: Doc Brown
   image: "/uploads/doc-brown.jpg"
   subheader: 
@@ -54,7 +54,7 @@ featured:
   image: "/uploads/tim-key.jpg"
   subheader: 
   is-sold-out: 
-  line-up: Saturday Mid
+  line-up: Saturday Early
 - name: Shappi Khorsandi
   image: "/uploads/shappi-khorsandi.jpg"
   subheader: 
