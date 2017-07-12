@@ -16,8 +16,8 @@ quote-cite: The Times
 secondary-text: Joining Joe is quadruple Edinburgh Comedy Award nominee and Mock The
   Week regular James Acaster, Live At The Apollo star Ellie Taylor and all round dude
   (and podcast wonder) John Robins as host.
-festival-starts-at: 2017-09-14 18:00:00 Z
-show-starts-at: 2017-09-14 19:30:00 Z
+festival-starts-at: 2017-09-13 18:00:00 Z
+show-starts-at: 2017-09-13 19:30:00 Z
 ticket-price: "£20 - £25"
 ticket-link: http://www.seetickets.com/event/joe-lycett/national-maritime-museum/1121015/
 is-sold-out: 
