@@ -22,4 +22,4 @@ is-sold-out:
 layout: event
 ---
 
-Spellbinding & brilliantly unpredictable multi-award winning US star Reginald D Hunter headlines the opening night of Greenwich Comedy Festival. Star of Live At The Apollo, Qi, Have I Got News For You & many more, Reg’s searingly honest and hilarious material has garnered him a popular fanbase that spans the generations
+Spellbinding & brilliantly unpredictable multi-award winning US star Reginald D Hunter headlines the opening night of Greenwich Comedy Festival. Star of Live At The Apollo, Qi, Have I Got News For You & many more, Reg’s searingly honest and hilarious material has garnered him a popular fanbase that spans the generations.
