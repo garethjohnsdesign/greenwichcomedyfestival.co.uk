@@ -45,11 +45,11 @@ featured:
   subheader: 
   is-sold-out: 
   line-up: Saturday Early
-- name: Doc Brown
-  image: "/uploads/doc-brown.jpg"
+- name: Reginald D Hunter
+  image: "/uploads/reginald-d-hunter.jpg"
   subheader: 
   is-sold-out: 
-  line-up: Sunday Late
+  line-up: Wednesday
 - name: Tim Key
   image: "/uploads/tim-key.jpg"
   subheader: 
