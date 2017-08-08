@@ -35,8 +35,8 @@ featured:
   subheader: 
   is-sold-out: false
   line-up: Thursday
-- name: Sara Pascoe
-  image: "/uploads/sara-pascoe.jpg"
+- name: Bridget Christie
+  image: "/uploads/bridget-christie.jpg"
   subheader: 
   is-sold-out: 
   line-up: Saturday Early
