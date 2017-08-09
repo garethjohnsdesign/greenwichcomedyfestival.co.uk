@@ -39,7 +39,7 @@ featured:
   image: "/uploads/bridget-christie.jpg"
   subheader: 
   is-sold-out: 
-  line-up: Saturday Early
+  line-up: Saturday Mid
 - name: David O'Doherty
   image: "/uploads/david-o-doherty.jpg"
   subheader: 
