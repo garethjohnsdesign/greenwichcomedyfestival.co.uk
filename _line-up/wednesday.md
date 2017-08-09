@@ -5,15 +5,17 @@ position: 1
 acts:
 - name: Reginald D Hunter
   image: "/uploads/reginald-d-hunter.jpg"
+- name: Ellie Taylor
+  image: "/uploads/ellie-taylor.jpg"
 - name: Tom Allen
   image: "/uploads/tom-allen.jpg"
 - name: Kiri Pritchard-Mclean
   image: "/uploads/kiri-pritchard-mclean.jpg"
 quote: Simply exhilarating…This is comedy of a rare scope
 quote-cite: The Times
-secondary-text: Joining Reginald is a special guest to be announced plus the dazzlingly
-  funny, 8 Out Of 10 Cats Does Countdown favourite and Channel 4’s Comedy Gala star
-  Tom Allen & the whip-smart brilliance of Kiri Pritchard Mclean as host.
+secondary-text: Joining Reginald is Live At The Apollo star Ellie Taylor plus the
+  dazzlingly funny, 8 Out Of 10 Cats Does Countdown favourite and Channel 4’s Comedy
+  Gala star Tom Allen & the whip-smart brilliance of Kiri Pritchard Mclean as host.
 festival-starts-at: 2017-09-13 18:00:00 Z
 show-starts-at: 2017-09-13 19:30:00 Z
 ticket-price: "£20 - £25"
