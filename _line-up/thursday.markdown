@@ -7,13 +7,15 @@ acts:
   image: "/uploads/joe-lycett.jpg"
 - name: James Acaster
   image: "/uploads/james-acaster.jpg"
+- name: Suzi Ruffell
+  image: "/uploads/suzi-ruffell.jpg"
 - name: John Robins
   image: "/uploads/john-robins.jpg"
 quote: If he continues this way, Lycett will become one of mainstream’s biggest names
 quote-cite: The Times
 secondary-text: Joining Joe is quadruple Edinburgh Comedy Award nominee and Mock The
-  Week regular James Acaster, a special guest to be announced and all round dude (and
-  podcast wonder) John Robins as host.
+  Week regular James Acaster, the brilliant Suzi Ruffell and all round dude (and podcast
+  wonder) John Robins as host.
 festival-starts-at: 2017-09-14 18:00:00 Z
 show-starts-at: 2017-09-14 19:30:00 Z
 ticket-price: "£20 - £25"
