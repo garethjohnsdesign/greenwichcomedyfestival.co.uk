@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://greenwichcomedyfestival.co.uk/line-up/wednesday/</loc>
+<lastmod>2017-09-13T19:30:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://greenwichcomedyfestival.co.uk/line-up/thursday/</loc>
 <lastmod>2017-09-14T19:30:00+00:00</lastmod>
 </url>
@@ -29,6 +33,9 @@
 <lastmod>2017-09-17T19:30:00+00:00</lastmod>
 </url>
 <url>
+<loc>http://greenwichcomedyfestival.co.uk/404.html</loc>
+</url>
+<url>
 <loc>http://greenwichcomedyfestival.co.uk/about/</loc>
 </url>
 <url>
@@ -48,6 +55,6 @@
 </url>
 <url>
 <loc>http://greenwichcomedyfestival.co.uk/about.html</loc>
-<lastmod>2017-06-20T20:49:20+00:00</lastmod>
+<lastmod>2017-07-12T20:53:05+00:00</lastmod>
 </url>
 </urlset>

@@ -37,8 +37,6 @@ gems:
 - jekyll-seo-tag
 - jekyll-sitemap
 - jekyll-feed
-- jekyll-default-layout
-- jekyll-mentions
 markdown: kramdown
 kramdown:
   input: GFM

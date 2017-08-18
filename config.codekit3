@@ -4,10 +4,10 @@
 	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
-		"uuidString": "550FEDE5-7AFF-4FD3-8DBE-A45DE2D02921"
+		"uuidString": "8B78AFED-40E6-475F-BE72-1607B1ED6ADD"
 		}
 	],
-"creatorBuild": "25813",
+"creatorBuild": "25849",
 "files": {
 	"\/404.md": {
 		"cS": 0,
@@ -41,7 +41,7 @@
 		},
 	"\/_includes\/analytics.html": {
 		"ft": 8192,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/_includes\/analytics.html",
 		"oF": 0
 		},
@@ -89,7 +89,7 @@
 		},
 	"\/_includes\/scripts.html": {
 		"ft": 8192,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/_includes\/scripts.html",
 		"oF": 0
 		},
@@ -161,13 +161,13 @@
 		},
 	"\/_layouts\/page.html": {
 		"ft": 8192,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/_layouts\/page.html",
 		"oF": 0
 		},
 	"\/_layouts\/post.html": {
 		"ft": 8192,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/_layouts\/post.html",
 		"oF": 0
 		},
@@ -219,11 +219,974 @@
 		"oAP": "\/_line-up\/thursday.markdown",
 		"oF": 0
 		},
-	"\/_site": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "\/build\/_site",
+	"\/_line-up\/wednesday.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/_line-up\/wednesday.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/_site\/404.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/404.html",
 		"oF": 0
+		},
+	"\/_site\/about.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/about.html",
+		"oF": 0
+		},
+	"\/_site\/about\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/about\/index.html",
+		"oF": 0
+		},
+	"\/_site\/assets\/css\/app.css.map": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/css\/app.css.map",
+		"oF": 0
+		},
+	"\/_site\/assets\/favicons\/android-chrome-192x192.png": {
+		"ft": 32768,
+		"iS": 321,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/favicons\/android-chrome-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/assets\/favicons\/android-chrome-256x256.png": {
+		"ft": 32768,
+		"iS": 1084,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/favicons\/android-chrome-256x256.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/assets\/favicons\/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 304,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/favicons\/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/assets\/favicons\/browserconfig.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/favicons\/browserconfig.xml",
+		"oF": 0
+		},
+	"\/_site\/assets\/favicons\/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 592,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/favicons\/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/assets\/favicons\/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 599,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/favicons\/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/assets\/favicons\/favicon.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/favicons\/favicon.ico",
+		"oF": 0
+		},
+	"\/_site\/assets\/favicons\/manifest.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/_site\/assets\/favicons\/manifest-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/_site\/assets\/favicons\/mstile-150x150.png": {
+		"ft": 32768,
+		"iS": 598,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/favicons\/mstile-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/assets\/favicons\/safari-pinned-tab.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/favicons\/safari-pinned-tab.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/assets\/fonts\/Gallery.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/fonts\/Gallery.eot",
+		"oF": 0
+		},
+	"\/_site\/assets\/fonts\/Gallery.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/fonts\/Gallery.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/assets\/fonts\/Gallery.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/fonts\/Gallery.ttf",
+		"oF": 0
+		},
+	"\/_site\/assets\/fonts\/Gallery.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/fonts\/Gallery.woff",
+		"oF": 0
+		},
+	"\/_site\/assets\/fonts\/Larsseit.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/fonts\/Larsseit.eot",
+		"oF": 0
+		},
+	"\/_site\/assets\/fonts\/Larsseit.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/fonts\/Larsseit.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/assets\/fonts\/Larsseit.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/fonts\/Larsseit.ttf",
+		"oF": 0
+		},
+	"\/_site\/assets\/fonts\/Larsseit.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/fonts\/Larsseit.woff",
+		"oF": 0
+		},
+	"\/_site\/assets\/fonts\/Raisonne-DemiBold.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/fonts\/Raisonne-DemiBold.eot",
+		"oF": 0
+		},
+	"\/_site\/assets\/fonts\/Raisonne-DemiBold.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/fonts\/Raisonne-DemiBold.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/assets\/fonts\/Raisonne-DemiBold.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/fonts\/Raisonne-DemiBold.ttf",
+		"oF": 0
+		},
+	"\/_site\/assets\/fonts\/Raisonne-DemiBold.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/fonts\/Raisonne-DemiBold.woff",
+		"oF": 0
+		},
+	"\/_site\/assets\/fonts\/Wigrum-Medium.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/fonts\/Wigrum-Medium.eot",
+		"oF": 0
+		},
+	"\/_site\/assets\/fonts\/Wigrum-Medium.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/fonts\/Wigrum-Medium.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/assets\/fonts\/Wigrum-Medium.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/fonts\/Wigrum-Medium.ttf",
+		"oF": 0
+		},
+	"\/_site\/assets\/fonts\/Wigrum-Medium.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/fonts\/Wigrum-Medium.woff",
+		"oF": 0
+		},
+	"\/_site\/assets\/icons\/symbol-defs.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/icons\/symbol-defs.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/assets\/img\/logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/_site\/assets\/img\/logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/_site\/assets\/img\/og-image.png": {
+		"ft": 32768,
+		"iS": 66690,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/img\/og-image.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/assets\/js\/app.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/js\/min\/app-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/_site\/assets\/js\/min\/app-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/js\/min\/min\/app-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/_site\/assets\/js\/min\/svgxuse-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/js\/min\/min\/svgxuse-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/_site\/assets\/js\/svgxuse.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/js\/min\/svgxuse-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/_site\/assets\/scss\/app.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/_site\/assets\/css\/app.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/_site\/feed.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/feed.xml",
+		"oF": 0
+		},
+	"\/_site\/humans.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/humans.txt",
+		"oF": 0
+		},
+	"\/_site\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/index.html",
+		"oF": 0
+		},
+	"\/_site\/info\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/info\/index.html",
+		"oF": 0
+		},
+	"\/_site\/line-up\/friday\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/line-up\/friday\/index.html",
+		"oF": 0
+		},
+	"\/_site\/line-up\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/line-up\/index.html",
+		"oF": 0
+		},
+	"\/_site\/line-up\/saturday-early\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/line-up\/saturday-early\/index.html",
+		"oF": 0
+		},
+	"\/_site\/line-up\/saturday-late\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/line-up\/saturday-late\/index.html",
+		"oF": 0
+		},
+	"\/_site\/line-up\/saturday-mid\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/line-up\/saturday-mid\/index.html",
+		"oF": 0
+		},
+	"\/_site\/line-up\/sunday-late\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/line-up\/sunday-late\/index.html",
+		"oF": 0
+		},
+	"\/_site\/line-up\/sunday-mid\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/line-up\/sunday-mid\/index.html",
+		"oF": 0
+		},
+	"\/_site\/line-up\/thursday\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/line-up\/thursday\/index.html",
+		"oF": 0
+		},
+	"\/_site\/line-up\/wednesday\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/line-up\/wednesday\/index.html",
+		"oF": 0
+		},
+	"\/_site\/location\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/location\/index.html",
+		"oF": 0
+		},
+	"\/_site\/robots.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/robots.txt",
+		"oF": 0
+		},
+	"\/_site\/sitemap.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/sitemap.xml",
+		"oF": 0
+		},
+	"\/_site\/tickets\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_site\/tickets\/index.html",
+		"oF": 0
+		},
+	"\/_site\/uploads\/adam-hills-feature.jpg": {
+		"ft": 16384,
+		"iS": 72171,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/adam-hills-feature.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/adam-hills.jpg": {
+		"ft": 16384,
+		"iS": 36255,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/adam-hills.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/alan-davies-feature.jpg": {
+		"ft": 16384,
+		"iS": 108582,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/alan-davies-feature.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/alan-davies.jpg": {
+		"ft": 16384,
+		"iS": 73108,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/alan-davies.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/andrew-maxwell.jpg": {
+		"ft": 16384,
+		"iS": 81163,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/andrew-maxwell.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/bottom-artwork-v2.png": {
+		"ft": 32768,
+		"iS": 143730,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/bottom-artwork-v2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/uploads\/bottom-artwork-v3.png": {
+		"ft": 32768,
+		"iS": 112006,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/bottom-artwork-v3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/uploads\/bottom-artwork.png": {
+		"ft": 32768,
+		"iS": 196562,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/bottom-artwork.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/uploads\/bridget-christie.jpg": {
+		"ft": 16384,
+		"iS": 158522,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/bridget-christie.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/carl-donnelly.jpg": {
+		"ft": 16384,
+		"iS": 61270,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/carl-donnelly.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/dane-baptiste.jpg": {
+		"ft": 16384,
+		"iS": 48837,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/dane-baptiste.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/dara-o-briain-feature-rev.jpg": {
+		"ft": 16384,
+		"iS": 102101,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/dara-o-briain-feature-rev.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/dara-o-briain-feature.jpg": {
+		"ft": 16384,
+		"iS": 156416,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/dara-o-briain-feature.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/dara-o-briain.jpg": {
+		"ft": 16384,
+		"iS": 28138,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/dara-o-briain.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/david-o-doherty.jpg": {
+		"ft": 16384,
+		"iS": 80839,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/david-o-doherty.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/doc-brown.jpg": {
+		"ft": 16384,
+		"iS": 106346,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/doc-brown.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/dylan-moran-feature.jpg": {
+		"ft": 16384,
+		"iS": 181202,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/dylan-moran-feature.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/dylan-moran.jpg": {
+		"ft": 16384,
+		"iS": 62465,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/dylan-moran.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/ed-byrne-feature.jpg": {
+		"ft": 16384,
+		"iS": 151669,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/ed-byrne-feature.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/ed-byrne.jpg": {
+		"ft": 16384,
+		"iS": 88602,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/ed-byrne.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/ed-gamble-v2.jpg": {
+		"ft": 16384,
+		"iS": 67088,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/ed-gamble-v2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/ed-gamble.jpg": {
+		"ft": 16384,
+		"iS": 54623,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/ed-gamble.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/ellie-taylor.jpg": {
+		"ft": 16384,
+		"iS": 29820,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/ellie-taylor.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/gallery-01.jpg": {
+		"ft": 16384,
+		"iS": 70895,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/gallery-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/gallery-02.jpg": {
+		"ft": 16384,
+		"iS": 59053,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/gallery-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/gallery-03.jpg": {
+		"ft": 16384,
+		"iS": 57085,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/gallery-03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/gallery-04.jpg": {
+		"ft": 16384,
+		"iS": 256101,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/gallery-04.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/gallery-05.jpg": {
+		"ft": 16384,
+		"iS": 231294,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/gallery-05.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/gallery-06.jpg": {
+		"ft": 16384,
+		"iS": 135180,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/gallery-06.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/Gallery-07.jpg": {
+		"ft": 16384,
+		"iS": 1264976,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/Gallery-07.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/glenn-wool.jpg": {
+		"ft": 16384,
+		"iS": 82840,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/glenn-wool.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/ivo-graham.jpg": {
+		"ft": 16384,
+		"iS": 75471,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/ivo-graham.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/james-acaster.jpg": {
+		"ft": 16384,
+		"iS": 63745,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/james-acaster.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/jarred-christmas.jpg": {
+		"ft": 16384,
+		"iS": 63396,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/jarred-christmas.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/joe-lycett.jpg": {
+		"ft": 16384,
+		"iS": 58992,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/joe-lycett.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/john-robins.jpg": {
+		"ft": 16384,
+		"iS": 47186,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/john-robins.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/kerry-godliman.jpg": {
+		"ft": 16384,
+		"iS": 68121,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/kerry-godliman.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/kiri-pritchard-mclean.jpg": {
+		"ft": 16384,
+		"iS": 194154,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/kiri-pritchard-mclean.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/mark-olver.jpg": {
+		"ft": 16384,
+		"iS": 62469,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/mark-olver.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/nish-kumar.jpg": {
+		"ft": 16384,
+		"iS": 70034,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/nish-kumar.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/placeholder.jpg": {
+		"ft": 16384,
+		"iS": 7173,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/placeholder.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/reginald-d-hunter.jpg": {
+		"ft": 16384,
+		"iS": 187946,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/reginald-d-hunter.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/sara-pascoe.jpg": {
+		"ft": 16384,
+		"iS": 87022,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/sara-pascoe.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/seann-walsh.jpg": {
+		"ft": 16384,
+		"iS": 43988,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/seann-walsh.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/shappi-khorsandi.jpg": {
+		"ft": 16384,
+		"iS": 98751,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/shappi-khorsandi.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/stephen-k-amos.jpg": {
+		"ft": 16384,
+		"iS": 60885,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/stephen-k-amos.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/suzi-ruffell.jpg": {
+		"ft": 16384,
+		"iS": 122234,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/suzi-ruffell.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/tim-key.jpg": {
+		"ft": 16384,
+		"iS": 62405,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/tim-key.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/tom-allen.jpg": {
+		"ft": 16384,
+		"iS": 114813,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/tom-allen.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_site\/uploads\/top-artwork-v2.png": {
+		"ft": 32768,
+		"iS": 97652,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/top-artwork-v2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/uploads\/top-artwork-v3.png": {
+		"ft": 32768,
+		"iS": 109852,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/top-artwork-v3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/uploads\/top-artwork-v4.png": {
+		"ft": 32768,
+		"iS": 126720,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/top-artwork-v4.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_site\/uploads\/top-artwork.png": {
+		"ft": 32768,
+		"iS": 77488,
+		"oA": 0,
+		"oAP": "\/_site\/uploads\/top-artwork.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/_uploads\/adam-hills-feature.jpg": {
 		"ft": 16384,
@@ -247,12 +1210,12 @@
 		},
 	"\/_uploads\/alan-davies-feature.jpg": {
 		"ft": 16384,
-		"iS": 129965,
+		"iS": 108582,
 		"oA": 0,
 		"oAP": "\/_uploads\/alan-davies-feature.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/_uploads\/alan-davies.jpg": {
@@ -277,35 +1240,45 @@
 		},
 	"\/_uploads\/bottom-artwork-v2.png": {
 		"ft": 32768,
-		"iS": 0,
+		"iS": 143730,
 		"oA": 0,
 		"oAP": "\/_uploads\/bottom-artwork-v2.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
 	"\/_uploads\/bottom-artwork-v3.png": {
 		"ft": 32768,
-		"iS": 138591,
+		"iS": 112006,
 		"oA": 0,
 		"oAP": "\/_uploads\/bottom-artwork-v3.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
 	"\/_uploads\/bottom-artwork.png": {
 		"ft": 32768,
-		"iS": 0,
+		"iS": 196562,
 		"oA": 0,
 		"oAP": "\/_uploads\/bottom-artwork.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"\/_uploads\/bridget-christie.jpg": {
+		"ft": 16384,
+		"iS": 158522,
+		"oA": 0,
+		"oAP": "\/_uploads\/bridget-christie.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/_uploads\/carl-donnelly.jpg": {
@@ -330,12 +1303,12 @@
 		},
 	"\/_uploads\/dara-o-briain-feature-rev.jpg": {
 		"ft": 16384,
-		"iS": 134416,
+		"iS": 102101,
 		"oA": 0,
 		"oAP": "\/_uploads\/dara-o-briain-feature-rev.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/_uploads\/dara-o-briain-feature.jpg": {
@@ -400,12 +1373,12 @@
 		},
 	"\/_uploads\/ed-byrne-feature.jpg": {
 		"ft": 16384,
-		"iS": 178173,
+		"iS": 151669,
 		"oA": 0,
 		"oAP": "\/_uploads\/ed-byrne-feature.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/_uploads\/ed-byrne.jpg": {
@@ -440,12 +1413,12 @@
 		},
 	"\/_uploads\/ellie-taylor.jpg": {
 		"ft": 16384,
-		"iS": 70043,
+		"iS": 29820,
 		"oA": 0,
 		"oAP": "\/_uploads\/ellie-taylor.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/_uploads\/gallery-01.jpg": {
@@ -588,6 +1561,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_uploads\/kiri-pritchard-mclean.jpg": {
+		"ft": 16384,
+		"iS": 194154,
+		"oA": 0,
+		"oAP": "\/_uploads\/kiri-pritchard-mclean.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_uploads\/mark-olver.jpg": {
 		"ft": 16384,
 		"iS": 62469,
@@ -613,6 +1596,16 @@
 		"iS": 7173,
 		"oA": 0,
 		"oAP": "\/_uploads\/placeholder.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/reginald-d-hunter.jpg": {
+		"ft": 16384,
+		"iS": 187946,
+		"oA": 0,
+		"oAP": "\/_uploads\/reginald-d-hunter.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -658,6 +1651,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_uploads\/suzi-ruffell.jpg": {
+		"ft": 16384,
+		"iS": 122234,
+		"oA": 0,
+		"oAP": "\/_uploads\/suzi-ruffell.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_uploads\/tim-key.jpg": {
 		"ft": 16384,
 		"iS": 62405,
@@ -668,14 +1671,24 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_uploads\/tom-allen.jpg": {
+		"ft": 16384,
+		"iS": 114813,
+		"oA": 0,
+		"oAP": "\/_uploads\/tom-allen.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_uploads\/top-artwork-v2.png": {
 		"ft": 32768,
-		"iS": 109852,
+		"iS": 97652,
 		"oA": 0,
 		"oAP": "\/_uploads\/top-artwork-v2.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -703,12 +1716,12 @@
 		},
 	"\/_uploads\/top-artwork.png": {
 		"ft": 32768,
-		"iS": 86135,
+		"iS": 77488,
 		"oA": 0,
 		"oAP": "\/_uploads\/top-artwork.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -737,14 +1750,14 @@
 		"uCM": 0
 		},
 	"\/assets\/css\/app.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 2,
-		"oAP": "\/assets\/css\/app-ck.css",
+		"oA": 0,
+		"oAP": "\/assets\/css\/app-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/assets\/css\/app.css.map": {
 		"ft": 8192,
@@ -754,7 +1767,7 @@
 		},
 	"\/assets\/favicons\/android-chrome-192x192.png": {
 		"ft": 32768,
-		"iS": 641,
+		"iS": 321,
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/android-chrome-192x192.png",
 		"oF": 0,
@@ -776,7 +1789,7 @@
 		},
 	"\/assets\/favicons\/apple-touch-icon.png": {
 		"ft": 32768,
-		"iS": 521,
+		"iS": 304,
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/apple-touch-icon.png",
 		"oF": 0,
@@ -793,7 +1806,7 @@
 		},
 	"\/assets\/favicons\/favicon-16x16.png": {
 		"ft": 32768,
-		"iS": 362,
+		"iS": 592,
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/favicon-16x16.png",
 		"oF": 0,
@@ -804,7 +1817,7 @@
 		},
 	"\/assets\/favicons\/favicon-32x32.png": {
 		"ft": 32768,
-		"iS": 369,
+		"iS": 599,
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/favicon-32x32.png",
 		"oF": 0,
@@ -982,12 +1995,12 @@
 		},
 	"\/assets\/img\/og-image.png": {
 		"ft": 32768,
-		"iS": 14790,
+		"iS": 66690,
 		"oA": 0,
 		"oAP": "\/assets\/img\/og-image.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1184,7 +2197,7 @@
 		"uL": 1
 		},
 	"\/assets\/scss\/app.scss": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -1193,7 +2206,7 @@
 		"oA": 0,
 		"oAP": "\/assets\/css\/app.css",
 		"oF": 0,
-		"oS": 3,
+		"oS": 0,
 		"uL": 1
 		},
 	"\/bower.json": {
@@ -1221,24 +2234,24 @@
 		"oS": 1
 		},
 	"\/bower_components\/animate.css\/animate.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/animate.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/animate.min.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/animate.min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/bower.json": {
 		"ft": 524288,
@@ -1272,774 +2285,774 @@
 		"oS": 1
 		},
 	"\/bower_components\/animate.css\/source\/_base.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/bower_components\/animate.css\/source\/_base.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/attention_seekers\/bounce.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/attention_seekers\/bounce.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/attention_seekers\/flash.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/attention_seekers\/flash.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/attention_seekers\/headShake.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/attention_seekers\/headShake.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/attention_seekers\/jello.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/attention_seekers\/jello.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/attention_seekers\/pulse.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/attention_seekers\/pulse.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/attention_seekers\/rubberBand.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/attention_seekers\/rubberBand.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/attention_seekers\/shake.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/attention_seekers\/shake.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/attention_seekers\/swing.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/attention_seekers\/swing.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/attention_seekers\/tada.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/attention_seekers\/tada.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/attention_seekers\/wobble.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/attention_seekers\/wobble.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/bouncing_entrances\/bounceIn.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/bouncing_entrances\/bounceIn.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/bouncing_entrances\/bounceInDown.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/bouncing_entrances\/bounceInDown.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/bouncing_entrances\/bounceInLeft.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/bouncing_entrances\/bounceInLeft.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/bouncing_entrances\/bounceInRight.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/bouncing_entrances\/bounceInRight.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/bouncing_entrances\/bounceInUp.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/bouncing_entrances\/bounceInUp.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/bouncing_exits\/bounceOut.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/bouncing_exits\/bounceOut.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/bouncing_exits\/bounceOutDown.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/bouncing_exits\/bounceOutDown.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/bouncing_exits\/bounceOutLeft.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/bouncing_exits\/bounceOutLeft.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/bouncing_exits\/bounceOutRight.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/bouncing_exits\/bounceOutRight.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/bouncing_exits\/bounceOutUp.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/bouncing_exits\/bounceOutUp.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/fading_entrances\/fadeIn.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/fading_entrances\/fadeIn.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/fading_entrances\/fadeInDown.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/fading_entrances\/fadeInDown.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/fading_entrances\/fadeInDownBig.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/fading_entrances\/fadeInDownBig.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/fading_entrances\/fadeInLeft.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/fading_entrances\/fadeInLeft.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/fading_entrances\/fadeInLeftBig.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/fading_entrances\/fadeInLeftBig.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/fading_entrances\/fadeInRight.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/fading_entrances\/fadeInRight.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/fading_entrances\/fadeInRightBig.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/fading_entrances\/fadeInRightBig.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/fading_entrances\/fadeInUp.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/fading_entrances\/fadeInUp.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/fading_entrances\/fadeInUpBig.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/fading_entrances\/fadeInUpBig.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/fading_exits\/fadeOut.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/fading_exits\/fadeOut.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/fading_exits\/fadeOutDown.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/fading_exits\/fadeOutDown.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/fading_exits\/fadeOutDownBig.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/fading_exits\/fadeOutDownBig.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/fading_exits\/fadeOutLeft.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/fading_exits\/fadeOutLeft.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/fading_exits\/fadeOutLeftBig.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/fading_exits\/fadeOutLeftBig.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/fading_exits\/fadeOutRight.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/fading_exits\/fadeOutRight.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/fading_exits\/fadeOutRightBig.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/fading_exits\/fadeOutRightBig.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/fading_exits\/fadeOutUp.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/fading_exits\/fadeOutUp.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/fading_exits\/fadeOutUpBig.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/fading_exits\/fadeOutUpBig.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/flippers\/flip.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/flippers\/flip.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/flippers\/flipInX.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/flippers\/flipInX.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/flippers\/flipInY.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/flippers\/flipInY.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/flippers\/flipOutX.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/flippers\/flipOutX.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/flippers\/flipOutY.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/flippers\/flipOutY.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/lightspeed\/lightSpeedIn.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/lightspeed\/lightSpeedIn.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/lightspeed\/lightSpeedOut.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/lightspeed\/lightSpeedOut.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/rotating_entrances\/rotateIn.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/rotating_entrances\/rotateIn.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/rotating_entrances\/rotateInDownLeft.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/rotating_entrances\/rotateInDownLeft.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/rotating_entrances\/rotateInDownRight.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/rotating_entrances\/rotateInDownRight.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/rotating_entrances\/rotateInUpLeft.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/rotating_entrances\/rotateInUpLeft.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/rotating_entrances\/rotateInUpRight.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/rotating_entrances\/rotateInUpRight.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/rotating_exits\/rotateOut.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/rotating_exits\/rotateOut.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/rotating_exits\/rotateOutDownLeft.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/rotating_exits\/rotateOutDownLeft.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/rotating_exits\/rotateOutDownRight.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/rotating_exits\/rotateOutDownRight.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/rotating_exits\/rotateOutUpLeft.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/rotating_exits\/rotateOutUpLeft.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/rotating_exits\/rotateOutUpRight.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/rotating_exits\/rotateOutUpRight.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/sliding_entrances\/slideInDown.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/sliding_entrances\/slideInDown.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/sliding_entrances\/slideInLeft.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/sliding_entrances\/slideInLeft.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/sliding_entrances\/slideInRight.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/sliding_entrances\/slideInRight.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/sliding_entrances\/slideInUp.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/sliding_entrances\/slideInUp.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/sliding_exits\/slideOutDown.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/sliding_exits\/slideOutDown.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/sliding_exits\/slideOutLeft.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/sliding_exits\/slideOutLeft.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/sliding_exits\/slideOutRight.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/sliding_exits\/slideOutRight.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/sliding_exits\/slideOutUp.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/sliding_exits\/slideOutUp.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/specials\/hinge.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/specials\/hinge.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/specials\/rollIn.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/specials\/rollIn.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/specials\/rollOut.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/specials\/rollOut.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/zooming_entrances\/zoomIn.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/zooming_entrances\/zoomIn.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/zooming_entrances\/zoomInDown.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/zooming_entrances\/zoomInDown.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/zooming_entrances\/zoomInLeft.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/zooming_entrances\/zoomInLeft.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/zooming_entrances\/zoomInRight.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/zooming_entrances\/zoomInRight.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/zooming_entrances\/zoomInUp.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/zooming_entrances\/zoomInUp.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/zooming_exits\/zoomOut.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/zooming_exits\/zoomOut.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/zooming_exits\/zoomOutDown.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/zooming_exits\/zoomOutDown.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/zooming_exits\/zoomOutLeft.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/zooming_exits\/zoomOutLeft.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/zooming_exits\/zoomOutRight.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/zooming_exits\/zoomOutRight.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/animate.css\/source\/zooming_exits\/zoomOutUp.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/animate.css\/source\/zooming_exits\/zoomOutUp.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/desandro-matches-selector\/.bower.json": {
 		"ft": 524288,
@@ -2195,39 +3208,39 @@
 		"oS": 1
 		},
 	"\/bower_components\/flickity\/css\/flickity.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/flickity\/css\/flickity.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/flickity\/dist\/flickity.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/flickity\/dist\/flickity.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/flickity\/dist\/flickity.min.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/flickity\/dist\/flickity.min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/flickity\/dist\/flickity.pkgd.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/bower_components\/flickity\/dist\/flickity.pkgd.js",
 		"oF": 0,
 		"sC": 1,
@@ -2672,64 +3685,64 @@
 		"oF": 0
 		},
 	"\/bower_components\/foundation-sites\/dist\/css\/foundation-flex.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/dist\/css\/foundation-flex.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/foundation-sites\/dist\/css\/foundation-flex.min.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/dist\/css\/foundation-flex.min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/foundation-sites\/dist\/css\/foundation-rtl.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/dist\/css\/foundation-rtl.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/foundation-sites\/dist\/css\/foundation-rtl.min.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/dist\/css\/foundation-rtl.min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/foundation-sites\/dist\/css\/foundation.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/dist\/css\/foundation.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/foundation-sites\/dist\/css\/foundation.min.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/dist\/css\/foundation.min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/foundation-sites\/dist\/js\/foundation.d.ts": {
 		"cDF": 0,
@@ -2751,7 +3764,7 @@
 	"\/bower_components\/foundation-sites\/dist\/js\/foundation.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/dist\/js\/foundation.js",
 		"oF": 0,
 		"sC": 1,
@@ -4631,7 +5644,7 @@
 	"\/bower_components\/jquery\/dist\/jquery.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/dist\/jquery.js",
 		"oF": 0,
 		"sC": 1,
@@ -6080,64 +7093,64 @@
 		"tS": 0
 		},
 	"\/bower_components\/lightgallery\/dist\/css\/lg-fb-comment-box.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/dist\/css\/lg-fb-comment-box.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/lightgallery\/dist\/css\/lg-fb-comment-box.min.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/dist\/css\/lg-fb-comment-box.min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/lightgallery\/dist\/css\/lg-transitions.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/dist\/css\/lg-transitions.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/lightgallery\/dist\/css\/lg-transitions.min.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/dist\/css\/lg-transitions.min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/lightgallery\/dist\/css\/lightgallery.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/dist\/css\/lightgallery.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/lightgallery\/dist\/css\/lightgallery.min.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/dist\/css\/lightgallery.min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/lightgallery\/dist\/fonts\/lg.eot": {
 		"ft": 8192,
@@ -6307,14 +7320,14 @@
 		"oS": 1
 		},
 	"\/bower_components\/lightgallery\/src\/css\/lg-fb-comment-box.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/src\/css\/lg-fb-comment-box.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/lightgallery\/src\/css\/lg-fb-comment-box.css.map": {
 		"ft": 8192,
@@ -6323,14 +7336,14 @@
 		"oF": 0
 		},
 	"\/bower_components\/lightgallery\/src\/css\/lg-transitions.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/src\/css\/lg-transitions.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/lightgallery\/src\/css\/lg-transitions.css.map": {
 		"ft": 8192,
@@ -6339,14 +7352,14 @@
 		"oF": 0
 		},
 	"\/bower_components\/lightgallery\/src\/css\/lightgallery.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/src\/css\/lightgallery.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/lightgallery\/src\/css\/lightgallery.css.map": {
 		"ft": 8192,
@@ -6685,33 +7698,33 @@
 		"oS": 1
 		},
 	"\/bower_components\/motion-ui\/dist\/motion-ui.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/motion-ui\/dist\/motion-ui.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/motion-ui\/dist\/motion-ui.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/bower_components\/motion-ui\/dist\/motion-ui.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/bower_components\/motion-ui\/dist\/motion-ui.min.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/motion-ui\/dist\/motion-ui.min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 3
 		},
 	"\/bower_components\/motion-ui\/dist\/motion-ui.min.js": {
 		"ft": 64,
@@ -7447,7 +8460,7 @@
 	"\/bower_components\/what-input\/dist\/what-input.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/bower_components\/what-input\/dist\/what-input.js",
 		"oF": 0,
 		"sC": 1,
@@ -7568,10 +8581,10 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 2,
-		"oAP": "\/CHANGELOG.md",
-		"oF": 1,
-		"oFM": 9,
+		"oA": 0,
+		"oAP": "\/CHANGELOG.html",
+		"oF": 0,
+		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
 		"pME": 1,
@@ -7640,9 +8653,9 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/LICENSE.html",
-		"oF": 1,
+		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -7702,9 +8715,9 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/README.html",
-		"oF": 1,
+		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -7740,50 +8753,12 @@
 "hooks": [
 	],
 "manualImportLinks": {
-	"\/assets\/js\/app.js": [
-		{
-			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "\/bower_components\/jquery\/dist\/jquery.js",
-			"position": 0,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "\/bower_components\/motion-ui\/dist\/motion-ui.js",
-			"position": 1,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "\/bower_components\/what-input\/dist\/what-input.js",
-			"position": 2,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "\/bower_components\/foundation-sites\/dist\/js\/foundation.js",
-			"position": 3,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "\/bower_components\/flickity\/dist\/flickity.pkgd.js",
-			"position": 4,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "\/bower_components\/lightgallery\/dist\/js\/lightgallery.js",
-			"position": 5,
-			"type": 0
-			}
-		]
 	},
 "projectAttributes": {
-	"creationDate": 499792706,
-	"displayValue": "Greenwich Comedy Festival 2017",
+	"creationDate": 524741519,
+	"displayValue": "Greenwich Comedy Festival",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "meme-ceiling"
+	"iconImageName": "meme-trap"
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -8037,7 +9012,7 @@
 	"bowerSaveDependencies": 1,
 	"bowerSaveDevDependencies": 0,
 	"bowerUseExactVersion": 0,
-	"browserRefreshDelay": 1,
+	"browserRefreshDelay": 0,
 	"buildFolderActive": 0,
 	"buildFolderName": "build",
 	"cleanBuild": 1,
@@ -8564,8 +9539,8 @@
 			"optionString": ""
 			},
 		"no-extra-parens": {
-			"active": 1,
-			"optionString": "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false}"
+			"active": 0,
+			"optionString": "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false, 'ignoreJSX': 'none'}"
 			},
 		"no-extra-semi": {
 			"active": 1,
@@ -8584,7 +9559,7 @@
 			"optionString": ""
 			},
 		"no-global-assign": {
-			"active": 0,
+			"active": 1,
 			"optionString": "{'exceptions': []}"
 			},
 		"no-implicit-coercion": {
@@ -8792,7 +9767,7 @@
 			"optionString": "{'props': false}"
 			},
 		"no-self-compare": {
-			"active": 1,
+			"active": 0,
 			"optionString": ""
 			},
 		"no-sequences": {
@@ -8820,7 +9795,7 @@
 			"optionString": ""
 			},
 		"no-template-curly-in-string": {
-			"active": 1,
+			"active": 0,
 			"optionString": ""
 			},
 		"no-ternary": {
@@ -8876,12 +9851,12 @@
 			"optionString": ""
 			},
 		"no-unsafe-negation": {
-			"active": 0,
+			"active": 1,
 			"optionString": ""
 			},
 		"no-unused-expressions": {
 			"active": 0,
-			"optionString": "{'allowShortCircuit': false, 'allowTernary': false}"
+			"optionString": "{'allowShortCircuit': false, 'allowTernary': false, 'allowTaggedTemplates': false}"
 			},
 		"no-unused-labels": {
 			"active": 1,
@@ -8889,18 +9864,18 @@
 			},
 		"no-unused-vars": {
 			"active": 1,
-			"optionString": "{'vars': 'all', 'args': 'after-used', 'caughtErrors': 'none'}"
+			"optionString": "{'vars': 'all', 'args': 'after-used', 'caughtErrors': 'none', 'ignoreRestSiblings': false}"
 			},
 		"no-use-before-define": {
 			"active": 0,
-			"optionString": "{'functions': true, 'classes': true}"
+			"optionString": "{'functions': true, 'classes': true, 'variables': true}"
 			},
 		"no-useless-call": {
 			"active": 0,
 			"optionString": ""
 			},
 		"no-useless-computed-key": {
-			"active": 1,
+			"active": 0,
 			"optionString": ""
 			},
 		"no-useless-concat": {
@@ -9021,7 +9996,7 @@
 			},
 		"quotes": {
 			"active": 0,
-			"optionString": "'double', 'avoid-escape'"
+			"optionString": "'double', {'avoidEscape': true, 'allowTemplateLiterals': true}"
 			},
 		"radix": {
 			"active": 0,
@@ -9033,10 +10008,10 @@
 			},
 		"require-jsdoc": {
 			"active": 0,
-			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false}}"
+			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false, 'ArrowFunctionExpression': false}}"
 			},
 		"require-yield": {
-			"active": 0,
+			"active": 1,
 			"optionString": ""
 			},
 		"rest-spread-spacing": {
@@ -9141,7 +10116,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "http:\/\/localhost:4000",
+	"externalServerAddress": "http:\/\/localhost:8888",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",
@@ -9506,15 +10481,15 @@
 		"syntaxCheckerStyle": 1
 		},
 	"languageDefaultsCSS": {
-		"autoOutputAction": 2,
-		"autoOutputPathFilenamePattern": "*-ck.css",
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*-min.css",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0
 		},
 	"languageDefaultsGIF": {
@@ -9575,8 +10550,8 @@
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.html",
 		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "",
-		"autoOutputPathReplace2": "",
+		"autoOutputPathReplace1": "kit",
+		"autoOutputPathReplace2": "html",
 		"autoOutputPathStyle": 0
 		},
 	"languageDefaultsLESS": {
@@ -9587,7 +10562,7 @@
 		"autoOutputPathReplace1": "less",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 2,
-		"createSourceMap": 0,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"ieCompatibility": 1,
 		"outputStyle": 0,
@@ -9719,8 +10694,9 @@
 		},
 	"languageDefaultsUserDefined": [
 		],
+	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
-	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules, \/_site",
+	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
 	"sourceFolderName": "source",
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
@@ -9845,7 +10821,7 @@
 			"flagValue": -1
 			},
 		"screw-ie8": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"semicolons": {
@@ -9890,7 +10866,7 @@
 			}
 		},
 	"uglifyReservedNamesString": "$",
-	"websiteRelativeRoot": "\/_site"
+	"websiteRelativeRoot": "_site\/"
 	},
 "settingsFileVersion": "3"
 }
