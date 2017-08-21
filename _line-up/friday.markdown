@@ -9,14 +9,14 @@ acts:
   image: "/uploads/kerry-godliman.jpg"
 - name: Nish Kumar
   image: "/uploads/nish-kumar.jpg"
-- name: Andrew Maxwell
-  image: "/uploads/andrew-maxwell.jpg"
+- name: Fin Taylor
+  image: "/uploads/fin-taylor.jpg"
 quote: One of the best Stand-up comics out there... packed with deft silliness and
   shrewd observation
 quote-cite: The Guardian
 secondary-text: Joining Alan is an astounding supporting cast with razor-sharp Live
   At The Apollo star Kerry Godliman, the wildly acclaimed Have I Got News For You
-  regular Nish Kumar and Irish rabble rouser Andrew Maxwell as host.
+  regular Nish Kumar and fast rising Fin Taylor as host.
 festival-starts-at: 2017-09-15 18:00:00 Z
 show-starts-at: 2017-09-15 19:30:00 Z
 ticket-price: "£20 - £25"
