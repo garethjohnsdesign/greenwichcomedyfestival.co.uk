@@ -7,16 +7,14 @@ acts:
   image: "/uploads/david-o-doherty.jpg"
 - name: Tim Key
   image: "/uploads/tim-key.jpg"
-- name: Sara Pascoe
-  image: "/uploads/sara-pascoe.jpg"
 - name: Ed Gamble
   image: "/uploads/ed-gamble.jpg"
 quote: When a stand up gig goes this well, you do get a sense of how religions are
   started
 quote-cite: The Guardian
 secondary-text: Joining David is a supporting cast chock-a-block with greatness featuring
-  cult poet/comic, ‘Taskmaster’ and ‘Alan Partridge’ star Tim Key, comic/author/natural
-  charmer and Mock The Week regular Sara Pascoe and the dashing Ed Gamble as host.
+  cult poet/comic, ‘Taskmaster’ and ‘Alan Partridge’ star Tim Key, a special guest
+  to be announced and the dashing Ed Gamble as host.
 festival-starts-at: 2017-09-16 13:00:00 Z
 show-starts-at: 2017-09-16 14:00:00 Z
 ticket-price: "£20 - £25"
