@@ -52,7 +52,11 @@ layout: default
           </div>
           
           <div class="small-12 medium-2 columns align-self-middle">
-            <a class="button large hollow" href="{{day.ticket-link}}" target="_blank">Buy Tickets</a>
+            {% if day.is-sold-out == true %}
+        <a class="button large expanded">Sold Out</a>
+        {% else %}
+        <a class="button large hollow expanded" href="{{day.ticket-link}}" target="_blank">Buy Tickets</a>
+        {% endif %}
           </div>
           
 

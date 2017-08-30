@@ -11,8 +11,8 @@ layout: default
 	<div class="small-8 columns text-center index__gallery__text__inner">
 	<h1><a href="/line-up/{{act.line-up | slugify}}">{{act.name}}</a></h1>
   <h4><a href="/line-up/{{act.line-up | slugify}}">{{act.subheader}}</a></h4>
-  {% if act.sold-out %}
-  <h4><a href="/line-up/{{act.line-up | slugify}}" class="sold">Sold Out</a></h4>
+  {% if act.is-sold-out == true %}
+  <h4>Sold Out</h4>
   {% endif %}
 	</div>
 </div>
@@ -35,6 +35,11 @@ layout: default
       <div class="row excerpt__title align-middle">
         <div class="small-12 columns text-center">
           <p>{{ act.name }}</p>
+          
+          {% if act.is-sold-out == true %}
+          <p>Sold Out</p>
+          {% endif %}
+ 
         </div>
       </div>
       

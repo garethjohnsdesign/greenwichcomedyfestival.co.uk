@@ -12,7 +12,7 @@ carousel:
 - name: Dara Ó Briain
   image: "/uploads/dara-o-briain-feature-rev.jpg"
   subheader: A masterclass in intelligent, no-frills stand-up - The Guardian
-  is-sold-out: false
+  is-sold-out: true
   line-up: Sunday Late
 - name: Alan Davies
   image: "/uploads/alan-davies-feature.jpg"

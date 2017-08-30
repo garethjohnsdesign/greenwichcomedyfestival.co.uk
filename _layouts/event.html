@@ -5,8 +5,9 @@ layout: default
 <section class="event">
   <!-- Date -->
   <div class="row align-center event__title">
-    <div class="shrink columns">
+    <div class="shrink columns text-center">
       <h2>{{ page.date | date: "%A %d %B" }} <span>—</span> {{ page.date | date: "%l:%M%p" }}</h2>
+      {% if page.is-sold-out == true %}<h3>Sold Out</h3>{% endif %}
     </div>
   </div>
   <!-- End Date -->
@@ -94,7 +95,11 @@ layout: default
   <!-- Buy -->
   <div class="row align-center">
       <div class="small-11 medium-10 columns">
+        {% if page.is-sold-out == true %}
+        <a class="button large expanded">Sold Out</a>
+        {% else %}
         <a class="button large hollow expanded" href="{{page.ticket-link}}" target="_blank">Buy Tickets</a>
+        {% endif %}
       </div>
   </div>
   <!-- End Buy -->

@@ -5,6 +5,9 @@
       <div class="row excerpt__title align-middle">
         <div class="small-12 columns text-center">
           <p>{{ act.name }}</p>
+          {% if day.is-sold-out == true %}
+          <p>Sold Out</p>
+          {% endif %}
         </div>
       </div>
       
