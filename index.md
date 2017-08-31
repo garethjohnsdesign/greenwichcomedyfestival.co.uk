@@ -33,7 +33,7 @@ featured:
 - name: Joe Lycett
   image: "/uploads/joe-lycett.jpg"
   subheader: 
-  is-sold-out: false
+  is-sold-out: true
   line-up: Thursday
 - name: Bridget Christie
   image: "/uploads/bridget-christie.jpg"
