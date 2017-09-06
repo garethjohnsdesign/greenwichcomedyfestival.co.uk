@@ -7,7 +7,7 @@ carousel:
   image: "/uploads/dylan-moran-feature.jpg"
   subheader: Jokes as sharp as barbed wire and a comedy brain quicker than a steel
     trap - The Scotsman
-  is-sold-out: false
+  is-sold-out: true
   line-up: Saturday Mid
 - name: Dara Ó Briain
   image: "/uploads/dara-o-briain-feature-rev.jpg"
