@@ -5,6 +5,8 @@ position: 4
 acts:
 - name: David O'Doherty
   image: "/uploads/david-o-doherty.jpg"
+- name: Katherine Ryan
+  image: "/uploads/katherine-ryan.jpg"
 - name: Tim Key
   image: "/uploads/tim-key.jpg"
 - name: Ed Gamble
@@ -13,8 +15,9 @@ quote: When a stand up gig goes this well, you do get a sense of how religions a
   started
 quote-cite: The Guardian
 secondary-text: Joining David is a supporting cast chock-a-block with greatness featuring
-  cult poet/comic, ‘Taskmaster’ and ‘Alan Partridge’ star Tim Key, a special guest
-  to be announced and the dashing Ed Gamble as host.
+  very special guest, the ‘wicked witch of gossip comedy’ and all-round superstar
+  Katherine Ryan, cult poet/comic, ‘Taskmaster’ and ‘Alan Partridge’ star Tim Key
+  and the dashing Ed Gamble as host.
 festival-starts-at: 2017-09-16 13:00:00 Z
 show-starts-at: 2017-09-16 14:00:00 Z
 ticket-price: "£20 - £25"
