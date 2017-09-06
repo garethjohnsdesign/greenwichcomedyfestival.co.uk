@@ -29,6 +29,11 @@ carousel:
   subheader: If you cannot enjoy Adam Hills you cannot have a pulse - The Scotsman
   is-sold-out: 
   line-up: Sunday Mid
+- name: Katherine Ryan
+  image: "/uploads/katherine-ryan-feature.jpg"
+  subheader: One of the stand-out stand-ups of her generation - The Times
+  is-sold-out: 
+  line-up: Saturday Early
 featured:
 - name: Joe Lycett
   image: "/uploads/joe-lycett.jpg"
