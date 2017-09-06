@@ -30,7 +30,7 @@ carousel:
   is-sold-out: 
   line-up: Sunday Mid
 - name: Katherine Ryan
-  image: "/uploads/katherine-ryan-feature.jpg"
+  image: "/uploads/katherine-ryan-feature2.jpg"
   subheader: One of the stand-out stand-ups of her generation - The Times
   is-sold-out: 
   line-up: Saturday Early
