@@ -4,9 +4,11 @@ position: 5
 general:
 - title: Food and Drink
   text: |-
-    The comedy comes complete with a bountiful range of bars and street-food stalls. Arrive early to enjoy an array of drinks and bites to suit every meaty, veggie and vegan palate.
+    This year’s festival will be bursting with a great range of bars and a hand-picked selection of food vendors including The Big V's legendary vegan burger bar, succulent & spicy Jerk Chicken from S Class Food, Warm & Toastie will be peddling their passions for the Great British Cheese Toastie plus wraps, salads, triple-dipped chips, award-winning coffee and lots more to keep your bouche-amused between the shows!
 
     Our street-food stalls may only accept cash.
+
+    Pre-order your interval drinks! Jump the bar queue during the interval by being all high-tech with [Ordoo](http://ordoo.co.uk), a clever little app that let’s you pre-order and pay for your drinks. Just download the [app](http://ordoo.co.uk), fill in your payment details and order a round of drinks to collect from the pick-up point at the bar. Ordoo will tell you when your drinks are ready so there’s no need to hang around. Spend your interval enjoying a pint and having a chuckle with your mates rather than standing in line!
 - title: Festival Timings
   text: "Wednesday 13 September, 6PM - 11PM  \nThursday 14 September, 6PM - 11PM  \nFriday
     15 September, 6PM - 11PM  \nSaturday 16 September, 1PM - 11PM  \nSunday 17 September,
