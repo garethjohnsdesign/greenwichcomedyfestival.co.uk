@@ -19,11 +19,6 @@ carousel:
   subheader: One of the best Stand-up comics out there - The Guardian
   is-sold-out: 
   line-up: Friday
-- name: Ed Byrne
-  image: "/uploads/ed-byrne-feature.jpg"
-  subheader: One of comedy’s greatest marvels - Daily Telegraph
-  is-sold-out: 
-  line-up: Saturday Late
 - name: Adam Hills
   image: "/uploads/adam-hills-feature.jpg"
   subheader: If you cannot enjoy Adam Hills you cannot have a pulse - The Scotsman
