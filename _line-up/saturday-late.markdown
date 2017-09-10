@@ -17,7 +17,7 @@ quote-cite: Metro
 secondary-text: |-
   Joining Rob is Live At The Apollo star and observational king-slacker Seann Walsh, 8 Out Of 10 Cats Does Countdown star Dane Baptiste and champion story-weaver Carl Donnelly as host.
 
-  *** Please note - Rob Beckett replaces Ed Byrne on this show. All original tickets remain valid.**
+  Please note - Rob Beckett replaces Ed Byrne on this show. All original tickets remain valid.
 festival-starts-at: 2017-09-16 18:00:00 Z
 show-starts-at: 2017-09-16 20:15:00 Z
 ticket-price: "£20 - £25"
