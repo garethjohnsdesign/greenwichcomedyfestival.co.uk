@@ -6,8 +6,8 @@ day: Sunday
 acts:
 - name: Adam Hills
   image: "/uploads/adam-hills.jpg"
-- name: Stephen K Amos
-  image: "/uploads/stephen-k-amos.jpg"
+- name: Doc Brown
+  image: "/uploads/doc-brown.jpg"
 - name: Shappi Khorsandi
   image: "/uploads/shappi-khorsandi.jpg"
 - name: Mark Olver
@@ -15,9 +15,9 @@ acts:
 quote: Hills delivers stand-up so effortlessly brilliant you wonder why some comedians
   even get out of bed
 quote-cite: The Guardian
-secondary-text: Joining Adam is an astounding supporting cast with Live At The Apollo
-  & Qi’s ‘laughter-master’ Stephen K Amos, Radio 4 favourite Shappi Khorsandi and
-  the simply brilliant Mark Olver as host.
+secondary-text: Joining Adam is an astounding supporting cast with Comedian/Rapper,
+  Taskmaster star and bloody good entertainer Doc Brown, Radio 4 favourite Shappi
+  Khorsandi and the simply brilliant Mark Olver as host.
 festival-starts-at: 2017-09-17 14:45:00 Z
 show-starts-at: 2017-09-17 15:45:00 Z
 ticket-price: "£20 - £25"
