@@ -26,4 +26,4 @@ is-sold-out:
 layout: event
 ---
 
-oin 8 Out Of 10 Cats team captain, Mock The Week favourite Rob Beckett as as he headlines an all-star night in the Big Top following his huge sell-out ‘Mouth Of The South’ tour.
+Join 8 Out Of 10 Cats team captain, Mock The Week favourite Rob Beckett as as he headlines an all-star night in the Big Top following his huge sell-out ‘Mouth Of The South’ tour.
