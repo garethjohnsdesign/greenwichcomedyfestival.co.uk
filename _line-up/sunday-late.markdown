@@ -6,8 +6,8 @@ day: Sunday
 acts:
 - name: Dara Ó Briain
   image: "/uploads/dara-o-briain.jpg"
-- name: Doc Brown
-  image: "/uploads/doc-brown.jpg"
+- name: Stephen K Amos
+  image: "/uploads/stephen-k-amos.jpg"
 - name: Glenn Wool
   image: "/uploads/glenn-wool.jpg"
 - name: Jarred Christmas
@@ -15,9 +15,9 @@ acts:
 quote: A master-class in intelligent stand-up…It’s thoughtful stuff, impeccably delivered.
   With material this strong, you don’t need gimmicks
 quote-cite: The Guardian
-secondary-text: Joining Dara is an unmissable supporting cast with Comedian/Rapper,
-  Taskmaster star and bloody good entertainer Doc Brown, globe trotting story-weaver
-  Glenn Wool and Kiwi comedy-hero Jarred Christmas as host.
+secondary-text: Joining Dara is an unmissable supporting cast with Live At The Apollo’s
+  laughter-master Stephen K Amos, globe trotting story-weaver Glenn Wool and Kiwi
+  comedy-hero Jarred Christmas as host
 festival-starts-at: 2017-09-17 18:00:00 Z
 show-starts-at: 2017-09-17 19:30:00 Z
 ticket-price: "£20 - £25"
