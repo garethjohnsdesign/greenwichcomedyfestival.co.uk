@@ -68,7 +68,7 @@ featured:
 - name: Seann Walsh
   image: "/uploads/seann-walsh.jpg"
   subheader: 
-  is-sold-out: true
+  is-sold-out: false
   line-up: Saturday Late
 layout: index
 ---
