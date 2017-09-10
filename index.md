@@ -30,11 +30,11 @@ carousel:
   is-sold-out: 
   line-up: Saturday Early
 featured:
-- name: Joe Lycett
-  image: "/uploads/joe-lycett.jpg"
+- name: Rob Beckett
+  image: "/uploads/rob-beckett.jpg"
   subheader: 
-  is-sold-out: true
-  line-up: Thursday
+  is-sold-out: false
+  line-up: Saturday Late
 - name: Bridget Christie
   image: "/uploads/bridget-christie.jpg"
   subheader: 
