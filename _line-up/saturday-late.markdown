@@ -11,7 +11,7 @@ acts:
   image: "/uploads/dane-baptiste.jpg"
 - name: Carl Donnelly
   image: "/uploads/carl-donnelly.jpg"
-quote: There are hints that his eyes are set firmly on arenas that are as big as his
+quote: There are hints that his eyes are set firmly on arenas that are as big as that
   mouth of his
 quote-cite: Metro
 secondary-text: |-
