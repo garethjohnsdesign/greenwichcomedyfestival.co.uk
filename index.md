@@ -1,5 +1,5 @@
 ---
-title: Bristol Comedy Garden 2018
+title: Greenwich Comedy Festival 2018
 position: 0
 image: "/assets/img/og-image.png"
 carousel:
