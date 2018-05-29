@@ -1,18 +1,18 @@
 - title: Line-up
   url: /line-up/
-  sublinks:
-    - title: All
-      url: /line-up/#all
-    - title: Wednesday 13 September
-      url: /line-up/#wednesday13september
-    - title: Thursday 14 September
-      url: /line-up/#thursday14september
-    - title: Friday 15 September
-      url: /line-up/#friday15september
-    - title: Saturday 16 September
-      url: /line-up/#saturday16september
-    - title: Sunday 17 September
-      url: /line-up/#sunday17september
+#   sublinks:
+#     - title: All
+#       url: /line-up/#all
+#     - title: Wednesday 6 June
+#       url: /line-up/#wednesday6june
+#     - title: Thursday 7 June
+#       url: /line-up/#thursday7june
+#     - title: Friday 8 June
+#       url: /line-up/#friday8june
+#     - title: Saturday 9 June
+#       url: /line-up/#saturday9june
+#     - title: Sunday 10 June
+#       url: /line-up/#sunday10june
 
 - title: Tickets
   url: /tickets/

@@ -17,18 +17,29 @@ Example showing how to change the color/size of the icons:
 }
 ======================================================================================== */
 
-.icon-logo {
-	font-size: 3rem; // works because "width" & "height" were set using em units
+.icon-socials {
+  font-size: 1.25rem;
 }
 
-.icon-icon-rev {
-	font-size: 2rem; // works because "width" & "height" were set using em units
+.icon-partners {
+  font-size: 3rem;
 }
 
+.icon-arrow {
+  font-size: 3rem;
+  vertical-align: middle;
+}
 
-.icon-footer {
-  font-size: 8rem;
-  @include breakpoint(small only) {
-  font-size: 6rem;
-  }
+.icon-widgets {
+  font-size: 3rem;
+}
+
+.icon-menu {
+  font-size: 2.5rem;
+  vertical-align: middle;
+  margin-left: 1rem;
+}
+
+.icon-info {
+  font-size: 2.5rem;
 }

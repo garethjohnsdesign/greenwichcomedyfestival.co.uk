@@ -1,27 +1,28 @@
 ---
 title: Thursday
-date: 2017-09-14 19:30:00 Z
+date: 2018-06-07 19:30:00 Z
 position: 1
 acts:
-- name: Joe Lycett
-  image: "/uploads/joe-lycett.jpg"
-- name: James Acaster
-  image: "/uploads/james-acaster.jpg"
-- name: Suzi Ruffell
-  image: "/uploads/suzi-ruffell.jpg"
-- name: John Robins
-  image: "/uploads/john-robins.jpg"
-quote: If he continues this way, Lycett will become one of mainstream’s biggest names
-quote-cite: The Times
-secondary-text: Joining Joe is quadruple Edinburgh Comedy Award nominee and Mock The
-  Week regular James Acaster, the brilliant Suzi Ruffell and all round dude (and podcast
-  wonder) John Robins as host.
-festival-starts-at: 2017-09-14 18:00:00 Z
-show-starts-at: 2017-09-14 19:30:00 Z
+- name: Alan Davies
+  image: "/uploads/alan-davies.jpg"
+- name: Joe Wilkinson
+  image: "/uploads/joe-wilkinson.jpg"
+- name: Zoe Lyons
+  image: "/uploads/zoe-lyons.jpg"
+- name: Kiri Pritchard-Mclean
+  image: "/uploads/kiri-pritchard-mclean.jpg"
+quote: One of the best Stand-up comics out there... packed with deft silliness and
+  shrewd observation
+quote-cite: The Guardian
+secondary-text: Joining Alan is is 8 Out Of 10 Cats Does Countdown’s favourite oddball
+  Joe Wilkinson making his Comedy Garden debut, alongside high-energy Live At The
+  Apollo star Zoe Lyons and the brilliant Kiri Pritchard-Mclean as host.
+festival-starts-at: 2018-06-07 18:00:00 Z
+show-starts-at: 2018-06-07 19:30:00 Z
 ticket-price: "£20 - £25"
-ticket-link: http://www.seetickets.com/event/joe-lycett/national-maritime-museum/1121015/
+ticket-link: https://www.seetickets.com/event/alan-davies/big-top-bristol-comedy-garden/1206492
 is-sold-out: true
 layout: event
 ---
 
-8 Out Of 10 Cats favourite and star of Taskmaster, Qi, The Royal Variety Performance and many more - Self confessed ‘Absolute lad’, the multi-award winning Joe Lycett headlines the Big Top in inimitable style.
+Much lauded as resident dunderhead on QI, or the charming but reticent crime solver Jonathan Creek, Davies' virtuosic story-telling and whip-smart funny bones combine as he heads to the Big Top in beautiful Queen Square.

@@ -1,29 +1,21 @@
 ---
 title: Saturday Early
-date: 2017-09-16 14:00:00 Z
-position: 4
+date: 2018-06-09 14:00:00 Z
+position: 3
 acts:
-- name: David O'Doherty
-  image: "/uploads/david-o-doherty.jpg"
-- name: Katherine Ryan
-  image: "/uploads/katherine-ryan.jpg"
-- name: Tim Key
-  image: "/uploads/tim-key.jpg"
-- name: Ed Gamble
-  image: "/uploads/ed-gamble.jpg"
-quote: When a stand up gig goes this well, you do get a sense of how religions are
-  started
-quote-cite: The Guardian
-secondary-text: Joining David is a supporting cast chock-a-block with greatness featuring
-  very special guest, the ‘wicked witch of gossip comedy’ and all-round superstar
-  Katherine Ryan, cult poet/comic, ‘Taskmaster’ and ‘Alan Partridge’ star Tim Key
-  and the dashing Ed Gamble as host.
-festival-starts-at: 2017-09-16 13:00:00 Z
-show-starts-at: 2017-09-16 14:00:00 Z
-ticket-price: "£20 - £25"
-ticket-link: http://www.seetickets.com/event/david-o-doherty/national-maritime-museum/1121010/
-is-sold-out: 
+- name: Adam Buxton's Bug X
+  image: "/uploads/adam-buxton.jpg"
+quote: 
+quote-cite: 
+secondary-text: 
+festival-starts-at: 2018-06-09 13:00:00 Z
+show-starts-at: 2018-06-09 14:00:00 Z
+ticket-price: "£20"
+ticket-link: https://www.seetickets.com/event/adam-buxton-s-bug-x/big-top-bristol-comedy-garden/1206518
+is-sold-out: true
 layout: event
 ---
 
-David O’Doherty — The Ryanair Enya, The Lidl Bublé — returns to the stunning National Maritime Museum to headline the Big Top with talking and songs played on his crappy keyboard from 1986. A bona-fide favourite of the festival, expect a hit-packed set from this ‘8 Out Of 10 Cats Does Countdown’ regular.
+Join Adam Buxton – comedian, writer, broadcaster, video director, general music video enthusiast and YouTube comment wrangler – as he takes you on a whistlestop tour through some of the highlights from the last ten years of the big-screen music video showcase, BUG. 
+
+Launched in April 2007 as a series of bi-monthly shows at BFI Southbank – the home of British cinema – BUG set out to celebrate global creativity in music video and has since become a phenomenon, as popular and brilliant as the visual ideas which the BUG team unearths. This special show curated to celebrate BUG’s 10th Anniversary is a selection of some favourite videos and clips from the past decade – with Adam’s own inimitable presentation and some delightfully unbalanced commentary from YouTube commentators, all interspersed with some gems of Adam’s own making.

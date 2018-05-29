@@ -10,14 +10,15 @@ layout: compress
 <!-- End Head -->
 
 <body>
-  
+<div class="off-canvas-wrapper">
+<div class="multilevel-offcanvas off-canvas position-right" id="offCanvas" data-off-canvas data-transition="overlap">
+{% include mobile.html %}
+</div>
+
+<div class="off-canvas-content" data-off-canvas-content>
 <!-- Navigation -->  
 {% include navigation.html %}
 <!-- End Navigation -->
-
-<!-- Menu -->  
-{% include overlay-menu.html %}
-<!-- End Menu --> 
 
 <!-- Content -->
 {{ content }}
@@ -26,6 +27,7 @@ layout: compress
 <!-- Footer -->  
 {% include footer.html %}
 <!-- End Footer -->
+</div>
 
 <!-- Scripts -->
 {% include scripts.html %}
@@ -36,7 +38,7 @@ layout: compress
 {% include analytics.html %}
 {% endif %}
 <!-- End Google Analytics -->
-
+</div>
 </body>
 
 </html>

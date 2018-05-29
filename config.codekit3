@@ -4,16 +4,16 @@
 	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
-		"uuidString": "8B78AFED-40E6-475F-BE72-1607B1ED6ADD"
+		"uuidString": "550FEDE5-7AFF-4FD3-8DBE-A45DE2D02921"
 		}
 	],
-"creatorBuild": "25900",
+"creatorBuild": "26680",
 "files": {
 	"\/404.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -28,1209 +28,274 @@
 		"uCM": 0
 		},
 	"\/_config.yml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/_config.yml",
 		"oF": 0
 		},
 	"\/_data\/navigation.yml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_data\/navigation.yml",
 		"oF": 0
 		},
 	"\/_includes\/analytics.html": {
+		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/_includes\/analytics.html",
 		"oF": 0
 		},
 	"\/_includes\/excerpt.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_includes\/excerpt.html",
 		"oF": 0
 		},
 	"\/_includes\/footer.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_includes\/footer.html",
 		"oF": 0
 		},
 	"\/_includes\/head.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_includes\/head.html",
 		"oF": 0
 		},
 	"\/_includes\/map-script.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_includes\/map-script.html",
 		"oF": 0
 		},
+	"\/_includes\/mobile.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/_includes\/mobile.html",
+		"oF": 0
+		},
 	"\/_includes\/navigation.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_includes\/navigation.html",
 		"oF": 0
 		},
-	"\/_includes\/overlay-menu.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_includes\/overlay-menu.html",
-		"oF": 0
-		},
 	"\/_includes\/pagination.html": {
+		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/_includes\/pagination.html",
 		"oF": 0
 		},
 	"\/_includes\/scripts.html": {
+		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/_includes\/scripts.html",
 		"oF": 0
 		},
 	"\/_layouts\/about.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_layouts\/about.html",
 		"oF": 0
 		},
 	"\/_layouts\/all.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_layouts\/all.html",
 		"oF": 0
 		},
 	"\/_layouts\/compress.html": {
+		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/_layouts\/compress.html",
 		"oF": 0
 		},
 	"\/_layouts\/default.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_layouts\/default.html",
 		"oF": 0
 		},
+	"\/_layouts\/details.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_layouts\/details.html",
+		"oF": 0
+		},
 	"\/_layouts\/event.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_layouts\/event.html",
 		"oF": 0
 		},
 	"\/_layouts\/holding.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_layouts\/holding.html",
 		"oF": 0
 		},
-	"\/_layouts\/index.html": {
+	"\/_layouts\/home.html": {
+		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_layouts\/index.html",
+		"oA": 0,
+		"oAP": "\/_layouts\/home.html",
 		"oF": 0
 		},
 	"\/_layouts\/info.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_layouts\/info.html",
 		"oF": 0
 		},
 	"\/_layouts\/line-up.html": {
+		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/_layouts\/line-up.html",
 		"oF": 0
 		},
 	"\/_layouts\/location.html": {
+		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/_layouts\/location.html",
 		"oF": 0
 		},
 	"\/_layouts\/missing.html": {
+		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/_layouts\/missing.html",
 		"oF": 0
 		},
-	"\/_layouts\/page.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_layouts\/page.html",
-		"oF": 0
-		},
-	"\/_layouts\/post.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_layouts\/post.html",
-		"oF": 0
-		},
 	"\/_layouts\/tickets.html": {
+		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/_layouts\/tickets.html",
 		"oF": 0
 		},
 	"\/_line-up\/friday.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_line-up\/friday.markdown",
 		"oF": 0
 		},
 	"\/_line-up\/saturday-early.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_line-up\/saturday-early.markdown",
 		"oF": 0
 		},
 	"\/_line-up\/saturday-late.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_line-up\/saturday-late.markdown",
 		"oF": 0
 		},
 	"\/_line-up\/saturday-mid.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_line-up\/saturday-mid.markdown",
 		"oF": 0
 		},
-	"\/_line-up\/sunday-late.markdown": {
+	"\/_line-up\/sunday-early.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
+		"oAP": "\/_line-up\/sunday-early.markdown",
+		"oF": 0
+		},
+	"\/_line-up\/sunday-late.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
 		"oAP": "\/_line-up\/sunday-late.markdown",
 		"oF": 0
 		},
-	"\/_line-up\/sunday-mid.markdown": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_line-up\/sunday-mid.markdown",
-		"oF": 0
-		},
 	"\/_line-up\/thursday.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_line-up\/thursday.markdown",
 		"oF": 0
 		},
-	"\/_line-up\/wednesday.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/_line-up\/wednesday.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/_site\/404.html": {
+	"\/_line-up\/wednesday.markdown": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_site\/404.html",
+		"oAP": "\/_line-up\/wednesday.markdown",
 		"oF": 0
 		},
-	"\/_site\/about\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/about\/index.html",
-		"oF": 0
-		},
-	"\/_site\/assets\/css\/app.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/css\/app-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/_site\/assets\/css\/app.css.map": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/css\/app.css.map",
-		"oF": 0
-		},
-	"\/_site\/assets\/favicons\/android-chrome-192x192.png": {
-		"ft": 32768,
-		"iS": 321,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/favicons\/android-chrome-192x192.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/assets\/favicons\/android-chrome-256x256.png": {
-		"ft": 32768,
-		"iS": 1084,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/favicons\/android-chrome-256x256.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/assets\/favicons\/apple-touch-icon.png": {
-		"ft": 32768,
-		"iS": 304,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/favicons\/apple-touch-icon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/assets\/favicons\/browserconfig.xml": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/favicons\/browserconfig.xml",
-		"oF": 0
-		},
-	"\/_site\/assets\/favicons\/favicon-16x16.png": {
-		"ft": 32768,
-		"iS": 592,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/favicons\/favicon-16x16.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/assets\/favicons\/favicon-32x32.png": {
-		"ft": 32768,
-		"iS": 599,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/favicons\/favicon-32x32.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/assets\/favicons\/favicon.ico": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/favicons\/favicon.ico",
-		"oF": 0
-		},
-	"\/_site\/assets\/favicons\/manifest.json": {
-		"ft": 524288,
+	"\/_site": {
+		"ft": 65536,
 		"oA": 1,
-		"oAP": "\/_site\/assets\/favicons\/manifest-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/_site\/assets\/favicons\/mstile-150x150.png": {
-		"ft": 32768,
-		"iS": 598,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/favicons\/mstile-150x150.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/assets\/favicons\/safari-pinned-tab.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/favicons\/safari-pinned-tab.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/assets\/fonts\/Gallery.eot": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/fonts\/Gallery.eot",
+		"oAP": "\/build\/_site",
 		"oF": 0
 		},
-	"\/_site\/assets\/fonts\/Gallery.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/fonts\/Gallery.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/assets\/fonts\/Gallery.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/fonts\/Gallery.ttf",
-		"oF": 0
-		},
-	"\/_site\/assets\/fonts\/Gallery.woff": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/fonts\/Gallery.woff",
-		"oF": 0
-		},
-	"\/_site\/assets\/fonts\/Larsseit.eot": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/fonts\/Larsseit.eot",
-		"oF": 0
-		},
-	"\/_site\/assets\/fonts\/Larsseit.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/fonts\/Larsseit.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/assets\/fonts\/Larsseit.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/fonts\/Larsseit.ttf",
-		"oF": 0
-		},
-	"\/_site\/assets\/fonts\/Larsseit.woff": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/fonts\/Larsseit.woff",
-		"oF": 0
-		},
-	"\/_site\/assets\/fonts\/Raisonne-DemiBold.eot": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/fonts\/Raisonne-DemiBold.eot",
-		"oF": 0
-		},
-	"\/_site\/assets\/fonts\/Raisonne-DemiBold.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/fonts\/Raisonne-DemiBold.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/assets\/fonts\/Raisonne-DemiBold.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/fonts\/Raisonne-DemiBold.ttf",
-		"oF": 0
-		},
-	"\/_site\/assets\/fonts\/Raisonne-DemiBold.woff": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/fonts\/Raisonne-DemiBold.woff",
-		"oF": 0
-		},
-	"\/_site\/assets\/fonts\/Wigrum-Medium.eot": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/fonts\/Wigrum-Medium.eot",
-		"oF": 0
-		},
-	"\/_site\/assets\/fonts\/Wigrum-Medium.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/fonts\/Wigrum-Medium.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/assets\/fonts\/Wigrum-Medium.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/fonts\/Wigrum-Medium.ttf",
-		"oF": 0
-		},
-	"\/_site\/assets\/fonts\/Wigrum-Medium.woff": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/fonts\/Wigrum-Medium.woff",
-		"oF": 0
-		},
-	"\/_site\/assets\/icons\/symbol-defs.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/icons\/symbol-defs.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/assets\/img\/logo.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/_site\/assets\/img\/logo.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/_site\/assets\/img\/og-image.png": {
-		"ft": 32768,
-		"iS": 66690,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/img\/og-image.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/assets\/js\/app.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/js\/min\/app-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/_site\/assets\/js\/min\/app-min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/js\/min\/min\/app-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/_site\/assets\/js\/min\/svgxuse-min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/js\/min\/min\/svgxuse-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/_site\/assets\/js\/svgxuse.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/js\/min\/svgxuse-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/_site\/assets\/scss\/app.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/_site\/assets\/css\/app.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/_site\/feed.xml": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/feed.xml",
-		"oF": 0
-		},
-	"\/_site\/humans.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/humans.txt",
-		"oF": 0
-		},
-	"\/_site\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/index.html",
-		"oF": 0
-		},
-	"\/_site\/info\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/info\/index.html",
-		"oF": 0
-		},
-	"\/_site\/line-up\/friday\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/line-up\/friday\/index.html",
-		"oF": 0
-		},
-	"\/_site\/line-up\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/line-up\/index.html",
-		"oF": 0
-		},
-	"\/_site\/line-up\/saturday-early\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/line-up\/saturday-early\/index.html",
-		"oF": 0
-		},
-	"\/_site\/line-up\/saturday-late\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/line-up\/saturday-late\/index.html",
-		"oF": 0
-		},
-	"\/_site\/line-up\/saturday-mid\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/line-up\/saturday-mid\/index.html",
-		"oF": 0
-		},
-	"\/_site\/line-up\/sunday-late\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/line-up\/sunday-late\/index.html",
-		"oF": 0
-		},
-	"\/_site\/line-up\/sunday-mid\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/line-up\/sunday-mid\/index.html",
-		"oF": 0
-		},
-	"\/_site\/line-up\/thursday\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/line-up\/thursday\/index.html",
-		"oF": 0
-		},
-	"\/_site\/line-up\/wednesday\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/line-up\/wednesday\/index.html",
-		"oF": 0
-		},
-	"\/_site\/location\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/location\/index.html",
-		"oF": 0
-		},
-	"\/_site\/robots.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/robots.txt",
-		"oF": 0
-		},
-	"\/_site\/sitemap.xml": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/sitemap.xml",
-		"oF": 0
-		},
-	"\/_site\/tickets\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_site\/tickets\/index.html",
-		"oF": 0
-		},
-	"\/_site\/uploads\/adam-hills-feature.jpg": {
+	"\/_uploads\/adam-buxton-featured.jpg": {
 		"ft": 16384,
-		"iS": 72171,
+		"iS": 156780,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_site\/uploads\/adam-hills-feature.jpg",
+		"oAP": "\/_uploads\/adam-buxton-featured.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/_site\/uploads\/adam-hills.jpg": {
+	"\/_uploads\/adam-buxton.jpg": {
 		"ft": 16384,
-		"iS": 36255,
+		"iS": 86780,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_site\/uploads\/adam-hills.jpg",
+		"oAP": "\/_uploads\/adam-buxton.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/_site\/uploads\/alan-davies-feature.jpg": {
+	"\/_uploads\/alan-davies-featured.jpg": {
 		"ft": 16384,
-		"iS": 108582,
+		"iS": 160397,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_site\/uploads\/alan-davies-feature.jpg",
+		"oAP": "\/_uploads\/alan-davies-featured.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/_site\/uploads\/alan-davies.jpg": {
+	"\/_uploads\/alan-davies-variant.jpg": {
 		"ft": 16384,
-		"iS": 73108,
+		"iS": 80597,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_site\/uploads\/alan-davies.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/andrew-maxwell.jpg": {
-		"ft": 16384,
-		"iS": 81163,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/andrew-maxwell.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/bottom-artwork-v2.png": {
-		"ft": 32768,
-		"iS": 143730,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/bottom-artwork-v2.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/uploads\/bottom-artwork-v3.png": {
-		"ft": 32768,
-		"iS": 112006,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/bottom-artwork-v3.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/uploads\/bottom-artwork.png": {
-		"ft": 32768,
-		"iS": 196562,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/bottom-artwork.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/uploads\/bridget-christie.jpg": {
-		"ft": 16384,
-		"iS": 158522,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/bridget-christie.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/carl-donnelly.jpg": {
-		"ft": 16384,
-		"iS": 61270,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/carl-donnelly.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/dane-baptiste.jpg": {
-		"ft": 16384,
-		"iS": 48837,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/dane-baptiste.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/dara-o-briain-feature-rev.jpg": {
-		"ft": 16384,
-		"iS": 102101,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/dara-o-briain-feature-rev.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/dara-o-briain-feature.jpg": {
-		"ft": 16384,
-		"iS": 156416,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/dara-o-briain-feature.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/dara-o-briain.jpg": {
-		"ft": 16384,
-		"iS": 28138,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/dara-o-briain.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/david-o-doherty.jpg": {
-		"ft": 16384,
-		"iS": 80839,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/david-o-doherty.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/doc-brown.jpg": {
-		"ft": 16384,
-		"iS": 106346,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/doc-brown.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/dylan-moran-feature.jpg": {
-		"ft": 16384,
-		"iS": 181202,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/dylan-moran-feature.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/dylan-moran.jpg": {
-		"ft": 16384,
-		"iS": 62465,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/dylan-moran.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/ed-byrne-feature.jpg": {
-		"ft": 16384,
-		"iS": 151669,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/ed-byrne-feature.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/ed-byrne.jpg": {
-		"ft": 16384,
-		"iS": 88602,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/ed-byrne.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/ed-gamble-v2.jpg": {
-		"ft": 16384,
-		"iS": 67088,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/ed-gamble-v2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/ed-gamble.jpg": {
-		"ft": 16384,
-		"iS": 54623,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/ed-gamble.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/ellie-taylor.jpg": {
-		"ft": 16384,
-		"iS": 29820,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/ellie-taylor.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/fin-taylor.jpg": {
-		"ft": 16384,
-		"iS": 116913,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/fin-taylor.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/gallery-01.jpg": {
-		"ft": 16384,
-		"iS": 70895,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/gallery-01.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/gallery-02.jpg": {
-		"ft": 16384,
-		"iS": 59053,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/gallery-02.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/gallery-03.jpg": {
-		"ft": 16384,
-		"iS": 57085,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/gallery-03.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/gallery-04.jpg": {
-		"ft": 16384,
-		"iS": 256101,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/gallery-04.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/gallery-05.jpg": {
-		"ft": 16384,
-		"iS": 231294,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/gallery-05.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/gallery-06.jpg": {
-		"ft": 16384,
-		"iS": 135180,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/gallery-06.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/Gallery-07.jpg": {
-		"ft": 16384,
-		"iS": 1264976,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/Gallery-07.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/glenn-wool.jpg": {
-		"ft": 16384,
-		"iS": 82840,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/glenn-wool.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/ivo-graham.jpg": {
-		"ft": 16384,
-		"iS": 75471,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/ivo-graham.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/james-acaster.jpg": {
-		"ft": 16384,
-		"iS": 63745,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/james-acaster.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/jarred-christmas.jpg": {
-		"ft": 16384,
-		"iS": 63396,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/jarred-christmas.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/joe-lycett.jpg": {
-		"ft": 16384,
-		"iS": 58992,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/joe-lycett.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/john-robins.jpg": {
-		"ft": 16384,
-		"iS": 47186,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/john-robins.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/kerry-godliman.jpg": {
-		"ft": 16384,
-		"iS": 68121,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/kerry-godliman.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/kiri-pritchard-mclean.jpg": {
-		"ft": 16384,
-		"iS": 194154,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/kiri-pritchard-mclean.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/mark-olver.jpg": {
-		"ft": 16384,
-		"iS": 62469,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/mark-olver.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/nish-kumar.jpg": {
-		"ft": 16384,
-		"iS": 70034,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/nish-kumar.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/placeholder.jpg": {
-		"ft": 16384,
-		"iS": 7173,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/placeholder.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/reginald-d-hunter.jpg": {
-		"ft": 16384,
-		"iS": 187946,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/reginald-d-hunter.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/sara-pascoe.jpg": {
-		"ft": 16384,
-		"iS": 87022,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/sara-pascoe.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/seann-walsh.jpg": {
-		"ft": 16384,
-		"iS": 43988,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/seann-walsh.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/shappi-khorsandi.jpg": {
-		"ft": 16384,
-		"iS": 98751,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/shappi-khorsandi.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/stephen-k-amos.jpg": {
-		"ft": 16384,
-		"iS": 60885,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/stephen-k-amos.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/suzi-ruffell.jpg": {
-		"ft": 16384,
-		"iS": 122234,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/suzi-ruffell.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/tim-key.jpg": {
-		"ft": 16384,
-		"iS": 62405,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/tim-key.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/tom-allen.jpg": {
-		"ft": 16384,
-		"iS": 114813,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/tom-allen.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_site\/uploads\/top-artwork-v2.png": {
-		"ft": 32768,
-		"iS": 97652,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/top-artwork-v2.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/uploads\/top-artwork-v3.png": {
-		"ft": 32768,
-		"iS": 109852,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/top-artwork-v3.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/uploads\/top-artwork-v4.png": {
-		"ft": 32768,
-		"iS": 126720,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/top-artwork-v4.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_site\/uploads\/top-artwork.png": {
-		"ft": 32768,
-		"iS": 77488,
-		"oA": 0,
-		"oAP": "\/_site\/uploads\/top-artwork.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_uploads\/adam-hills-feature.jpg": {
-		"ft": 16384,
-		"iS": 72171,
-		"oA": 0,
-		"oAP": "\/_uploads\/adam-hills-feature.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/adam-hills.jpg": {
-		"ft": 16384,
-		"iS": 36255,
-		"oA": 0,
-		"oAP": "\/_uploads\/adam-hills.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/alan-davies-feature.jpg": {
-		"ft": 16384,
-		"iS": 108582,
-		"oA": 0,
-		"oAP": "\/_uploads\/alan-davies-feature.jpg",
+		"oAP": "\/_uploads\/alan-davies-variant.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1238,7 +303,8 @@
 		},
 	"\/_uploads\/alan-davies.jpg": {
 		"ft": 16384,
-		"iS": 73108,
+		"iS": 66438,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/alan-davies.jpg",
 		"oF": 0,
@@ -1248,7 +314,8 @@
 		},
 	"\/_uploads\/andrew-maxwell.jpg": {
 		"ft": 16384,
-		"iS": 81163,
+		"iS": 56134,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/andrew-maxwell.jpg",
 		"oF": 0,
@@ -1256,102 +323,32 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/bottom-artwork-v2.png": {
+	"\/_uploads\/beer-girl.png": {
 		"ft": 32768,
-		"iS": 143730,
+		"iS": 101635,
 		"oA": 0,
-		"oAP": "\/_uploads\/bottom-artwork-v2.png",
+		"oAP": "\/_uploads\/beer-girl.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/_uploads\/bottom-artwork-v3.png": {
+	"\/_uploads\/bird.png": {
 		"ft": 32768,
-		"iS": 112006,
+		"iS": 62592,
 		"oA": 0,
-		"oAP": "\/_uploads\/bottom-artwork-v3.png",
+		"oAP": "\/_uploads\/bird.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
-		"q": 100
-		},
-	"\/_uploads\/bottom-artwork.png": {
-		"ft": 32768,
-		"iS": 196562,
-		"oA": 0,
-		"oAP": "\/_uploads\/bottom-artwork.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_uploads\/bridget-christie.jpg": {
-		"ft": 16384,
-		"iS": 158522,
-		"oA": 0,
-		"oAP": "\/_uploads\/bridget-christie.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/carl-donnelly.jpg": {
-		"ft": 16384,
-		"iS": 61270,
-		"oA": 0,
-		"oAP": "\/_uploads\/carl-donnelly.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/dane-baptiste.jpg": {
-		"ft": 16384,
-		"iS": 48837,
-		"oA": 0,
-		"oAP": "\/_uploads\/dane-baptiste.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/dara-o-briain-feature-rev.jpg": {
-		"ft": 16384,
-		"iS": 102101,
-		"oA": 0,
-		"oAP": "\/_uploads\/dara-o-briain-feature-rev.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/dara-o-briain-feature.jpg": {
-		"ft": 16384,
-		"iS": 156416,
-		"oA": 0,
-		"oAP": "\/_uploads\/dara-o-briain-feature.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/dara-o-briain.jpg": {
-		"ft": 16384,
-		"iS": 28138,
-		"oA": 0,
-		"oAP": "\/_uploads\/dara-o-briain.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
 		"q": 100
 		},
 	"\/_uploads\/david-o-doherty.jpg": {
 		"ft": 16384,
-		"iS": 80839,
+		"iS": 87106,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/david-o-doherty.jpg",
 		"oF": 0,
@@ -1359,69 +356,10 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/doc-brown.jpg": {
-		"ft": 16384,
-		"iS": 106346,
-		"oA": 0,
-		"oAP": "\/_uploads\/doc-brown.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/dylan-moran-feature.jpg": {
-		"ft": 16384,
-		"iS": 181202,
-		"oA": 0,
-		"oAP": "\/_uploads\/dylan-moran-feature.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/dylan-moran.jpg": {
-		"ft": 16384,
-		"iS": 62465,
-		"oA": 0,
-		"oAP": "\/_uploads\/dylan-moran.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/ed-byrne-feature.jpg": {
-		"ft": 16384,
-		"iS": 151669,
-		"oA": 0,
-		"oAP": "\/_uploads\/ed-byrne-feature.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/ed-byrne.jpg": {
-		"ft": 16384,
-		"iS": 88602,
-		"oA": 0,
-		"oAP": "\/_uploads\/ed-byrne.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/ed-gamble-v2.jpg": {
-		"ft": 16384,
-		"iS": 67088,
-		"oA": 0,
-		"oAP": "\/_uploads\/ed-gamble-v2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/_uploads\/ed-gamble.jpg": {
 		"ft": 16384,
-		"iS": 54623,
+		"iS": 54380,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/ed-gamble.jpg",
 		"oF": 0,
@@ -1429,11 +367,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/ellie-taylor.jpg": {
+	"\/_uploads\/fern-brady.jpg": {
 		"ft": 16384,
-		"iS": 29820,
+		"iS": 62587,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/ellie-taylor.jpg",
+		"oAP": "\/_uploads\/fern-brady.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1441,7 +380,8 @@
 		},
 	"\/_uploads\/fin-taylor.jpg": {
 		"ft": 16384,
-		"iS": 116913,
+		"iS": 88234,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/fin-taylor.jpg",
 		"oF": 0,
@@ -1452,6 +392,7 @@
 	"\/_uploads\/gallery-01.jpg": {
 		"ft": 16384,
 		"iS": 70895,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/gallery-01.jpg",
 		"oF": 0,
@@ -1462,6 +403,7 @@
 	"\/_uploads\/gallery-02.jpg": {
 		"ft": 16384,
 		"iS": 59053,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/gallery-02.jpg",
 		"oF": 0,
@@ -1472,6 +414,7 @@
 	"\/_uploads\/gallery-03.jpg": {
 		"ft": 16384,
 		"iS": 57085,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/gallery-03.jpg",
 		"oF": 0,
@@ -1482,6 +425,7 @@
 	"\/_uploads\/gallery-04.jpg": {
 		"ft": 16384,
 		"iS": 256101,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/gallery-04.jpg",
 		"oF": 0,
@@ -1492,6 +436,7 @@
 	"\/_uploads\/gallery-05.jpg": {
 		"ft": 16384,
 		"iS": 231294,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/gallery-05.jpg",
 		"oF": 0,
@@ -1502,6 +447,7 @@
 	"\/_uploads\/gallery-06.jpg": {
 		"ft": 16384,
 		"iS": 135180,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/gallery-06.jpg",
 		"oF": 0,
@@ -1509,21 +455,23 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/Gallery-07.jpg": {
+	"\/_uploads\/henning-wehn-featured.jpg": {
 		"ft": 16384,
-		"iS": 1264976,
+		"iS": 182301,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/Gallery-07.jpg",
+		"oAP": "\/_uploads\/henning-wehn-featured.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
-	"\/_uploads\/glenn-wool.jpg": {
+	"\/_uploads\/henning-wehn.jpg": {
 		"ft": 16384,
-		"iS": 82840,
+		"iS": 63626,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/glenn-wool.jpg",
+		"oAP": "\/_uploads\/henning-wehn.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1531,7 +479,8 @@
 		},
 	"\/_uploads\/ivo-graham.jpg": {
 		"ft": 16384,
-		"iS": 75471,
+		"iS": 43522,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/ivo-graham.jpg",
 		"oF": 0,
@@ -1541,7 +490,8 @@
 		},
 	"\/_uploads\/james-acaster.jpg": {
 		"ft": 16384,
-		"iS": 63745,
+		"iS": 57750,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/james-acaster.jpg",
 		"oF": 0,
@@ -1549,21 +499,56 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/jarred-christmas.jpg": {
+	"\/_uploads\/jayde-adams.jpg": {
 		"ft": 16384,
-		"iS": 63396,
+		"iS": 40119,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/jarred-christmas.jpg",
+		"oAP": "\/_uploads\/jayde-adams.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/joe-lycett.jpg": {
+	"\/_uploads\/jen-brister.jpg": {
 		"ft": 16384,
-		"iS": 58992,
+		"iS": 0,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/joe-lycett.jpg",
+		"oAP": "\/_uploads\/jen-brister.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/joe-wilkinson-variant.jpg": {
+		"ft": 16384,
+		"iS": 90797,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/joe-wilkinson-variant.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/joe-wilkinson.jpg": {
+		"ft": 16384,
+		"iS": 73513,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/joe-wilkinson.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/john-kearns.jpg": {
+		"ft": 16384,
+		"iS": 114713,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/john-kearns.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1571,7 +556,8 @@
 		},
 	"\/_uploads\/john-robins.jpg": {
 		"ft": 16384,
-		"iS": 47186,
+		"iS": 42686,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/john-robins.jpg",
 		"oF": 0,
@@ -1579,11 +565,45 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/kerry-godliman.jpg": {
+	"\/_uploads\/josh-widdicombe-featured-rev.jpg": {
 		"ft": 16384,
-		"iS": 68121,
+		"iS": 173096,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/kerry-godliman.jpg",
+		"oAP": "\/_uploads\/josh-widdicombe-featured-rev.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/josh-widdicombe-featured-rev2.jpg": {
+		"ft": 16384,
+		"iS": 99930,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/josh-widdicombe-featured-rev2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/_uploads\/josh-widdicombe-featured.jpg": {
+		"ft": 16384,
+		"iS": 274235,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/josh-widdicombe-featured.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/josh-widdicombe.jpg": {
+		"ft": 16384,
+		"iS": 50245,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/josh-widdicombe.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1591,7 +611,8 @@
 		},
 	"\/_uploads\/kiri-pritchard-mclean.jpg": {
 		"ft": 16384,
-		"iS": 194154,
+		"iS": 79132,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/kiri-pritchard-mclean.jpg",
 		"oF": 0,
@@ -1599,9 +620,32 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_uploads\/lauren-pattison.jpg": {
+		"ft": 16384,
+		"iS": 60909,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/lauren-pattison.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/lolly-adefope.jpg": {
+		"ft": 16384,
+		"iS": 77653,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/lolly-adefope.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_uploads\/mark-olver.jpg": {
 		"ft": 16384,
-		"iS": 62469,
+		"iS": 62480,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/mark-olver.jpg",
 		"oF": 0,
@@ -1609,21 +653,111 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/nish-kumar.jpg": {
+	"\/_uploads\/mark-watson.jpg": {
 		"ft": 16384,
-		"iS": 70034,
+		"iS": 51112,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/nish-kumar.jpg",
+		"oAP": "\/_uploads\/mark-watson.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/placeholder.jpg": {
-		"ft": 16384,
-		"iS": 7173,
+	"\/_uploads\/microphone-girl.png": {
+		"ft": 32768,
+		"iS": 191225,
 		"oA": 0,
-		"oAP": "\/_uploads\/placeholder.jpg",
+		"oAP": "\/_uploads\/microphone-girl.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_uploads\/miles-jupp.jpg": {
+		"ft": 16384,
+		"iS": 48354,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/miles-jupp.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/milton-jones-featured.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/milton-jones-featured.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/milton-jones.jpg": {
+		"ft": 16384,
+		"iS": 135473,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/milton-jones.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/nina-conti.jpg": {
+		"ft": 16384,
+		"iS": 34195,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/nina-conti.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/phil-wang.jpg": {
+		"ft": 16384,
+		"iS": 93265,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/phil-wang.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/plants.png": {
+		"ft": 32768,
+		"iS": 163552,
+		"oA": 0,
+		"oAP": "\/_uploads\/plants.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/_uploads\/poster-2017.jpg": {
+		"ft": 16384,
+		"iS": 459568,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/poster-2017.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/reginald-d-hunter-variant.jpg": {
+		"ft": 16384,
+		"iS": 87380,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/reginald-d-hunter-variant.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1631,7 +765,8 @@
 		},
 	"\/_uploads\/reginald-d-hunter.jpg": {
 		"ft": 16384,
-		"iS": 187946,
+		"iS": 0,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/reginald-d-hunter.jpg",
 		"oF": 0,
@@ -1639,11 +774,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/sara-pascoe.jpg": {
+	"\/_uploads\/ross-noble.jpg": {
 		"ft": 16384,
-		"iS": 87022,
+		"iS": 77171,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/sara-pascoe.jpg",
+		"oAP": "\/_uploads\/ross-noble.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1651,7 +787,8 @@
 		},
 	"\/_uploads\/seann-walsh.jpg": {
 		"ft": 16384,
-		"iS": 43988,
+		"iS": 54134,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/seann-walsh.jpg",
 		"oF": 0,
@@ -1661,7 +798,8 @@
 		},
 	"\/_uploads\/shappi-khorsandi.jpg": {
 		"ft": 16384,
-		"iS": 98751,
+		"iS": 46975,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/shappi-khorsandi.jpg",
 		"oF": 0,
@@ -1669,9 +807,21 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_uploads\/snake.png": {
+		"ft": 32768,
+		"iS": 163756,
+		"oA": 0,
+		"oAP": "\/_uploads\/snake.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/_uploads\/stephen-k-amos.jpg": {
 		"ft": 16384,
-		"iS": 60885,
+		"iS": 58310,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/stephen-k-amos.jpg",
 		"oF": 0,
@@ -1679,29 +829,10 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/suzi-ruffell.jpg": {
-		"ft": 16384,
-		"iS": 122234,
-		"oA": 0,
-		"oAP": "\/_uploads\/suzi-ruffell.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/_uploads\/tim-key.jpg": {
-		"ft": 16384,
-		"iS": 62405,
-		"oA": 0,
-		"oAP": "\/_uploads\/tim-key.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/_uploads\/tom-allen.jpg": {
 		"ft": 16384,
-		"iS": 114813,
+		"iS": 50727,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/tom-allen.jpg",
 		"oF": 0,
@@ -1709,83 +840,48 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_uploads\/top-artwork-v2.png": {
+	"\/_uploads\/top.png": {
 		"ft": 32768,
-		"iS": 97652,
+		"iS": 112954,
 		"oA": 0,
-		"oAP": "\/_uploads\/top-artwork-v2.png",
+		"oAP": "\/_uploads\/top.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/_uploads\/top-artwork-v3.png": {
-		"ft": 32768,
-		"iS": 109852,
+	"\/_uploads\/yuriko-kotani.jpg": {
+		"ft": 16384,
+		"iS": 52958,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/top-artwork-v3.png",
+		"oAP": "\/_uploads\/yuriko-kotani.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/_uploads\/zoe-lyons.jpg": {
+		"ft": 16384,
+		"iS": 54279,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/zoe-lyons.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
 		"q": 100
-		},
-	"\/_uploads\/top-artwork-v4.png": {
-		"ft": 32768,
-		"iS": 126720,
-		"oA": 0,
-		"oAP": "\/_uploads\/top-artwork-v4.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/_uploads\/top-artwork.png": {
-		"ft": 32768,
-		"iS": 77488,
-		"oA": 0,
-		"oAP": "\/_uploads\/top-artwork.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/about.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 2,
-		"oAP": "\/about.md",
-		"oF": 1,
-		"oFM": 9,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
 		},
 	"\/assets\/css\/app.css": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
-		"oAP": "\/assets\/css\/app-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/assets\/css\/app.css.map": {
-		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/assets\/css\/app.css.map",
-		"oF": 0
+		"oAP": "\/assets\/css\/app-ck.css",
+		"oF": 0,
+		"oS": 0
 		},
 	"\/assets\/favicons\/android-chrome-192x192.png": {
 		"ft": 32768,
@@ -1798,11 +894,11 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/favicons\/android-chrome-256x256.png": {
+	"\/assets\/favicons\/android-chrome-512x512.png": {
 		"ft": 32768,
-		"iS": 1084,
+		"iS": 24441,
 		"oA": 0,
-		"oAP": "\/assets\/favicons\/android-chrome-256x256.png",
+		"oAP": "\/assets\/favicons\/android-chrome-512x512.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1821,8 +917,9 @@
 		"q": 100
 		},
 	"\/assets\/favicons\/browserconfig.xml": {
+		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/assets\/favicons\/browserconfig.xml",
 		"oF": 0
 		},
@@ -1849,24 +946,61 @@
 		"q": 100
 		},
 	"\/assets\/favicons\/favicon.ico": {
+		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/assets\/favicons\/favicon.ico",
 		"oF": 0
 		},
-	"\/assets\/favicons\/manifest.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/assets\/favicons\/manifest-min.json",
+	"\/assets\/favicons\/mstile-144x144.png": {
+		"ft": 32768,
+		"iS": 8441,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/mstile-144x144.png",
 		"oF": 0,
-		"oO": 0,
-		"oS": 1
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/assets\/favicons\/mstile-150x150.png": {
 		"ft": 32768,
 		"iS": 598,
 		"oA": 0,
 		"oAP": "\/assets\/favicons\/mstile-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/mstile-310x150.png": {
+		"ft": 32768,
+		"iS": 8663,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/mstile-310x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/mstile-310x310.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/mstile-310x310.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/favicons\/mstile-70x70.png": {
+		"ft": 32768,
+		"iS": 5645,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/mstile-70x70.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1883,9 +1017,31 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/assets\/fonts\/Gallery.eot": {
+	"\/assets\/favicons\/site.webmanifest": {
+		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
+		"oAP": "\/assets\/favicons\/site.webmanifest",
+		"oF": 0
+		},
+	"\/assets\/fonts\/apercu-regular.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/fonts\/apercu-regular.woff",
+		"oF": 0
+		},
+	"\/assets\/fonts\/apercu-regular.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/fonts\/apercu-regular.woff2",
+		"oF": 0
+		},
+	"\/assets\/fonts\/Gallery.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
 		"oAP": "\/assets\/fonts\/Gallery.eot",
 		"oF": 0
 		},
@@ -1900,99 +1056,31 @@
 		"prP": 0
 		},
 	"\/assets\/fonts\/Gallery.ttf": {
+		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/assets\/fonts\/Gallery.ttf",
 		"oF": 0
 		},
 	"\/assets\/fonts\/Gallery.woff": {
+		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
+		"oA": 0,
 		"oAP": "\/assets\/fonts\/Gallery.woff",
 		"oF": 0
 		},
-	"\/assets\/fonts\/Larsseit.eot": {
+	"\/assets\/fonts\/raisonne-demibold.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/assets\/fonts\/Larsseit.eot",
+		"oAP": "\/assets\/fonts\/raisonne-demibold.woff",
 		"oF": 0
 		},
-	"\/assets\/fonts\/Larsseit.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/Larsseit.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/assets\/fonts\/Larsseit.ttf": {
+	"\/assets\/fonts\/raisonne-demibold.woff2": {
+		"cB": 0,
 		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/Larsseit.ttf",
-		"oF": 0
-		},
-	"\/assets\/fonts\/Larsseit.woff": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/Larsseit.woff",
-		"oF": 0
-		},
-	"\/assets\/fonts\/Raisonne-DemiBold.eot": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/Raisonne-DemiBold.eot",
-		"oF": 0
-		},
-	"\/assets\/fonts\/Raisonne-DemiBold.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/Raisonne-DemiBold.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/assets\/fonts\/Raisonne-DemiBold.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/Raisonne-DemiBold.ttf",
-		"oF": 0
-		},
-	"\/assets\/fonts\/Raisonne-DemiBold.woff": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/Raisonne-DemiBold.woff",
-		"oF": 0
-		},
-	"\/assets\/fonts\/Wigrum-Medium.eot": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/Wigrum-Medium.eot",
-		"oF": 0
-		},
-	"\/assets\/fonts\/Wigrum-Medium.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/Wigrum-Medium.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/assets\/fonts\/Wigrum-Medium.ttf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/Wigrum-Medium.ttf",
-		"oF": 0
-		},
-	"\/assets\/fonts\/Wigrum-Medium.woff": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/fonts\/Wigrum-Medium.woff",
+		"oA": 0,
+		"oAP": "\/assets\/fonts\/raisonne-demibold.woff2",
 		"oF": 0
 		},
 	"\/assets\/icons\/symbol-defs.svg": {
@@ -2017,14 +1105,24 @@
 		},
 	"\/assets\/img\/og-image.png": {
 		"ft": 32768,
-		"iS": 66690,
+		"iS": 480014,
 		"oA": 0,
 		"oAP": "\/assets\/img\/og-image.png",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
+		},
+	"\/assets\/js\/about.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/min\/about-min.js",
+		"oF": 2,
+		"sC": 3,
+		"tS": 0
 		},
 	"\/assets\/js\/app.js": {
 		"ft": 64,
@@ -2033,7 +1131,27 @@
 		"oA": 0,
 		"oAP": "\/assets\/js\/min\/app-min.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/js\/home.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/min\/home-min.js",
+		"oF": 3,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/assets\/js\/min\/about-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/min\/min\/about-min-min.js",
+		"oF": 0,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/assets\/js\/min\/app-min.js": {
@@ -2046,6 +1164,16 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/assets\/js\/min\/home-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/min\/min\/home-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/assets\/js\/min\/svgxuse-min.js": {
 		"ft": 64,
 		"ma": 0,
@@ -2053,7 +1181,7 @@
 		"oA": 0,
 		"oAP": "\/assets\/js\/min\/min\/svgxuse-min-min.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/assets\/js\/svgxuse.js": {
@@ -2062,22 +1190,9 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/assets\/js\/min\/svgxuse-min.js",
-		"oF": 0,
-		"sC": 1,
+		"oF": 2,
+		"sC": 3,
 		"tS": 0
-		},
-	"\/assets\/scss\/_animate.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/_animate.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
 		},
 	"\/assets\/scss\/_carousel.scss": {
 		"aP": 0,
@@ -2114,19 +1229,6 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/assets\/css\/_hamburgers.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/assets\/scss\/_hover.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/_hover.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2170,19 +1272,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/scss\/_menu.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/_menu.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"\/assets\/scss\/_mixins.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -2192,6 +1281,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/assets\/css\/_mixins.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/scss\/_navigation.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/_navigation.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -2209,7 +1311,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/assets\/scss\/_variables.scss": {
+	"\/assets\/scss\/_typography.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -2217,13 +1319,13 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/assets\/css\/_variables.css",
+		"oAP": "\/assets\/css\/_typography.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
 	"\/assets\/scss\/app.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -2232,7 +1334,7 @@
 		"oA": 0,
 		"oAP": "\/assets\/css\/app.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 3,
 		"uL": 1
 		},
 	"\/bower.json": {
@@ -2242,844 +1344,6 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
-		},
-	"\/bower_components\/animate.css\/.bower.json": {
-		"ft": 524288,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/.bower.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/bower_components\/animate.css\/animate-config.json": {
-		"ft": 524288,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/animate-config.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/bower_components\/animate.css\/animate.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/animate.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/animate.min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/animate.min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/bower.json": {
-		"ft": 524288,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/bower.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/bower_components\/animate.css\/gulpfile.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/gulpfile.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/bower_components\/animate.css\/LICENSE": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/LICENSE",
-		"oF": 0
-		},
-	"\/bower_components\/animate.css\/package.json": {
-		"ft": 524288,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/package.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/bower_components\/animate.css\/source\/_base.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/bower_components\/animate.css\/source\/_base.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/attention_seekers\/bounce.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/attention_seekers\/bounce.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/attention_seekers\/flash.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/attention_seekers\/flash.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/attention_seekers\/headShake.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/attention_seekers\/headShake.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/attention_seekers\/jello.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/attention_seekers\/jello.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/attention_seekers\/pulse.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/attention_seekers\/pulse.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/attention_seekers\/rubberBand.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/attention_seekers\/rubberBand.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/attention_seekers\/shake.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/attention_seekers\/shake.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/attention_seekers\/swing.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/attention_seekers\/swing.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/attention_seekers\/tada.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/attention_seekers\/tada.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/attention_seekers\/wobble.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/attention_seekers\/wobble.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/bouncing_entrances\/bounceIn.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/bouncing_entrances\/bounceIn.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/bouncing_entrances\/bounceInDown.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/bouncing_entrances\/bounceInDown.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/bouncing_entrances\/bounceInLeft.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/bouncing_entrances\/bounceInLeft.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/bouncing_entrances\/bounceInRight.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/bouncing_entrances\/bounceInRight.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/bouncing_entrances\/bounceInUp.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/bouncing_entrances\/bounceInUp.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/bouncing_exits\/bounceOut.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/bouncing_exits\/bounceOut.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/bouncing_exits\/bounceOutDown.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/bouncing_exits\/bounceOutDown.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/bouncing_exits\/bounceOutLeft.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/bouncing_exits\/bounceOutLeft.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/bouncing_exits\/bounceOutRight.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/bouncing_exits\/bounceOutRight.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/bouncing_exits\/bounceOutUp.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/bouncing_exits\/bounceOutUp.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/fading_entrances\/fadeIn.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/fading_entrances\/fadeIn.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/fading_entrances\/fadeInDown.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/fading_entrances\/fadeInDown.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/fading_entrances\/fadeInDownBig.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/fading_entrances\/fadeInDownBig.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/fading_entrances\/fadeInLeft.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/fading_entrances\/fadeInLeft.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/fading_entrances\/fadeInLeftBig.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/fading_entrances\/fadeInLeftBig.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/fading_entrances\/fadeInRight.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/fading_entrances\/fadeInRight.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/fading_entrances\/fadeInRightBig.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/fading_entrances\/fadeInRightBig.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/fading_entrances\/fadeInUp.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/fading_entrances\/fadeInUp.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/fading_entrances\/fadeInUpBig.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/fading_entrances\/fadeInUpBig.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/fading_exits\/fadeOut.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/fading_exits\/fadeOut.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/fading_exits\/fadeOutDown.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/fading_exits\/fadeOutDown.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/fading_exits\/fadeOutDownBig.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/fading_exits\/fadeOutDownBig.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/fading_exits\/fadeOutLeft.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/fading_exits\/fadeOutLeft.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/fading_exits\/fadeOutLeftBig.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/fading_exits\/fadeOutLeftBig.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/fading_exits\/fadeOutRight.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/fading_exits\/fadeOutRight.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/fading_exits\/fadeOutRightBig.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/fading_exits\/fadeOutRightBig.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/fading_exits\/fadeOutUp.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/fading_exits\/fadeOutUp.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/fading_exits\/fadeOutUpBig.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/fading_exits\/fadeOutUpBig.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/flippers\/flip.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/flippers\/flip.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/flippers\/flipInX.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/flippers\/flipInX.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/flippers\/flipInY.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/flippers\/flipInY.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/flippers\/flipOutX.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/flippers\/flipOutX.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/flippers\/flipOutY.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/flippers\/flipOutY.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/lightspeed\/lightSpeedIn.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/lightspeed\/lightSpeedIn.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/lightspeed\/lightSpeedOut.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/lightspeed\/lightSpeedOut.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/rotating_entrances\/rotateIn.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/rotating_entrances\/rotateIn.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/rotating_entrances\/rotateInDownLeft.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/rotating_entrances\/rotateInDownLeft.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/rotating_entrances\/rotateInDownRight.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/rotating_entrances\/rotateInDownRight.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/rotating_entrances\/rotateInUpLeft.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/rotating_entrances\/rotateInUpLeft.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/rotating_entrances\/rotateInUpRight.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/rotating_entrances\/rotateInUpRight.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/rotating_exits\/rotateOut.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/rotating_exits\/rotateOut.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/rotating_exits\/rotateOutDownLeft.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/rotating_exits\/rotateOutDownLeft.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/rotating_exits\/rotateOutDownRight.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/rotating_exits\/rotateOutDownRight.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/rotating_exits\/rotateOutUpLeft.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/rotating_exits\/rotateOutUpLeft.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/rotating_exits\/rotateOutUpRight.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/rotating_exits\/rotateOutUpRight.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/sliding_entrances\/slideInDown.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/sliding_entrances\/slideInDown.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/sliding_entrances\/slideInLeft.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/sliding_entrances\/slideInLeft.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/sliding_entrances\/slideInRight.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/sliding_entrances\/slideInRight.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/sliding_entrances\/slideInUp.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/sliding_entrances\/slideInUp.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/sliding_exits\/slideOutDown.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/sliding_exits\/slideOutDown.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/sliding_exits\/slideOutLeft.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/sliding_exits\/slideOutLeft.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/sliding_exits\/slideOutRight.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/sliding_exits\/slideOutRight.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/sliding_exits\/slideOutUp.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/sliding_exits\/slideOutUp.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/specials\/hinge.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/specials\/hinge.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/specials\/rollIn.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/specials\/rollIn.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/specials\/rollOut.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/specials\/rollOut.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/zooming_entrances\/zoomIn.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/zooming_entrances\/zoomIn.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/zooming_entrances\/zoomInDown.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/zooming_entrances\/zoomInDown.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/zooming_entrances\/zoomInLeft.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/zooming_entrances\/zoomInLeft.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/zooming_entrances\/zoomInRight.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/zooming_entrances\/zoomInRight.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/zooming_entrances\/zoomInUp.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/zooming_entrances\/zoomInUp.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/zooming_exits\/zoomOut.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/zooming_exits\/zoomOut.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/zooming_exits\/zoomOutDown.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/zooming_exits\/zoomOutDown.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/zooming_exits\/zoomOutLeft.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/zooming_exits\/zoomOutLeft.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/zooming_exits\/zoomOutRight.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/zooming_exits\/zoomOutRight.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/bower_components\/animate.css\/source\/zooming_exits\/zoomOutUp.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/animate.css\/source\/zooming_exits\/zoomOutUp.css",
-		"oF": 0,
-		"oS": 3
 		},
 	"\/bower_components\/desandro-matches-selector\/.bower.json": {
 		"ft": 524288,
@@ -3104,14 +1368,14 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/desandro-matches-selector\/matches-selector.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/desandro-matches-selector\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -3148,22 +1412,14 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/ev-emitter\/ev-emitter.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
-	"\/bower_components\/ev-emitter\/package.json": {
-		"ft": 524288,
-		"oA": 2,
-		"oAP": "\/bower_components\/ev-emitter\/package.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
 	"\/bower_components\/ev-emitter\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -3194,10 +1450,10 @@
 		"oS": 1
 		},
 	"\/bower_components\/fizzy-ui-utils\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -3218,7 +1474,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/fizzy-ui-utils\/utils.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/flickity\/.bower.json": {
@@ -3274,7 +1530,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/flickity\/dist\/flickity.pkgd.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/flickity\/dist\/flickity.pkgd.min.js": {
@@ -3284,7 +1540,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/flickity\/dist\/flickity.pkgd.min.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/flickity\/js\/add-remove-cell.js": {
@@ -3294,7 +1550,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/flickity\/js\/add-remove-cell.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/flickity\/js\/animate.js": {
@@ -3304,7 +1560,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/flickity\/js\/animate.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/flickity\/js\/cell.js": {
@@ -3314,7 +1570,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/flickity\/js\/cell.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/flickity\/js\/drag.js": {
@@ -3324,7 +1580,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/flickity\/js\/drag.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/flickity\/js\/flickity.js": {
@@ -3334,7 +1590,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/flickity\/js\/flickity.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/flickity\/js\/index.js": {
@@ -3344,7 +1600,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/flickity\/js\/index.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/flickity\/js\/lazyload.js": {
@@ -3354,7 +1610,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/flickity\/js\/lazyload.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/flickity\/js\/page-dots.js": {
@@ -3364,7 +1620,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/flickity\/js\/page-dots.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/flickity\/js\/player.js": {
@@ -3374,7 +1630,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/flickity\/js\/player.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/flickity\/js\/prev-next-button.js": {
@@ -3384,7 +1640,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/flickity\/js\/prev-next-button.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/flickity\/js\/slide.js": {
@@ -3394,14 +1650,14 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/flickity\/js\/slide.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/flickity\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -3424,60 +1680,28 @@
 		"oS": 1
 		},
 	"\/bower_components\/foundation-sites\/.bowerrc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/.bowerrc",
 		"oF": 0
 		},
 	"\/bower_components\/foundation-sites\/.eslintrc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/.eslintrc",
 		"oF": 0
 		},
-	"\/bower_components\/foundation-sites\/.github\/ISSUE_TEMPLATE.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 2,
-		"oAP": "\/bower_components\/foundation-sites\/.github\/ISSUE_TEMPLATE.md",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/bower_components\/foundation-sites\/.github\/PULL_REQUEST_TEMPLATE.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 2,
-		"oAP": "\/bower_components\/foundation-sites\/.github\/PULL_REQUEST_TEMPLATE.md",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
 	"\/bower_components\/foundation-sites\/.sass-lint.yml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/.sass-lint.yml",
 		"oF": 0
 		},
 	"\/bower_components\/foundation-sites\/.travis.yml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/.travis.yml",
@@ -3544,6 +1768,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/bower_components\/foundation-sites\/_vendor\/normalize-scss\/sass\/normalize\/_vertical-rhythm.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/foundation-sites\/_vendor\/sassy-lists\/stylesheets\/functions\/_contain.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/_vendor\/sassy-lists\/stylesheets\/functions\/_contain.scss",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3626,7 +1863,7 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/bower_components\/foundation-sites\/assets\/foundation-flex.scss": {
+	"\/bower_components\/foundation-sites\/assets\/foundation-float.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -3634,7 +1871,20 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 2,
-		"oAP": "\/bower_components\/foundation-sites\/assets\/foundation-flex.scss",
+		"oAP": "\/bower_components\/foundation-sites\/assets\/foundation-float.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/foundation-sites\/assets\/foundation-prototype.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/assets\/foundation-prototype.scss",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -3682,10 +1932,10 @@
 		"oS": 1
 		},
 	"\/bower_components\/foundation-sites\/code-of-conduct.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -3708,6 +1958,7 @@
 		"oS": 1
 		},
 	"\/bower_components\/foundation-sites\/customizer\/config.yml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/customizer\/config.yml",
@@ -3722,70 +1973,91 @@
 		"oS": 1
 		},
 	"\/bower_components\/foundation-sites\/customizer\/index.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/customizer\/index.html",
 		"oF": 0
 		},
-	"\/bower_components\/foundation-sites\/dist\/css\/foundation-flex.css": {
+	"\/bower_components\/foundation-sites\/dist\/css\/foundation-float.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
-		"oAP": "\/bower_components\/foundation-sites\/dist\/css\/foundation-flex.css",
+		"oAP": "\/bower_components\/foundation-sites\/dist\/css\/foundation-float.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/bower_components\/foundation-sites\/dist\/css\/foundation-flex.min.css": {
+	"\/bower_components\/foundation-sites\/dist\/css\/foundation-float.min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
-		"oAP": "\/bower_components\/foundation-sites\/dist\/css\/foundation-flex.min.css",
+		"oAP": "\/bower_components\/foundation-sites\/dist\/css\/foundation-float.min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/bower_components\/foundation-sites\/dist\/css\/foundation-prototype.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/dist\/css\/foundation-prototype.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/bower_components\/foundation-sites\/dist\/css\/foundation-prototype.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/dist\/css\/foundation-prototype.min.css",
 		"oF": 0,
 		"oS": 3
 		},
 	"\/bower_components\/foundation-sites\/dist\/css\/foundation-rtl.css": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/dist\/css\/foundation-rtl.css",
 		"oF": 0,
-		"oS": 3
+		"oS": 0
 		},
 	"\/bower_components\/foundation-sites\/dist\/css\/foundation-rtl.min.css": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/dist\/css\/foundation-rtl.min.css",
 		"oF": 0,
-		"oS": 3
+		"oS": 0
 		},
 	"\/bower_components\/foundation-sites\/dist\/css\/foundation.css": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/dist\/css\/foundation.css",
 		"oF": 0,
-		"oS": 3
+		"oS": 0
 		},
 	"\/bower_components\/foundation-sites\/dist\/css\/foundation.min.css": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/dist\/css\/foundation.min.css",
 		"oF": 0,
-		"oS": 3
+		"oS": 0
 		},
 	"\/bower_components\/foundation-sites\/dist\/js\/foundation.d.ts": {
 		"cDF": 0,
@@ -3808,7 +2080,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/foundation-sites\/dist\/js\/foundation.js",
 		"oF": 0,
 		"sC": 1,
@@ -3822,6 +2094,16 @@
 		"oAP": "\/bower_components\/foundation-sites\/dist\/js\/foundation.min.js",
 		"oF": 0,
 		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/dist\/js\/npm.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/dist\/js\/npm.js",
+		"oF": 0,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.abide.js": {
@@ -4064,6 +2346,26 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.responsiveAccordionTabs.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.responsiveAccordionTabs.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.responsiveAccordionTabs.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.responsiveAccordionTabs.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.responsiveMenu.js": {
 		"ft": 64,
 		"ma": 0,
@@ -4142,6 +2444,26 @@
 		"oAP": "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.slider.min.js",
 		"oF": 0,
 		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.smoothScroll.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.smoothScroll.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.smoothScroll.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.smoothScroll.min.js",
+		"oF": 0,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.sticky.js": {
@@ -4244,6 +2566,26 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.imageLoader.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.imageLoader.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.imageLoader.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.imageLoader.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.keyboard.js": {
 		"ft": 64,
 		"ma": 0,
@@ -4324,6 +2666,26 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.timer.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.timer.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.timer.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.timer.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.timerAndImageLoader.js": {
 		"ft": 64,
 		"ma": 0,
@@ -4368,7 +2730,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/foundation-sites\/dist\/js\/plugins\/foundation.util.triggers.js",
 		"oF": 0,
 		"sC": 1,
@@ -4405,16 +2767,347 @@
 		"tS": 0
 		},
 	"\/bower_components\/foundation-sites\/docslink.sh": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/docslink.sh",
 		"oF": 0
 		},
-	"\/bower_components\/foundation-sites\/js\/foundation.abide.js": {
+	"\/bower_components\/foundation-sites\/js\/entries\/foundation-plugins.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/js\/entries\/foundation-plugins.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/js\/entries\/foundation.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/js\/entries\/foundation.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.abide.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.abide.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.accordion.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.accordion.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.accordionMenu.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.accordionMenu.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.core.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.core.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.drilldown.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.drilldown.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.dropdown.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.dropdown.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.dropdownMenu.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.dropdownMenu.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.equalizer.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.equalizer.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.interchange.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.interchange.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.magellan.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.magellan.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.offcanvas.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.offcanvas.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.orbit.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.orbit.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.responsiveAccordionTabs.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.responsiveAccordionTabs.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.responsiveMenu.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.responsiveMenu.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.responsiveToggle.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.responsiveToggle.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.reveal.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.reveal.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.slider.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.slider.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.smoothScroll.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.smoothScroll.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.sticky.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.sticky.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.tabs.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.tabs.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.toggler.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.toggler.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.tooltip.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.tooltip.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.util.box.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.util.box.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.util.imageLoader.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.util.imageLoader.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.util.keyboard.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.util.keyboard.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.util.mediaQuery.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.util.mediaQuery.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.util.motion.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.util.motion.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.util.nest.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.util.nest.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.util.timer.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.util.timer.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.util.touch.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.util.touch.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.util.triggers.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/js\/entries\/plugins\/foundation.util.triggers.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/js\/foundation.abide.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
 		"oAP": "\/bower_components\/foundation-sites\/js\/foundation.abide.js",
 		"oF": 0,
 		"sC": 1,
@@ -4424,7 +3117,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/foundation-sites\/js\/foundation.accordion.js",
 		"oF": 0,
 		"sC": 1,
@@ -4434,7 +3127,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/foundation-sites\/js\/foundation.accordionMenu.js",
 		"oF": 0,
 		"sC": 1,
@@ -4444,7 +3137,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/foundation-sites\/js\/foundation.core.js",
 		"oF": 0,
 		"sC": 1,
@@ -4454,7 +3147,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/foundation-sites\/js\/foundation.drilldown.js",
 		"oF": 0,
 		"sC": 1,
@@ -4464,7 +3157,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/foundation-sites\/js\/foundation.dropdown.js",
 		"oF": 0,
 		"sC": 1,
@@ -4474,7 +3167,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/foundation-sites\/js\/foundation.dropdownMenu.js",
 		"oF": 0,
 		"sC": 1,
@@ -4484,7 +3177,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/foundation-sites\/js\/foundation.equalizer.js",
 		"oF": 0,
 		"sC": 1,
@@ -4494,7 +3187,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/foundation-sites\/js\/foundation.interchange.js",
 		"oF": 0,
 		"sC": 1,
@@ -4504,7 +3197,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/foundation-sites\/js\/foundation.magellan.js",
 		"oF": 0,
 		"sC": 1,
@@ -4514,7 +3207,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/foundation-sites\/js\/foundation.offcanvas.js",
 		"oF": 0,
 		"sC": 1,
@@ -4524,17 +3217,47 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/foundation-sites\/js\/foundation.orbit.js",
 		"oF": 0,
 		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/js\/foundation.plugin.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/js\/foundation.plugin.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/js\/foundation.positionable.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/js\/foundation.positionable.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/js\/foundation.responsiveAccordionTabs.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/js\/foundation.responsiveAccordionTabs.js",
+		"oF": 0,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/foundation-sites\/js\/foundation.responsiveMenu.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/foundation-sites\/js\/foundation.responsiveMenu.js",
 		"oF": 0,
 		"sC": 1,
@@ -4544,7 +3267,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/foundation-sites\/js\/foundation.responsiveToggle.js",
 		"oF": 0,
 		"sC": 1,
@@ -4554,7 +3277,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/foundation-sites\/js\/foundation.reveal.js",
 		"oF": 0,
 		"sC": 1,
@@ -4564,17 +3287,27 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/foundation-sites\/js\/foundation.slider.js",
 		"oF": 0,
 		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/js\/foundation.smoothScroll.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/js\/foundation.smoothScroll.js",
+		"oF": 0,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/foundation-sites\/js\/foundation.sticky.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/foundation-sites\/js\/foundation.sticky.js",
 		"oF": 0,
 		"sC": 1,
@@ -4584,7 +3317,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/foundation-sites\/js\/foundation.tabs.js",
 		"oF": 0,
 		"sC": 1,
@@ -4594,7 +3327,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/foundation-sites\/js\/foundation.toggler.js",
 		"oF": 0,
 		"sC": 1,
@@ -4604,7 +3337,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/foundation-sites\/js\/foundation.tooltip.js",
 		"oF": 0,
 		"sC": 1,
@@ -4614,17 +3347,37 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/foundation-sites\/js\/foundation.util.box.js",
 		"oF": 0,
 		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/js\/foundation.util.core.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/js\/foundation.util.core.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/foundation-sites\/js\/foundation.util.imageLoader.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/js\/foundation.util.imageLoader.js",
+		"oF": 0,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/foundation-sites\/js\/foundation.util.keyboard.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/foundation-sites\/js\/foundation.util.keyboard.js",
 		"oF": 0,
 		"sC": 1,
@@ -4634,7 +3387,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/foundation-sites\/js\/foundation.util.mediaQuery.js",
 		"oF": 0,
 		"sC": 1,
@@ -4644,7 +3397,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/foundation-sites\/js\/foundation.util.motion.js",
 		"oF": 0,
 		"sC": 1,
@@ -4654,27 +3407,27 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/foundation-sites\/js\/foundation.util.nest.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/bower_components\/foundation-sites\/js\/foundation.util.timerAndImageLoader.js": {
+	"\/bower_components\/foundation-sites\/js\/foundation.util.timer.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/foundation-sites\/js\/foundation.util.timerAndImageLoader.js",
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/js\/foundation.util.timer.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/foundation-sites\/js\/foundation.util.touch.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/foundation-sites\/js\/foundation.util.touch.js",
 		"oF": 0,
 		"sC": 1,
@@ -4684,33 +3437,32 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/foundation-sites\/js\/foundation.util.triggers.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/bower_components\/foundation-sites\/js\/foundation.zf.responsiveAccordionTabs.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/foundation-sites\/js\/foundation.zf.responsiveAccordionTabs.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
 	"\/bower_components\/foundation-sites\/LICENSE": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/foundation-sites\/LICENSE",
 		"oF": 0
 		},
+	"\/bower_components\/foundation-sites\/package-lock.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/package-lock.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"\/bower_components\/foundation-sites\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -5478,6 +4230,279 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/bower_components\/foundation-sites\/scss\/prototype\/_arrow.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/scss\/prototype\/_arrow.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/foundation-sites\/scss\/prototype\/_border-box.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/scss\/prototype\/_border-box.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/foundation-sites\/scss\/prototype\/_border-none.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/scss\/prototype\/_border-none.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/foundation-sites\/scss\/prototype\/_bordered.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/scss\/prototype\/_bordered.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/foundation-sites\/scss\/prototype\/_box.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/scss\/prototype\/_box.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/foundation-sites\/scss\/prototype\/_display.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/scss\/prototype\/_display.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/foundation-sites\/scss\/prototype\/_font-styling.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/scss\/prototype\/_font-styling.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/foundation-sites\/scss\/prototype\/_list-style-type.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/scss\/prototype\/_list-style-type.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/foundation-sites\/scss\/prototype\/_overflow.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/scss\/prototype\/_overflow.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/foundation-sites\/scss\/prototype\/_position.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/scss\/prototype\/_position.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/foundation-sites\/scss\/prototype\/_prototype.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/scss\/prototype\/_prototype.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/foundation-sites\/scss\/prototype\/_relation.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/scss\/prototype\/_relation.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/foundation-sites\/scss\/prototype\/_rotate.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/scss\/prototype\/_rotate.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/foundation-sites\/scss\/prototype\/_rounded.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/scss\/prototype\/_rounded.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/foundation-sites\/scss\/prototype\/_separator.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/scss\/prototype\/_separator.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/foundation-sites\/scss\/prototype\/_shadow.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/scss\/prototype\/_shadow.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/foundation-sites\/scss\/prototype\/_sizing.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/scss\/prototype\/_sizing.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/foundation-sites\/scss\/prototype\/_spacing.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/scss\/prototype\/_spacing.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/foundation-sites\/scss\/prototype\/_text-decoration.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/scss\/prototype\/_text-decoration.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/foundation-sites\/scss\/prototype\/_text-transformation.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/scss\/prototype\/_text-transformation.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/foundation-sites\/scss\/prototype\/_text-utilities.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/scss\/prototype\/_text-utilities.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/bower_components\/foundation-sites\/scss\/settings\/_settings.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -5699,6 +4724,133 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/bower_components\/foundation-sites\/scss\/xy-grid\/_cell.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/scss\/xy-grid\/_cell.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/foundation-sites\/scss\/xy-grid\/_classes.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/scss\/xy-grid\/_classes.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/foundation-sites\/scss\/xy-grid\/_collapse.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/scss\/xy-grid\/_collapse.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/foundation-sites\/scss\/xy-grid\/_frame.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/scss\/xy-grid\/_frame.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/foundation-sites\/scss\/xy-grid\/_grid.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/scss\/xy-grid\/_grid.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/foundation-sites\/scss\/xy-grid\/_gutters.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/scss\/xy-grid\/_gutters.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/foundation-sites\/scss\/xy-grid\/_layout.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/scss\/xy-grid\/_layout.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/foundation-sites\/scss\/xy-grid\/_position.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/scss\/xy-grid\/_position.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/foundation-sites\/scss\/xy-grid\/_xy-grid.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/foundation-sites\/scss\/xy-grid\/_xy-grid.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/foundation-sites\/webpack.config.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/foundation-sites\/webpack.config.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/bower_components\/get-size\/.bower.json": {
 		"ft": 524288,
 		"oA": 2,
@@ -5722,14 +4874,14 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/get-size\/get-size.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/get-size\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -5752,6 +4904,7 @@
 		"oS": 1
 		},
 	"\/bower_components\/jquery\/AUTHORS.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/AUTHORS.txt",
@@ -5772,14 +4925,14 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/dist\/core.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/jquery\/dist\/jquery.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/jquery\/dist\/jquery.js",
 		"oF": 0,
 		"sC": 1,
@@ -5796,6 +4949,7 @@
 		"tS": 0
 		},
 	"\/bower_components\/jquery\/dist\/jquery.min.map": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/dist\/jquery.min.map",
@@ -5808,7 +4962,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/dist\/jquery.slim.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/jquery\/dist\/jquery.slim.min.js": {
@@ -5818,10 +4972,11 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/dist\/jquery.slim.min.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/jquery\/dist\/jquery.slim.min.map": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/dist\/jquery.slim.min.map",
@@ -5848,28 +5003,31 @@
 		"tS": 0
 		},
 	"\/bower_components\/jquery\/external\/sizzle\/dist\/sizzle.min.map": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/external\/sizzle\/dist\/sizzle.min.map",
 		"oF": 0
 		},
 	"\/bower_components\/jquery\/external\/sizzle\/LICENSE.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/external\/sizzle\/LICENSE.txt",
 		"oF": 0
 		},
 	"\/bower_components\/jquery\/LICENSE.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/LICENSE.txt",
 		"oF": 0
 		},
 	"\/bower_components\/jquery\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -6071,6 +5229,16 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/bower_components\/jquery\/src\/core\/camelCase.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/jquery\/src\/core\/camelCase.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/bower_components\/jquery\/src\/core\/DOMEval.js": {
 		"ft": 64,
 		"ma": 0,
@@ -6078,7 +5246,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/src\/core\/DOMEval.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/jquery\/src\/core\/init.js": {
@@ -6089,6 +5257,16 @@
 		"oAP": "\/bower_components\/jquery\/src\/core\/init.js",
 		"oF": 0,
 		"sC": 1,
+		"tS": 0
+		},
+	"\/bower_components\/jquery\/src\/core\/nodeName.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/jquery\/src\/core\/nodeName.js",
+		"oF": 0,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/jquery\/src\/core\/parseHTML.js": {
@@ -6108,7 +5286,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/src\/core\/ready-no-deferred.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/jquery\/src\/core\/ready.js": {
@@ -6128,7 +5306,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/src\/core\/readyException.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/jquery\/src\/core\/stripAndCollapse.js": {
@@ -6138,7 +5316,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/src\/core\/stripAndCollapse.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/jquery\/src\/core\/support.js": {
@@ -6148,7 +5326,17 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/src\/core\/support.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/jquery\/src\/core\/toType.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/jquery\/src\/core\/toType.js",
+		"oF": 0,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/jquery\/src\/core\/var\/rsingleTag.js": {
@@ -6258,17 +5446,17 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/src\/css\/var\/isHiddenWithinTree.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
-	"\/bower_components\/jquery\/src\/css\/var\/rmargin.js": {
+	"\/bower_components\/jquery\/src\/css\/var\/rboxStyle.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/jquery\/src\/css\/var\/rmargin.js",
+		"oAP": "\/bower_components\/jquery\/src\/css\/var\/rboxStyle.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/jquery\/src\/css\/var\/rnumnonpx.js": {
@@ -6358,7 +5546,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/src\/deferred\/exceptionHook.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/jquery\/src\/deprecated.js": {
@@ -6778,7 +5966,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/src\/var\/fnToString.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/jquery\/src\/var\/getProto.js": {
@@ -6788,7 +5976,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/src\/var\/getProto.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/jquery\/src\/var\/hasOwn.js": {
@@ -6811,6 +5999,26 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/bower_components\/jquery\/src\/var\/isFunction.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/jquery\/src\/var\/isFunction.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/jquery\/src\/var\/isWindow.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/jquery\/src\/var\/isWindow.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/bower_components\/jquery\/src\/var\/ObjectFunctionString.js": {
 		"ft": 64,
 		"ma": 0,
@@ -6818,7 +6026,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/src\/var\/ObjectFunctionString.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/jquery\/src\/var\/pnum.js": {
@@ -6858,7 +6066,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/jquery\/src\/var\/rnothtmlwhite.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/jquery\/src\/var\/slice.js": {
@@ -6901,6 +6109,1051 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/bower_components\/lightgallery.js\/.babelrc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/.babelrc",
+		"oF": 0
+		},
+	"\/bower_components\/lightgallery.js\/.banner": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/.banner",
+		"oF": 0
+		},
+	"\/bower_components\/lightgallery.js\/.bower.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/.bower.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/bower_components\/lightgallery.js\/.editorconfig": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/.editorconfig",
+		"oF": 0
+		},
+	"\/bower_components\/lightgallery.js\/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/.gitignore",
+		"oF": 0
+		},
+	"\/bower_components\/lightgallery.js\/.jscsrc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/.jscsrc",
+		"oF": 0
+		},
+	"\/bower_components\/lightgallery.js\/.jshintrc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/.jshintrc",
+		"oF": 0
+		},
+	"\/bower_components\/lightgallery.js\/.npmignore": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/.npmignore",
+		"oF": 0
+		},
+	"\/bower_components\/lightgallery.js\/.travis.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/.travis.yml",
+		"oF": 0
+		},
+	"\/bower_components\/lightgallery.js\/bower.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/bower.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/bower_components\/lightgallery.js\/contributing.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/contributing.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/bower_components\/lightgallery.js\/demo\/img\/1-1600.jpg": {
+		"ft": 16384,
+		"iS": 234183,
+		"jF": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/demo\/img\/1-1600.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/bower_components\/lightgallery.js\/demo\/img\/1-375.jpg": {
+		"ft": 16384,
+		"iS": 21792,
+		"jF": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/demo\/img\/1-375.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/bower_components\/lightgallery.js\/demo\/img\/1-480.jpg": {
+		"ft": 16384,
+		"iS": 31975,
+		"jF": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/demo\/img\/1-480.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/bower_components\/lightgallery.js\/demo\/img\/1.jpg": {
+		"ft": 16384,
+		"iS": 86323,
+		"jF": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/demo\/img\/1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/bower_components\/lightgallery.js\/demo\/img\/13-1600.jpg": {
+		"ft": 16384,
+		"iS": 123936,
+		"jF": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/demo\/img\/13-1600.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/bower_components\/lightgallery.js\/demo\/img\/13-375.jpg": {
+		"ft": 16384,
+		"iS": 21232,
+		"jF": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/demo\/img\/13-375.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/bower_components\/lightgallery.js\/demo\/img\/13-480.jpg": {
+		"ft": 16384,
+		"iS": 33612,
+		"jF": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/demo\/img\/13-480.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/bower_components\/lightgallery.js\/demo\/img\/13.jpg": {
+		"ft": 16384,
+		"iS": 117674,
+		"jF": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/demo\/img\/13.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/bower_components\/lightgallery.js\/demo\/img\/2-1600.jpg": {
+		"ft": 16384,
+		"iS": 180542,
+		"jF": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/demo\/img\/2-1600.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/bower_components\/lightgallery.js\/demo\/img\/2-375.jpg": {
+		"ft": 16384,
+		"iS": 28704,
+		"jF": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/demo\/img\/2-375.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/bower_components\/lightgallery.js\/demo\/img\/2-480.jpg": {
+		"ft": 16384,
+		"iS": 46100,
+		"jF": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/demo\/img\/2-480.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/bower_components\/lightgallery.js\/demo\/img\/2.jpg": {
+		"ft": 16384,
+		"iS": 303121,
+		"jF": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/demo\/img\/2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/bower_components\/lightgallery.js\/demo\/img\/4-1600.jpg": {
+		"ft": 16384,
+		"iS": 148827,
+		"jF": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/demo\/img\/4-1600.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/bower_components\/lightgallery.js\/demo\/img\/4-375.jpg": {
+		"ft": 16384,
+		"iS": 17059,
+		"jF": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/demo\/img\/4-375.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/bower_components\/lightgallery.js\/demo\/img\/4-480.jpg": {
+		"ft": 16384,
+		"iS": 23937,
+		"jF": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/demo\/img\/4-480.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/bower_components\/lightgallery.js\/demo\/img\/4.jpg": {
+		"ft": 16384,
+		"iS": 66303,
+		"jF": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/demo\/img\/4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/bower_components\/lightgallery.js\/demo\/img\/thumb-1.jpg": {
+		"ft": 16384,
+		"iS": 66514,
+		"jF": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/demo\/img\/thumb-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/bower_components\/lightgallery.js\/demo\/img\/thumb-13.jpg": {
+		"ft": 16384,
+		"iS": 75017,
+		"jF": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/demo\/img\/thumb-13.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/bower_components\/lightgallery.js\/demo\/img\/thumb-2.jpg": {
+		"ft": 16384,
+		"iS": 91305,
+		"jF": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/demo\/img\/thumb-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/bower_components\/lightgallery.js\/demo\/img\/thumb-4.jpg": {
+		"ft": 16384,
+		"iS": 52589,
+		"jF": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/demo\/img\/thumb-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/bower_components\/lightgallery.js\/demo\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/demo\/index.html",
+		"oF": 0
+		},
+	"\/bower_components\/lightgallery.js\/demo\/js\/lg-autoplay.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/demo\/js\/lg-autoplay.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/lightgallery.js\/demo\/js\/lg-autoplay.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/demo\/js\/lg-autoplay.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/lightgallery.js\/demo\/js\/lg-fullscreen.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/demo\/js\/lg-fullscreen.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/lightgallery.js\/demo\/js\/lg-fullscreen.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/demo\/js\/lg-fullscreen.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/lightgallery.js\/demo\/js\/lg-hash.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/demo\/js\/lg-hash.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/lightgallery.js\/demo\/js\/lg-hash.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/demo\/js\/lg-hash.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/lightgallery.js\/demo\/js\/lg-pager.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/demo\/js\/lg-pager.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/lightgallery.js\/demo\/js\/lg-pager.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/demo\/js\/lg-pager.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/lightgallery.js\/demo\/js\/lg-share.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/demo\/js\/lg-share.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/lightgallery.js\/demo\/js\/lg-share.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/demo\/js\/lg-share.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/lightgallery.js\/demo\/js\/lg-thumbnail.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/demo\/js\/lg-thumbnail.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/lightgallery.js\/demo\/js\/lg-thumbnail.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/demo\/js\/lg-thumbnail.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/lightgallery.js\/demo\/js\/lg-video.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/demo\/js\/lg-video.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/lightgallery.js\/demo\/js\/lg-video.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/demo\/js\/lg-video.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/lightgallery.js\/demo\/js\/lg-zoom.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/demo\/js\/lg-zoom.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/lightgallery.js\/demo\/js\/lg-zoom.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/demo\/js\/lg-zoom.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/lightgallery.js\/demo\/js\/lightgallery.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/demo\/js\/lightgallery.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/lightgallery.js\/demo\/js\/lightgallery.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/demo\/js\/lightgallery.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/lightgallery.js\/dist\/css\/lg-fb-comment-box.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/dist\/css\/lg-fb-comment-box.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/bower_components\/lightgallery.js\/dist\/css\/lg-fb-comment-box.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/dist\/css\/lg-fb-comment-box.css.map",
+		"oF": 0
+		},
+	"\/bower_components\/lightgallery.js\/dist\/css\/lg-fb-comment-box.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/dist\/css\/lg-fb-comment-box.min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/bower_components\/lightgallery.js\/dist\/css\/lg-transitions.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/dist\/css\/lg-transitions.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/bower_components\/lightgallery.js\/dist\/css\/lg-transitions.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/dist\/css\/lg-transitions.css.map",
+		"oF": 0
+		},
+	"\/bower_components\/lightgallery.js\/dist\/css\/lg-transitions.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/dist\/css\/lg-transitions.min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/bower_components\/lightgallery.js\/dist\/css\/lightgallery.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/dist\/css\/lightgallery.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/bower_components\/lightgallery.js\/dist\/css\/lightgallery.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/dist\/css\/lightgallery.css.map",
+		"oF": 0
+		},
+	"\/bower_components\/lightgallery.js\/dist\/css\/lightgallery.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/dist\/css\/lightgallery.min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/bower_components\/lightgallery.js\/dist\/fonts\/lg.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/dist\/fonts\/lg.eot",
+		"oF": 0
+		},
+	"\/bower_components\/lightgallery.js\/dist\/fonts\/lg.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/dist\/fonts\/lg.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/bower_components\/lightgallery.js\/dist\/fonts\/lg.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/dist\/fonts\/lg.ttf",
+		"oF": 0
+		},
+	"\/bower_components\/lightgallery.js\/dist\/fonts\/lg.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/dist\/fonts\/lg.woff",
+		"oF": 0
+		},
+	"\/bower_components\/lightgallery.js\/dist\/img\/loading.gif": {
+		"ft": 4194304,
+		"iS": 3801,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/dist\/img\/loading.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/bower_components\/lightgallery.js\/dist\/img\/video-play.png": {
+		"ft": 32768,
+		"iS": 819,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/dist\/img\/video-play.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/bower_components\/lightgallery.js\/dist\/img\/vimeo-play.png": {
+		"ft": 32768,
+		"iS": 1482,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/dist\/img\/vimeo-play.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/bower_components\/lightgallery.js\/dist\/img\/youtube-play.png": {
+		"ft": 32768,
+		"iS": 2703,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/dist\/img\/youtube-play.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/bower_components\/lightgallery.js\/dist\/js\/lightgallery.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/bower_components\/lightgallery.js\/dist\/js\/lightgallery.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/lightgallery.js\/dist\/js\/lightgallery.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/dist\/js\/lightgallery.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/lightgallery.js\/LICENSE.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/LICENSE.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/bower_components\/lightgallery.js\/package.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/package.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/bower_components\/lightgallery.js\/readme.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/readme.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/bower_components\/lightgallery.js\/src\/css\/lg-fb-comment-box.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/src\/css\/lg-fb-comment-box.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/bower_components\/lightgallery.js\/src\/css\/lg-transitions.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/src\/css\/lg-transitions.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/bower_components\/lightgallery.js\/src\/css\/lightgallery.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/src\/css\/lightgallery.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/bower_components\/lightgallery.js\/src\/fonts\/lg.eot": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/src\/fonts\/lg.eot",
+		"oF": 0
+		},
+	"\/bower_components\/lightgallery.js\/src\/fonts\/lg.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/src\/fonts\/lg.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/bower_components\/lightgallery.js\/src\/fonts\/lg.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/src\/fonts\/lg.ttf",
+		"oF": 0
+		},
+	"\/bower_components\/lightgallery.js\/src\/fonts\/lg.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/src\/fonts\/lg.woff",
+		"oF": 0
+		},
+	"\/bower_components\/lightgallery.js\/src\/img\/loading.gif": {
+		"ft": 4194304,
+		"iS": 3801,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/src\/img\/loading.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/bower_components\/lightgallery.js\/src\/img\/video-play.png": {
+		"ft": 32768,
+		"iS": 819,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/src\/img\/video-play.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/bower_components\/lightgallery.js\/src\/img\/vimeo-play.png": {
+		"ft": 32768,
+		"iS": 1482,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/src\/img\/vimeo-play.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/bower_components\/lightgallery.js\/src\/img\/youtube-play.png": {
+		"ft": 32768,
+		"iS": 2703,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/src\/img\/youtube-play.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/bower_components\/lightgallery.js\/src\/js\/.jscsrc": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/src\/js\/.jscsrc",
+		"oF": 0
+		},
+	"\/bower_components\/lightgallery.js\/src\/js\/lg-utils.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/bower_components\/lightgallery.js\/src\/js\/lg-utils.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/lightgallery.js\/src\/js\/lightgallery.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/src\/js\/lightgallery.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/lightgallery.js\/src\/sass\/lg-animations.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/src\/sass\/lg-animations.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/lightgallery.js\/src\/sass\/lg-autoplay.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/lightgallery.js\/src\/sass\/lg-autoplay.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/lightgallery.js\/src\/sass\/lg-fb-comment-box.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/src\/sass\/lg-fb-comment-box.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/lightgallery.js\/src\/sass\/lg-fonts.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/lightgallery.js\/src\/sass\/lg-fonts.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/lightgallery.js\/src\/sass\/lg-fullscreen.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/lightgallery.js\/src\/sass\/lg-fullscreen.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/lightgallery.js\/src\/sass\/lg-mixins.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/lightgallery.js\/src\/sass\/lg-mixins.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/lightgallery.js\/src\/sass\/lg-pager.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/lightgallery.js\/src\/sass\/lg-pager.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/lightgallery.js\/src\/sass\/lg-share.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/lightgallery.js\/src\/sass\/lg-share.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/lightgallery.js\/src\/sass\/lg-theme-default.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/lightgallery.js\/src\/sass\/lg-theme-default.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/lightgallery.js\/src\/sass\/lg-thumbnail.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/lightgallery.js\/src\/sass\/lg-thumbnail.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/lightgallery.js\/src\/sass\/lg-transitions.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/src\/sass\/lg-transitions.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/lightgallery.js\/src\/sass\/lg-variables.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/lightgallery.js\/src\/sass\/lg-variables.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/lightgallery.js\/src\/sass\/lg-video.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/lightgallery.js\/src\/sass\/lg-video.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/lightgallery.js\/src\/sass\/lg-zoom.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/lightgallery.js\/src\/sass\/lg-zoom.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/lightgallery.js\/src\/sass\/lightgallery.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/src\/sass\/lightgallery.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/lightgallery.js\/src\/sass\/prepros.cfg": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery.js\/src\/sass\/prepros.cfg",
+		"oF": 0
+		},
 	"\/bower_components\/lightgallery\/.bower.json": {
 		"ft": 524288,
 		"oA": 2,
@@ -6910,30 +7163,42 @@
 		"oS": 1
 		},
 	"\/bower_components\/lightgallery\/.editorconfig": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/.editorconfig",
 		"oF": 0
 		},
+	"\/bower_components\/lightgallery\/.gitattributes": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery\/.gitattributes",
+		"oF": 0
+		},
 	"\/bower_components\/lightgallery\/.gitignore": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/.gitignore",
 		"oF": 0
 		},
 	"\/bower_components\/lightgallery\/.jscsrc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/.jscsrc",
 		"oF": 0
 		},
 	"\/bower_components\/lightgallery\/.jshintrc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/.jshintrc",
 		"oF": 0
 		},
 	"\/bower_components\/lightgallery\/.travis.yml": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/.travis.yml",
@@ -6948,10 +7213,10 @@
 		"oS": 1
 		},
 	"\/bower_components\/lightgallery\/contributing.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -6968,6 +7233,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/1-1600.jpg": {
 		"ft": 16384,
 		"iS": 241923,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/1-1600.jpg",
 		"oF": 0,
@@ -6978,6 +7244,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/1-375.jpg": {
 		"ft": 16384,
 		"iS": 23648,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/1-375.jpg",
 		"oF": 0,
@@ -6988,6 +7255,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/1-480.jpg": {
 		"ft": 16384,
 		"iS": 34414,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/1-480.jpg",
 		"oF": 0,
@@ -6998,6 +7266,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/1.jpg": {
 		"ft": 16384,
 		"iS": 91130,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/1.jpg",
 		"oF": 0,
@@ -7008,6 +7277,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/13-1600.jpg": {
 		"ft": 16384,
 		"iS": 129996,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/13-1600.jpg",
 		"oF": 0,
@@ -7018,6 +7288,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/13-375.jpg": {
 		"ft": 16384,
 		"iS": 22812,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/13-375.jpg",
 		"oF": 0,
@@ -7028,6 +7299,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/13-480.jpg": {
 		"ft": 16384,
 		"iS": 35693,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/13-480.jpg",
 		"oF": 0,
@@ -7038,6 +7310,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/13.jpg": {
 		"ft": 16384,
 		"iS": 124149,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/13.jpg",
 		"oF": 0,
@@ -7048,6 +7321,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/2-1600.jpg": {
 		"ft": 16384,
 		"iS": 187925,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/2-1600.jpg",
 		"oF": 0,
@@ -7058,6 +7332,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/2-375.jpg": {
 		"ft": 16384,
 		"iS": 30307,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/2-375.jpg",
 		"oF": 0,
@@ -7068,6 +7343,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/2-480.jpg": {
 		"ft": 16384,
 		"iS": 48290,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/2-480.jpg",
 		"oF": 0,
@@ -7078,6 +7354,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/2.jpg": {
 		"ft": 16384,
 		"iS": 326478,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/2.jpg",
 		"oF": 0,
@@ -7088,6 +7365,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/4-1600.jpg": {
 		"ft": 16384,
 		"iS": 153989,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/4-1600.jpg",
 		"oF": 0,
@@ -7098,6 +7376,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/4-375.jpg": {
 		"ft": 16384,
 		"iS": 18396,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/4-375.jpg",
 		"oF": 0,
@@ -7108,6 +7387,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/4-480.jpg": {
 		"ft": 16384,
 		"iS": 25839,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/4-480.jpg",
 		"oF": 0,
@@ -7118,6 +7398,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/4.jpg": {
 		"ft": 16384,
 		"iS": 70944,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/4.jpg",
 		"oF": 0,
@@ -7128,6 +7409,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/thumb-1.jpg": {
 		"ft": 16384,
 		"iS": 68187,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/thumb-1.jpg",
 		"oF": 0,
@@ -7138,6 +7420,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/thumb-13.jpg": {
 		"ft": 16384,
 		"iS": 76594,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/thumb-13.jpg",
 		"oF": 0,
@@ -7148,6 +7431,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/thumb-2.jpg": {
 		"ft": 16384,
 		"iS": 92856,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/thumb-2.jpg",
 		"oF": 0,
@@ -7158,6 +7442,7 @@
 	"\/bower_components\/lightgallery\/demo\/img\/thumb-4.jpg": {
 		"ft": 16384,
 		"iS": 53719,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/img\/thumb-4.jpg",
 		"oF": 0,
@@ -7166,190 +7451,11 @@
 		"q": 100
 		},
 	"\/bower_components\/lightgallery\/demo\/index.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/demo\/index.html",
 		"oF": 0
-		},
-	"\/bower_components\/lightgallery\/demo\/js\/lg-autoplay.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/lightgallery\/demo\/js\/lg-autoplay.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/bower_components\/lightgallery\/demo\/js\/lg-autoplay.min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/lightgallery\/demo\/js\/lg-autoplay.min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/bower_components\/lightgallery\/demo\/js\/lg-fullscreen.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/lightgallery\/demo\/js\/lg-fullscreen.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/bower_components\/lightgallery\/demo\/js\/lg-fullscreen.min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/lightgallery\/demo\/js\/lg-fullscreen.min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/bower_components\/lightgallery\/demo\/js\/lg-hash.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/lightgallery\/demo\/js\/lg-hash.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/bower_components\/lightgallery\/demo\/js\/lg-hash.min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/lightgallery\/demo\/js\/lg-hash.min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/bower_components\/lightgallery\/demo\/js\/lg-pager.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/lightgallery\/demo\/js\/lg-pager.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/bower_components\/lightgallery\/demo\/js\/lg-pager.min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/lightgallery\/demo\/js\/lg-pager.min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/bower_components\/lightgallery\/demo\/js\/lg-share.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/lightgallery\/demo\/js\/lg-share.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/bower_components\/lightgallery\/demo\/js\/lg-share.min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/lightgallery\/demo\/js\/lg-share.min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/bower_components\/lightgallery\/demo\/js\/lg-thumbnail.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/lightgallery\/demo\/js\/lg-thumbnail.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/bower_components\/lightgallery\/demo\/js\/lg-thumbnail.min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/lightgallery\/demo\/js\/lg-thumbnail.min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/bower_components\/lightgallery\/demo\/js\/lg-video.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/lightgallery\/demo\/js\/lg-video.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/bower_components\/lightgallery\/demo\/js\/lg-video.min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/lightgallery\/demo\/js\/lg-video.min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/bower_components\/lightgallery\/demo\/js\/lg-zoom.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/lightgallery\/demo\/js\/lg-zoom.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/bower_components\/lightgallery\/demo\/js\/lg-zoom.min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/lightgallery\/demo\/js\/lg-zoom.min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/bower_components\/lightgallery\/demo\/js\/lightgallery.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/lightgallery\/demo\/js\/lightgallery.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/bower_components\/lightgallery\/demo\/js\/lightgallery.min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/lightgallery\/demo\/js\/lightgallery.min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
 		},
 	"\/bower_components\/lightgallery\/dist\/css\/lg-fb-comment-box.css": {
 		"aP": 1,
@@ -7412,6 +7518,7 @@
 		"oS": 3
 		},
 	"\/bower_components\/lightgallery\/dist\/fonts\/lg.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/dist\/fonts\/lg.eot",
@@ -7428,12 +7535,14 @@
 		"prP": 0
 		},
 	"\/bower_components\/lightgallery\/dist\/fonts\/lg.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/dist\/fonts\/lg.ttf",
 		"oF": 0
 		},
 	"\/bower_components\/lightgallery\/dist\/fonts\/lg.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/dist\/fonts\/lg.woff",
@@ -7480,6 +7589,26 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/bower_components\/lightgallery\/dist\/js\/lightgallery-all.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery\/dist\/js\/lightgallery-all.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/lightgallery\/dist\/js\/lightgallery-all.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery\/dist\/js\/lightgallery-all.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/bower_components\/lightgallery\/dist\/js\/lightgallery.js": {
 		"ft": 64,
 		"ma": 0,
@@ -7487,7 +7616,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/dist\/js\/lightgallery.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/lightgallery\/dist\/js\/lightgallery.min.js": {
@@ -7497,7 +7626,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/dist\/js\/lightgallery.min.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/lightgallery\/Gruntfile.js": {
@@ -7507,7 +7636,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/Gruntfile.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/lightgallery\/lib\/jquery.mousewheel.min.js": {
@@ -7517,7 +7646,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/lib\/jquery.mousewheel.min.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/lightgallery\/lib\/lg.png": {
@@ -7538,14 +7667,14 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/lib\/picturefill.min.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/lightgallery\/LICENSE.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -7566,6 +7695,166 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"\/bower_components\/lightgallery\/modules\/lg-autoplay.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery\/modules\/lg-autoplay.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/lightgallery\/modules\/lg-autoplay.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery\/modules\/lg-autoplay.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/lightgallery\/modules\/lg-fullscreen.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery\/modules\/lg-fullscreen.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/lightgallery\/modules\/lg-fullscreen.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery\/modules\/lg-fullscreen.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/lightgallery\/modules\/lg-hash.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery\/modules\/lg-hash.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/lightgallery\/modules\/lg-hash.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery\/modules\/lg-hash.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/lightgallery\/modules\/lg-pager.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery\/modules\/lg-pager.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/lightgallery\/modules\/lg-pager.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery\/modules\/lg-pager.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/lightgallery\/modules\/lg-share.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery\/modules\/lg-share.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/lightgallery\/modules\/lg-share.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery\/modules\/lg-share.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/lightgallery\/modules\/lg-thumbnail.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery\/modules\/lg-thumbnail.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/lightgallery\/modules\/lg-thumbnail.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery\/modules\/lg-thumbnail.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/lightgallery\/modules\/lg-video.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery\/modules\/lg-video.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/lightgallery\/modules\/lg-video.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery\/modules\/lg-video.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/lightgallery\/modules\/lg-zoom.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery\/modules\/lg-zoom.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/lightgallery\/modules\/lg-zoom.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/lightgallery\/modules\/lg-zoom.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
 		},
 	"\/bower_components\/lightgallery\/package.json": {
 		"ft": 524288,
@@ -7594,6 +7883,7 @@
 		"oS": 3
 		},
 	"\/bower_components\/lightgallery\/src\/css\/lg-fb-comment-box.css.map": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/src\/css\/lg-fb-comment-box.css.map",
@@ -7610,6 +7900,7 @@
 		"oS": 3
 		},
 	"\/bower_components\/lightgallery\/src\/css\/lg-transitions.css.map": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/src\/css\/lg-transitions.css.map",
@@ -7626,12 +7917,14 @@
 		"oS": 3
 		},
 	"\/bower_components\/lightgallery\/src\/css\/lightgallery.css.map": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/src\/css\/lightgallery.css.map",
 		"oF": 0
 		},
 	"\/bower_components\/lightgallery\/src\/fonts\/lg.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/src\/fonts\/lg.eot",
@@ -7648,12 +7941,14 @@
 		"prP": 0
 		},
 	"\/bower_components\/lightgallery\/src\/fonts\/lg.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/src\/fonts\/lg.ttf",
 		"oF": 0
 		},
 	"\/bower_components\/lightgallery\/src\/fonts\/lg.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/src\/fonts\/lg.woff",
@@ -7701,6 +7996,7 @@
 		"q": 100
 		},
 	"\/bower_components\/lightgallery\/src\/js\/.jshintrc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/src\/js\/.jshintrc",
@@ -7713,7 +8009,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/src\/js\/lightgallery.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/lightgallery\/src\/sass\/lg-animations.scss": {
@@ -7738,6 +8034,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/bower_components\/lightgallery\/src\/sass\/lg-autoplay.scss",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bower_components\/lightgallery\/src\/sass\/lg-core.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bower_components\/lightgallery\/src\/sass\/lg-core.scss",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -7912,18 +8221,21 @@
 		"uL": 1
 		},
 	"\/bower_components\/lightgallery\/src\/sass\/prepros.cfg": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/src\/sass\/prepros.cfg",
 		"oF": 0
 		},
 	"\/bower_components\/lightgallery\/test\/.jshintrc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/test\/.jshintrc",
 		"oF": 0
 		},
 	"\/bower_components\/lightgallery\/test\/lightgallery.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/test\/lightgallery.html",
@@ -7936,7 +8248,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/lightgallery\/test\/lightgallery_test.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/motion-ui\/.bower.json": {
@@ -7964,34 +8276,34 @@
 		"oS": 1
 		},
 	"\/bower_components\/motion-ui\/dist\/motion-ui.css": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/motion-ui\/dist\/motion-ui.css",
 		"oF": 0,
-		"oS": 3
+		"oS": 0
 		},
 	"\/bower_components\/motion-ui\/dist\/motion-ui.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/motion-ui\/dist\/motion-ui.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
 	"\/bower_components\/motion-ui\/dist\/motion-ui.min.css": {
-		"aP": 1,
+		"aP": 0,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/motion-ui\/dist\/motion-ui.min.css",
 		"oF": 0,
-		"oS": 3
+		"oS": 0
 		},
 	"\/bower_components\/motion-ui\/dist\/motion-ui.min.js": {
 		"ft": 64,
@@ -8004,10 +8316,10 @@
 		"tS": 0
 		},
 	"\/bower_components\/motion-ui\/docs\/animations.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -8022,10 +8334,10 @@
 		"uCM": 0
 		},
 	"\/bower_components\/motion-ui\/docs\/classes.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -8040,10 +8352,10 @@
 		"uCM": 0
 		},
 	"\/bower_components\/motion-ui\/docs\/configuration.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -8058,10 +8370,10 @@
 		"uCM": 0
 		},
 	"\/bower_components\/motion-ui\/docs\/installation.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -8076,10 +8388,10 @@
 		"uCM": 0
 		},
 	"\/bower_components\/motion-ui\/docs\/javascript.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -8094,10 +8406,10 @@
 		"uCM": 0
 		},
 	"\/bower_components\/motion-ui\/docs\/readme.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -8112,10 +8424,10 @@
 		"uCM": 0
 		},
 	"\/bower_components\/motion-ui\/docs\/transitions.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -8130,10 +8442,10 @@
 		"uCM": 0
 		},
 	"\/bower_components\/motion-ui\/docs\/wow.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -8168,10 +8480,29 @@
 		"tS": 0
 		},
 	"\/bower_components\/motion-ui\/LICENSE": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/motion-ui\/LICENSE",
 		"oF": 0
+		},
+	"\/bower_components\/motion-ui\/meteor-README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/bower_components\/motion-ui\/meteor-README.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"\/bower_components\/motion-ui\/motion-ui.js": {
 		"ft": 64,
@@ -8196,6 +8527,16 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/bower_components\/motion-ui\/package.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/motion-ui\/package.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/bower_components\/motion-ui\/package.json": {
 		"ft": 524288,
 		"oA": 2,
@@ -8205,10 +8546,10 @@
 		"oS": 1
 		},
 	"\/bower_components\/motion-ui\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -8525,6 +8866,7 @@
 		"oS": 1
 		},
 	"\/bower_components\/svgxuse\/license": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/svgxuse\/license",
@@ -8539,10 +8881,10 @@
 		"oS": 1
 		},
 	"\/bower_components\/svgxuse\/readme.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -8593,10 +8935,10 @@
 		"oS": 1
 		},
 	"\/bower_components\/tap-listener\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -8617,7 +8959,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/tap-listener\/tap-listener.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/unidragger\/.bower.json": {
@@ -8637,10 +8979,10 @@
 		"oS": 1
 		},
 	"\/bower_components\/unidragger\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -8661,7 +9003,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/unidragger\/unidragger.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/unipointer\/.bower.json": {
@@ -8681,10 +9023,10 @@
 		"oS": 1
 		},
 	"\/bower_components\/unipointer\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -8705,7 +9047,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/unipointer\/unipointer.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/what-input\/.bower.json": {
@@ -8738,7 +9080,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/what-input\/dist\/what-input.js",
 		"oF": 0,
 		"sC": 1,
@@ -8755,6 +9097,7 @@
 		"tS": 0
 		},
 	"\/bower_components\/what-input\/docs\/index.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/what-input\/docs\/index.html",
@@ -8767,7 +9110,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/what-input\/docs\/scripts\/lte-IE8.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/what-input\/docs\/scripts\/what-input.js": {
@@ -8777,7 +9120,7 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/what-input\/docs\/scripts\/what-input.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
 	"\/bower_components\/what-input\/Gulpfile.js": {
@@ -8791,6 +9134,7 @@
 		"tS": 0
 		},
 	"\/bower_components\/what-input\/LICENSE": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/what-input\/LICENSE",
@@ -8805,10 +9149,10 @@
 		"oS": 1
 		},
 	"\/bower_components\/what-input\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -8853,16 +9197,17 @@
 		"tS": 0
 		},
 	"\/bower_components\/what-input\/yarn.lock": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bower_components\/what-input\/yarn.lock",
 		"oF": 0
 		},
 	"\/CHANGELOG.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -8877,28 +9222,31 @@
 		"uCM": 0
 		},
 	"\/Gemfile": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/Gemfile",
 		"oF": 0
 		},
 	"\/Gemfile.lock": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/Gemfile.lock",
 		"oF": 0
 		},
 	"\/humans.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/humans.txt",
 		"oF": 0
 		},
 	"\/index.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -8912,71 +9260,17 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/info.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/info.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
 	"\/LICENSE.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/LICENSE.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/line-up.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/line-up.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
-		},
-	"\/location.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/location.html",
-		"oF": 0,
+		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -8993,16 +9287,16 @@
 		"oS": 1
 		},
 	"\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/README.html",
-		"oF": 0,
+		"oA": 2,
+		"oAP": "\/README.md",
+		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
@@ -9011,21 +9305,130 @@
 		"uCM": 0
 		},
 	"\/robots.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/robots.txt",
 		"oF": 0
 		},
-	"\/tickets.md": {
+	"\/to-load\/about.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 1,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/tickets.html",
+		"oAP": "\/to-load\/about.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/to-load\/info.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/to-load\/info.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/to-load\/line-up.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/to-load\/line-up.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/to-load\/location.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/to-load\/location.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/to-load\/privacy-policy.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/to-load\/privacy-policy.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/to-load\/terms-and-conditions.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/to-load\/terms-and-conditions.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/to-load\/tickets.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/to-load\/tickets.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -9038,12 +9441,47 @@
 "hooks": [
 	],
 "manualImportLinks": {
+	"\/assets\/js\/about.js": [
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "\/bower_components\/lightgallery.js\/dist\/js\/lightgallery.js",
+			"position": 0,
+			"type": 0
+			}
+		],
+	"\/assets\/js\/app.js": [
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "\/bower_components\/jquery\/dist\/jquery.js",
+			"position": 0,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "\/bower_components\/motion-ui\/dist\/motion-ui.js",
+			"position": 1,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "\/bower_components\/what-input\/dist\/what-input.js",
+			"position": 2,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "\/bower_components\/foundation-sites\/dist\/js\/foundation.js",
+			"position": 3,
+			"type": 0
+			}
+		]
 	},
 "projectAttributes": {
-	"creationDate": 524741519,
-	"displayValue": "Greenwich Comedy Festival",
+	"creationDate": 499792706,
+	"displayValue": "Greenwich Comedy Festival 2018",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "meme-trap"
+	"iconImageName": "\/assets\/favicons\/apple-touch-icon.png",
+	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -9051,6 +9489,7 @@
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoprefixerEnableIEGrid": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 0,
@@ -9297,7 +9736,7 @@
 	"bowerSaveDependencies": 1,
 	"bowerSaveDevDependencies": 0,
 	"bowerUseExactVersion": 0,
-	"browserRefreshDelay": 0,
+	"browserRefreshDelay": 3,
 	"buildFolderActive": 0,
 	"buildFolderName": "build",
 	"cleanBuild": 1,
@@ -9579,6 +10018,10 @@
 			"active": 0,
 			"optionString": "'expression'"
 			},
+		"function-paren-newline": {
+			"active": 0,
+			"optionString": "'multiline'"
+			},
 		"generator-star-spacing": {
 			"active": 0,
 			"optionString": "{'before': true, 'after': false}"
@@ -9610,6 +10053,10 @@
 		"id-match": {
 			"active": 0,
 			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"implicit-arrow-linebreak": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"indent": {
 			"active": 0,
@@ -9643,9 +10090,9 @@
 			"active": 0,
 			"optionString": "{'beforeBlockComment': true}"
 			},
-		"lines-around-directive": {
+		"lines-between-class-members": {
 			"active": 0,
-			"optionString": "{'before': 'always', 'after': 'always'}"
+			"optionString": "'always', {exceptAfterSingleLine: false}"
 			},
 		"max-depth": {
 			"active": 0,
@@ -9675,6 +10122,10 @@
 			"active": 0,
 			"optionString": "{'max': 1}"
 			},
+		"multiline-comment-style": {
+			"active": 0,
+			"optionString": "'starred-block'"
+			},
 		"multiline-ternary": {
 			"active": 0,
 			"optionString": "'always'"
@@ -9684,14 +10135,6 @@
 			"optionString": "{'newIsCap': true, 'capIsNew': true, 'newIsCapExceptions': [], 'capIsNewExceptions': ['Array', 'Boolean', 'Date', 'Error', 'Function', 'Number', 'Object', 'RegExp', 'String', 'Symbol'], 'properties': true}"
 			},
 		"new-parens": {
-			"active": 0,
-			"optionString": ""
-			},
-		"newline-after-var": {
-			"active": 0,
-			"optionString": "'always'"
-			},
-		"newline-before-return": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -9844,8 +10287,8 @@
 			"optionString": ""
 			},
 		"no-extra-parens": {
-			"active": 0,
-			"optionString": "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false, 'ignoreJSX': 'none'}"
+			"active": 1,
+			"optionString": "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false}"
 			},
 		"no-extra-semi": {
 			"active": 1,
@@ -9864,7 +10307,7 @@
 			"optionString": ""
 			},
 		"no-global-assign": {
-			"active": 1,
+			"active": 0,
 			"optionString": "{'exceptions': []}"
 			},
 		"no-implicit-coercion": {
@@ -10072,7 +10515,7 @@
 			"optionString": "{'props': false}"
 			},
 		"no-self-compare": {
-			"active": 0,
+			"active": 1,
 			"optionString": ""
 			},
 		"no-sequences": {
@@ -10100,7 +10543,7 @@
 			"optionString": ""
 			},
 		"no-template-curly-in-string": {
-			"active": 0,
+			"active": 1,
 			"optionString": ""
 			},
 		"no-ternary": {
@@ -10156,12 +10599,12 @@
 			"optionString": ""
 			},
 		"no-unsafe-negation": {
-			"active": 1,
+			"active": 0,
 			"optionString": ""
 			},
 		"no-unused-expressions": {
 			"active": 0,
-			"optionString": "{'allowShortCircuit': false, 'allowTernary': false, 'allowTaggedTemplates': false}"
+			"optionString": "{'allowShortCircuit': false, 'allowTernary': false}"
 			},
 		"no-unused-labels": {
 			"active": 1,
@@ -10169,18 +10612,18 @@
 			},
 		"no-unused-vars": {
 			"active": 1,
-			"optionString": "{'vars': 'all', 'args': 'after-used', 'caughtErrors': 'none', 'ignoreRestSiblings': false}"
+			"optionString": "{'vars': 'all', 'args': 'after-used', 'caughtErrors': 'none'}"
 			},
 		"no-use-before-define": {
 			"active": 0,
-			"optionString": "{'functions': true, 'classes': true, 'variables': true}"
+			"optionString": "{'functions': true, 'classes': true}"
 			},
 		"no-useless-call": {
 			"active": 0,
 			"optionString": ""
 			},
 		"no-useless-computed-key": {
-			"active": 0,
+			"active": 1,
 			"optionString": ""
 			},
 		"no-useless-concat": {
@@ -10305,7 +10748,7 @@
 			},
 		"quotes": {
 			"active": 0,
-			"optionString": "'double', {'avoidEscape': true, 'allowTemplateLiterals': true}"
+			"optionString": "'double', 'avoid-escape'"
 			},
 		"radix": {
 			"active": 0,
@@ -10317,10 +10760,10 @@
 			},
 		"require-jsdoc": {
 			"active": 0,
-			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false, 'ArrowFunctionExpression': false}}"
+			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false}}"
 			},
 		"require-yield": {
-			"active": 1,
+			"active": 0,
 			"optionString": ""
 			},
 		"rest-spread-spacing": {
@@ -10433,7 +10876,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "http:\/\/localhost:8888",
+	"externalServerAddress": "http:\/\/localhost:4000",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",
@@ -10795,18 +11238,19 @@
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"outputStyle": 0,
-		"syntaxCheckerStyle": 1
+		"syntaxCheckerStyle": 1,
+		"transpilerStyle": 1
 		},
 	"languageDefaultsCSS": {
-		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "*-min.css",
+		"autoOutputAction": 2,
+		"autoOutputPathFilenamePattern": "*-ck.css",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
-		"outputStyle": 3,
-		"shouldRunAutoprefixer": 1,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
 		},
 	"languageDefaultsGIF": {
@@ -10828,6 +11272,7 @@
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
 		"outputStyle": 0,
+		"shouldRunCacheBuster": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
 		"useUnixNewlines": 0
@@ -10839,6 +11284,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {
@@ -10867,9 +11313,10 @@
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.html",
 		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "kit",
-		"autoOutputPathReplace2": "html",
-		"autoOutputPathStyle": 0
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
@@ -10879,7 +11326,7 @@
 		"autoOutputPathReplace1": "less",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 2,
-		"createSourceMap": 1,
+		"createSourceMap": 0,
 		"disableJavascript": 0,
 		"ieCompatibility": 1,
 		"outputStyle": 0,
@@ -10901,13 +11348,13 @@
 		"enableFootnotes": 1,
 		"enableLabels": 1,
 		"enableSmartQuotes": 1,
-		"escapeLineBreaks": 0,
 		"maskEmailAddresses": 1,
 		"outputFormat": 0,
 		"outputStyle": 0,
 		"parseMetadata": 1,
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
+		"shouldRunCacheBuster": 0,
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
@@ -10916,7 +11363,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsPNG": {
 		"autoOutputAction": 0,
@@ -10936,7 +11384,8 @@
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"compileDebug": 1,
-		"outputStyle": 0
+		"outputStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
@@ -10964,7 +11413,8 @@
 		"logicless": 0,
 		"outputFormat": 0,
 		"outputStyle": 1,
-		"railsCompatible": 0
+		"railsCompatible": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
@@ -11013,7 +11463,7 @@
 		],
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
-	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
+	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules, \/_site",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
 	"uglifyDefinesString": "",
@@ -11139,7 +11589,7 @@
 			"flagValue": -1
 			},
 		"screw-ie8": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"semicolons": {
@@ -11184,7 +11634,7 @@
 			}
 		},
 	"uglifyReservedNamesString": "$",
-	"websiteRelativeRoot": "_site\/"
+	"websiteRelativeRoot": "\/_site"
 	},
 "settingsFileVersion": "3"
 }

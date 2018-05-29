@@ -1,28 +1,31 @@
 ---
 title: Friday
-date: 2017-09-15 19:30:00 Z
+date: 2018-06-08 19:30:00 Z
 position: 2
 acts:
-- name: Alan Davies
-  image: "/uploads/alan-davies.jpg"
-- name: Kerry Godliman
-  image: "/uploads/kerry-godliman.jpg"
-- name: Nish Kumar
-  image: "/uploads/nish-kumar.jpg"
-- name: Fin Taylor
-  image: "/uploads/fin-taylor.jpg"
-quote: One of the best Stand-up comics out there... packed with deft silliness and
-  shrewd observation
+- name: David O'Doherty
+  image: "/uploads/david-o-doherty.jpg"
+- name: James Acaster
+  image: "/uploads/james-acaster.jpg"
+- name: Lolly Adefope
+  image: "/uploads/lolly-adefope.jpg"
+- name: John Kearns
+  image: "/uploads/john-kearns.jpg"
+- name: Ed Gamble
+  image: "/uploads/ed-gamble.jpg"
+quote: When a stand up gig goes this well, you do get a sense of how religions are
+  started
 quote-cite: The Guardian
-secondary-text: Joining Alan is an astounding supporting cast with razor-sharp Live
-  At The Apollo star Kerry Godliman, the wildly acclaimed Have I Got News For You
-  regular Nish Kumar and fast rising Fin Taylor as host.
-festival-starts-at: 2017-09-15 18:00:00 Z
-show-starts-at: 2017-09-15 19:30:00 Z
+secondary-text: Joining David is a blisteringly good, all-star supporting cast with
+  one of the finest stand-ups of his generation - Mock The Week regular James Acaster
+  plus Taskmaster’s Lolly Adefope, double Edinburgh Comedy Award winner John Kearns
+  and plucky scamp Ed Gamble as host.
+festival-starts-at: 2018-06-08 18:00:00 Z
+show-starts-at: 2018-06-08 19:30:00 Z
 ticket-price: "£20 - £25"
-ticket-link: http://www.seetickets.com/event/alan-davies/national-maritime-museum/1121007/
-is-sold-out: 
+ticket-link: https://www.seetickets.com/event/david-o-doherty/big-top-bristol-comedy-garden/1206493
+is-sold-out: true
 layout: event
 ---
 
-Much lauded as resident dunderhead on QI or the charming but reticent crime solver Jonathan Creek, Davies virtuosic story-telling and whip-smart funny bones combine as he heads to Greenwich Comedy Festival for an unmissable night in the Big Top.
+The Lidle Enya, Broken Bublé, Live At The Apollo star and bona-fide Bristol Comedy Garden favourite David O’Doherty returns to headline the Big Top with talking and songs played on a crappy keyboard from 1986. 

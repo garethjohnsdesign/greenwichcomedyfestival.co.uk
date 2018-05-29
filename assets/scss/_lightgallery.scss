@@ -12,8 +12,8 @@ $lg-theme: #0D0A0A !default;
 // basic icon colours
 $lg-icon-bg: rgba(0, 0, 0, 0.45) !default;
 // $lg-icon-color: #999 !default;
-$lg-icon-color: $color--black !default;
-$lg-icon-hover-color: $color--light-gray !default;
+$lg-icon-color: $black !default;
+$lg-icon-hover-color: $light-gray !default;
 
 // counter
 $lg-counter-color: #e6e6e6 !default;
@@ -46,7 +46,7 @@ $zoom-transition-duration: 0.3s !default;
 // $lg-sub-html-bg: rgba(0, 0, 0, 0.45) !default;
 $lg-sub-html-bg: rgba(0, 0, 0, 0) !default;
 // $lg-sub-html-color: #EEE !default;
-$lg-sub-html-color: $color--dark-gray !default;
+$lg-sub-html-color: $dark-gray !default;
 
 // thumbnail toggle button
 $lg-thumb-toggle-bg: #0D0A0A !default;

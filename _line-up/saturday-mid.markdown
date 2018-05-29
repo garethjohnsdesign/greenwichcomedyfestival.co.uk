@@ -1,27 +1,27 @@
 ---
 title: Saturday Mid
-date: 2017-09-16 17:00:00 Z
+date: 2018-06-09 16:45:00 Z
 position: 4
 acts:
-- name: Dylan Moran
-  image: "/uploads/dylan-moran.jpg"
-- name: Bridget Christie
-  image: "/uploads/bridget-christie.jpg"
-- name: Ivo Graham
-  image: "/uploads/ivo-graham.jpg"
-- name: Ed Gamble
-  image: "/uploads/ed-gamble-v2.jpg"
-quote: Jokes as sharp as barbed wire and a comedy brain quicker than a steel trap
-quote-cite: The Scotsman
-secondary-text: Joining Dylan is Edinburgh Comedy Award winner Bridget Christie plus
-  quick witted Live At The Apollo star Ivo Graham and the irresistible Mock The Week-er
-  Ed Gamble as host.
-festival-starts-at: 2017-09-16 15:30:00 Z
-show-starts-at: 2017-09-16 17:00:00 Z
+- name: Milton Jones
+  image: "/uploads/milton-jones.jpg"
+- name: Mark Watson
+  image: "/uploads/mark-watson.jpg"
+- name: Shappi Khorsandi
+  image: "/uploads/shappi-khorsandi.jpg"
+- name: Stephen K Amos
+  image: "/uploads/stephen-k-amos.jpg"
+quote: Pun-derful Jones leaves the audience gagging for more
+quote-cite: Metro
+secondary-text: Joining Milton is an all-star supporting line-up with Bristol’s very
+  own multi-award winning comedy superhero Mark Watson, acclaimed Radio 4 favourite
+  Shappi Khorsandi and globe-trotting laughter-master Stephen K Amos as host.
+festival-starts-at: 2017-06-17 15:15:00 Z
+show-starts-at: 2017-06-17 16:45:00 Z
 ticket-price: "£20 - £25"
-ticket-link: http://www.seetickets.com/event/dylan-moran/national-maritime-museum/1121011/
+ticket-link: https://www.seetickets.com/event/milton-jones/big-top-bristol-comedy-garden/1206528
 is-sold-out: true
 layout: event
 ---
 
-Star of Black Books, Shaun Of The Dead and Calvary - the Oscar Wilde of comedy, Dylan Moran returns to Greenwich Comedy Festival. Sell out worldwide tours have cemented this unkempt wordsmith’s reputation as one of the foremost comics of his generation.
+Fast, absurd and very (very) funny one-liner slinger Milton Jones heads to Bristol Comedy Garden with an astonishingly good line-up in tow. Star of Mock The Week, Live At The Apollo and wearer of the finest loud shirts in comedy - don’t miss this furiously funny genius live in the Big Top.

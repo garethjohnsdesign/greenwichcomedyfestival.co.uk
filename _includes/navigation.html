@@ -1,23 +1,20 @@
 {% for entry in site.data.navigation %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
 
-  <div class="top-bar" id="top"> 
+  <div class="grid-x top-bar"> 
 
-      <div class="top-bar-left align-middle">
-        <ul class="menu simple align-middle">
-          <li class="show-for-large top-bar__icon"><a href="/"><svg class="icon icon-icon-rev"><use xlink:href="/assets/icons/symbol-defs.svg#icon-icon-rev"></use></svg></a></li>
-          <li class="uppercase top-bar__logo"><a href="/">{{site.title}}</a></li>
-          <li class="show-for-large top-bar__date"><a href="/">{{site.date-text}}</a></li>
+      <div class="shrink cell align-middle">
+                  
+        <ul class="menu simple">
+          <li class="text-lowercase top-bar__logo"><h3><a href="/">{{site.title}}</a></h3></li>
+          <li class="top-bar__date show-for-large"><a href="/">6 - 10 June '18</a></li>
         </ul>
+        
       </div>
       
-      <div class="top-bar-right">
-        
+      <div class="shrink cell">
+      
       <div class="show-for-small-only">
-        <button class="hamburger hamburger--collapse" id="toggle" data-toggler=".is-active" type="button" data-toggle="overlay toggle">
-          <span class="hamburger-box">
-          <span class="hamburger-inner"></span>
-          </span>
-        </button>
+      <a data-toggle="offCanvas"><svg class="icon icon-menu"><use xlink:href="/assets/icons/symbol-defs.svg#icon-menu"></use></svg></a>
       </div>
       
       <div class="show-for-medium">
@@ -42,9 +39,9 @@
           <li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
           {% endif %}
           {% endfor %}
-          <li class="top-bar__socials show-for-large"><a href="{{site.social.facebook}}" target="_blank"><svg class="icon icon-facebook"><use xlink:href="/assets/icons/symbol-defs.svg#icon-facebook"></use></svg></a></li>
-          <li class="top-bar__socials show-for-large"><a href="{{site.social.instagram}}" target="_blank"><svg class="icon icon-instagram"><use xlink:href="/assets/icons/symbol-defs.svg#icon-instagram"></use></svg></a></li>
-          <li class="top-bar__socials show-for-large"><a href="{{site.social.twitter}}" target="_blank"><svg class="icon icon-twitter"><use xlink:href="/assets/icons/symbol-defs.svg#icon-twitter"></use></svg></a></li>
+          <li class="show-for-large"><a href="{{site.social.facebook}}" target="_blank"><svg class="icon icon-socials icon-facebook"><use xlink:href="/assets/icons/symbol-defs.svg#icon-facebook"></use></svg></a></li>
+          <li class="show-for-large"><a href="{{site.social.instagram}}" target="_blank"><svg class="icon icon-socials icon-instagram"><use xlink:href="/assets/icons/symbol-defs.svg#icon-instagram"></use></svg></a></li>
+          <li class="show-for-large"><a href="{{site.social.twitter}}" target="_blank"><svg class="icon icon-socials icon-twitter"><use xlink:href="/assets/icons/symbol-defs.svg#icon-twitter"></use></svg></a></li>
         </ul>
       </div>
       

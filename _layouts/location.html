@@ -3,20 +3,23 @@ layout: default
 ---
 
 <section class="location">
-  <div class="row">
-    <div class="small-12 columns">
-        <div id="greenwich_canvas" class="location__map"></div>  
+  
+  <div class="grid-x">
+    <div class="small-12 cell">
+        <div id="bristol_canvas" class="location__map"></div>    
     </div>
   </div>
   
-  <div class="row location-details large-unstack">
+  <div class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y small-up-1 medium-up-4">
     {% for details in page.details %}
-      <div class="columns text-center">
-        <h3>{{ details.title }}</h3>
+      <div class="cell text-center">
+        <h2 class="text-lowercase">{{ details.title }}</h2>
         {{ details.text | markdownify}}
       </div>
     {% endfor %}
-  </div> 
+  </div>
+  </div>
 </section>
 
 {% include map-script.html %} 

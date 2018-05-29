@@ -1,10 +1,10 @@
-<div class="columns">
+<div class="cell">
   <div class="excerpt">
     <a href="{{ day.url }}">
       
-      <div class="row excerpt__title align-middle">
-        <div class="small-12 columns text-center">
-          <p>{{ act.name }}</p>
+      <div class="grid-x excerpt__title align-middle">
+        <div class="small-12 cell text-center text-lowercase">
+          <h3>{{ act.name }}</h3>
           {% if day.is-sold-out == true %}
           <p>Sold Out</p>
           {% endif %}
