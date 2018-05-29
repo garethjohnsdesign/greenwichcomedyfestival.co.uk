@@ -1,0 +1,62 @@
+---
+layout: default
+---
+
+<section class="index">
+  
+<!-- Carousel -->
+<div class="index__gallery">
+{% for act in page.carousel %}
+<div class="index__gallery-cell" style="background-image: url({{act.image}})">	
+<div class="grid-x index__gallery__text align-middle align-center">
+  <a href="/line-up/{{act.line-up | slugify}}">
+	<div class="small-8 cell text-center index__gallery__text__inner">
+	<h1 class="text-lowercase act-name">{{act.name}}</h1>
+  <h5>{{act.subheader}}</h5>
+  {% if act.is-sold-out == true %}
+  <h4>Sold Out</h4>
+  {% endif %}
+  </a>
+	</div>
+</div>
+</div>
+{% endfor %}
+</div>
+<!-- End Carousel -->
+
+<!-- Featured -->
+<div class="grid-x small-up-1 medium-up-2 large-up-4 xlarge-up-4 align-center home__featured">
+    {% for act in page.featured %}
+    <div class="cell">
+      <div class="excerpt">
+        <a href="/line-up/{{act.line-up | slugify}}">
+          
+          <div class="grid-x excerpt__title align-middle">
+            <div class="small-12 cell text-center text-lowercase">
+            <h3>{{ act.name }}</h3>
+           {% if act.is-sold-out == true %}
+          <div>Sold Out</div>
+          {% endif %}
+    
+            </div>
+          </div>
+          
+          <div class="excerpt__image">
+            <img src="{{act.image}}" alt="{{act.title}}">
+          </div>
+            
+        </a>
+      </div>
+    </div>
+    {% endfor %}
+</div>
+<!-- End Featured -->
+
+<!-- Line-up Link -->
+<div class="grid-x grid-padding-y align-center">
+<div class="small-12 cell text-center">
+  <h3><a href="/line-up/">View Full Line-up <svg class="icon icon-arrow_forward"><use xlink:href="/assets/icons/symbol-defs.svg#icon-arrow_forward"></use></svg></a></h3>
+</div>
+</div>
+<!-- End Line-up Link -->
+</section>

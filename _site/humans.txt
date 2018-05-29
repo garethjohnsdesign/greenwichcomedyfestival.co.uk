@@ -3,7 +3,7 @@ Gareth Johns Design + Development
 The team, technology & tools behind this site.
 
 
-GARETH JOHNS DESIGN + DEVELOPMENT
+GARETH JOHNS DESIGN + DEVELOPMENT TEAM
 --------
 
 Made with love in London.
@@ -58,3 +58,7 @@ adobe.com
 
 Slack - Emojis and GIFs
 slack.com
+
+
+FONTS
+-----

@@ -4,27 +4,21 @@ layout: default
 
 <section class="info">
   
-<!--
-  <div class="row align-center">
-    <div class="shrink columns">
-      <h1>{{page.title}}</h1>
-    </div>
-  </div>
--->
-  
-  <div class="row">
-    <div class="expand columns">
+  <div class="grid-container">
+  <div class="grid-x grid-padding-y">
+    <div class="expand cell">
       <ul class="accordion" data-accordion  data-multi-expand="true" data-allow-all-closed="true">
         {% for details in page.general %}
           <li class="accordion-item" data-accordion-item>
           <a href="#" class="accordion-title">{{details.title}}</a>
-            <div class="accordion-content" data-tab-content>
+            <div class="accordion-content padding-2" data-tab-content>
             {{ details.text | markdownify }}
             </div>
           </li>
         {% endfor %}
       </ul>
     </div>
+  </div>
   </div>
   
 </section>

@@ -1,5 +1,5 @@
 /*!
- * Unipointer v2.1.0
+ * Unipointer v2.2.1
  * base class for doing one thing with pointer event
  * MIT license
  */
@@ -58,12 +58,9 @@ proto._bindStartEvent = function( elem, isBind ) {
   isBind = isBind === undefined ? true : !!isBind;
   var bindMethod = isBind ? 'addEventListener' : 'removeEventListener';
 
-  if ( window.navigator.pointerEnabled ) {
-    // W3C Pointer Events, IE11. See https://coderwall.com/p/mfreca
+  if ( window.PointerEvent ) {
+    // Pointer Events. Chrome 55, IE11, Edge 14
     elem[ bindMethod ]( 'pointerdown', this );
-  } else if ( window.navigator.msPointerEnabled ) {
-    // IE10 Pointer Events
-    elem[ bindMethod ]( 'MSPointerDown', this );
   } else {
     // listen for both, for devices like Chrome Pixel
     elem[ bindMethod ]( 'mousedown', this );
@@ -104,7 +101,6 @@ proto.ontouchstart = function( event ) {
   this._pointerDown( event, event.changedTouches[0] );
 };
 
-proto.onMSPointerDown =
 proto.onpointerdown = function( event ) {
   this._pointerDown( event, event );
 };
@@ -115,8 +111,9 @@ proto.onpointerdown = function( event ) {
  * @param {Event or Touch} pointer
  */
 proto._pointerDown = function( event, pointer ) {
-  // dismiss other pointers
-  if ( this.isPointerDown ) {
+  // dismiss right click and other pointers
+  // button = 0 is okay, 1-4 not
+  if ( event.button || this.isPointerDown ) {
     return;
   }
 
@@ -139,7 +136,6 @@ var postStartEvents = {
   mousedown: [ 'mousemove', 'mouseup' ],
   touchstart: [ 'touchmove', 'touchend', 'touchcancel' ],
   pointerdown: [ 'pointermove', 'pointerup', 'pointercancel' ],
-  MSPointerDown: [ 'MSPointerMove', 'MSPointerUp', 'MSPointerCancel' ]
 };
 
 proto._bindPostStartEvents = function( event ) {
@@ -174,7 +170,6 @@ proto.onmousemove = function( event ) {
   this._pointerMove( event, event );
 };
 
-proto.onMSPointerMove =
 proto.onpointermove = function( event ) {
   if ( event.pointerId == this.pointerIdentifier ) {
     this._pointerMove( event, event );
@@ -210,7 +205,6 @@ proto.onmouseup = function( event ) {
   this._pointerUp( event, event );
 };
 
-proto.onMSPointerUp =
 proto.onpointerup = function( event ) {
   if ( event.pointerId == this.pointerIdentifier ) {
     this._pointerUp( event, event );
@@ -256,7 +250,6 @@ proto.pointerDone = noop;
 
 // ----- pointer cancel ----- //
 
-proto.onMSPointerCancel =
 proto.onpointercancel = function( event ) {
   if ( event.pointerId == this.pointerIdentifier ) {
     this._pointerCancel( event, event );

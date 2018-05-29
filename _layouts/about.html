@@ -3,18 +3,31 @@ layout: default
 ---
 
 <section class="about">
-  <div class="row align-center">
-    <div class="small-11 medium-10 large-8 columns callout large">	
-    		{{content}}
+  
+  <div class="grid-container">
     
-      <div class="row small-up-1 medium-up-2 large-up-3 xlarge-up-3" id="gallery">
-        {% for image in page.images %}
-        <div class="columns about__images" data-src="{{image}}">
-          <a href="{{image}}"><img src="{{image }}" class="excerpt__image"></a>
+    <div class="grid-x align-center margin-top-1 margin-bottom-1">
+      <div class="small-12 large-6 cell">
+        <div class="grid-x grid-padding-y grid-padding-x">
+        <div class="small-12 cell">
+        {{content | markdownify}}
         </div>
-        {% endfor %}
+        </div>
       </div>
-
+      
+      <div class="small-12 large-6 cell">	
+        <div class="grid-x small-up-1 medium-up-2" id="gallery">
+          {% for image in page.images %}
+          <div class="cell padding-1 about__images" data-src="{{image}}">
+            <a href="{{image}}"><img src="{{image}}" class="excerpt__image"></a>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+      
     </div>
+    
+
   </div>
+  
 </section>

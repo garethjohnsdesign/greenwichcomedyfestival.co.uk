@@ -1,0 +1,35 @@
+$nav-text-color: $white;
+$nav-height: 75px;
+$nav-background: $primary-color;
+$offcanvas-padding: 20px;
+
+.multilevel-offcanvas {
+  background: darken($nav-background, 5%);
+  font-size: 1.25rem;
+  padding: 1rem;
+  color: $white;
+
+  > .menu {
+    margin-bottom: 1rem;
+  }
+
+  .menu a {
+    color: rgba($nav-text-color,.6);
+    padding-top: 7px;
+    padding-bottom: 7px;
+    transition: color 0.2s ease-in;
+
+    &:hover {
+      color: $nav-text-color;
+    }
+  }
+
+  .social-links {
+    margin-left: $offcanvas-padding;
+    margin-top: 1rem;
+
+    li {
+      margin-right: 5px;
+    }
+  }
+}

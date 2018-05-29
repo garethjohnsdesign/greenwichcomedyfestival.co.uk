@@ -17,13 +17,11 @@ defaults:
     type: pages
   values:
     layout: page
-url: http://greenwichcomedyfestival.co.uk
+url: https://www.greenwichcomedyfestival.co.uk
 description: Greenwich Comedy Festival returns this summer for another series of unmissable
   shows!
 permalink: pretty
 exclude:
-- Gemfile
-- Gemfile.lock
 - bower.json
 - package.json
 - config.codekit3
@@ -31,9 +29,10 @@ exclude:
 - LICENSE*
 - CHANGELOG*
 - node_modules
-- ".gitignore"
 - bower_components
-gems:
+- ".gitignore"
+- assets/scss
+plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
 - jekyll-feed
@@ -41,13 +40,14 @@ markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
+  auto_ids: false
 highlighter: rouge
 company: 57 Festivals Ltd
 date-text: 13 — 17 September 2017
 address: National Maritime Museum, Greenwich
 email: info@greenwichcomedyfestival.co.uk
 google_site_verification: pqGndzwmQkEKSTgKHo610nlM0DuQgngEzzJldUbq084
-analytics: UA-52649780-1
+analytics: UA-49569208-1
 logo: "/assets/img/logo.svg"
 per_page: 12
 date_format: "%b %d, %Y"
@@ -62,4 +62,3 @@ compress_html:
   - " -->"
   blanklines: true
   profile: false
-jekyll-mentions: https://instagram.com

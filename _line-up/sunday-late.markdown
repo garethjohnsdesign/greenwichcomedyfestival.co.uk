@@ -1,29 +1,32 @@
 ---
 title: Sunday Late
-date: 2017-09-17 19:30:00 Z
+date: 2018-06-10 19:30:00 Z
 position: 5
 day: Sunday
 acts:
-- name: Dara Ó Briain
-  image: "/uploads/dara-o-briain.jpg"
-- name: Stephen K Amos
-  image: "/uploads/stephen-k-amos.jpg"
-- name: Glenn Wool
-  image: "/uploads/glenn-wool.jpg"
-- name: Jarred Christmas
-  image: "/uploads/jarred-christmas.jpg"
-quote: A master-class in intelligent stand-up…It’s thoughtful stuff, impeccably delivered.
-  With material this strong, you don’t need gimmicks
-quote-cite: The Guardian
-secondary-text: Joining Dara is an unmissable supporting cast with Live At The Apollo’s
-  laughter-master Stephen K Amos, globe trotting story-weaver Glenn Wool and Kiwi
-  comedy-hero Jarred Christmas as host
-festival-starts-at: 2017-09-17 18:00:00 Z
-show-starts-at: 2017-09-17 19:30:00 Z
-ticket-price: "£20 - £25"
-ticket-link: http://www.seetickets.com/event/dara-o-briain/national-maritime-museum/1121014/
-is-sold-out: true
+- name: Henning Wehn
+  image: "/uploads/henning-wehn.jpg"
+- name: Nina Conti
+  image: "/uploads/nina-conti.jpg"
+- name: Jayde Adams
+  image: "/uploads/jayde-adams.jpg"
+- name: Phil Wang
+  image: "/uploads/phil-wang.jpg"
+- name: Fin Taylor
+  image: "/uploads/fin-taylor.jpg"
+quote: Wehn wraps his vowels around the issues of immigration and identity. And he
+  triumphs at it
+quote-cite: The Times
+secondary-text: Joining Henning is groundbreaking ventriloquist and British Comedy
+  Award winner Nina Conti, plus fast-rising Bristolian Jayde Adams, Have I Got News
+  For You star Phil Wang makes his Comedy Garden debut, and the wildly acclaimed Fin
+  Taylor hosts.
+festival-starts-at: 2018-06-10 18:00:00 Z
+show-starts-at: 2018-06-10 19:30:00 Z
+ticket-price: "£20 - 25"
+ticket-link: https://www.seetickets.com/event/henning-wehn/big-top-bristol-comedy-garden/1206550
+is-sold-out: 
 layout: event
 ---
 
-Dara O Briain, one of the most charismatic, intelligent, fast-talking and downright funny live performers working today makes his Greenwich Comedy Festival debut. The king of audience interaction heads to the Big Top where he'll relish exchanging ultra-rapid fire quips with members of the audience, and delivers witty and daring anecdotes like no other stand-up comedian.
+Self styled German Comedy Ambassador Henning Wehn headlines the final show of Bristol Comedy Garden 2018. Expect a hit packed set from the Would I Lie To You Star, chock-full of inimitable teutonic jolliness.

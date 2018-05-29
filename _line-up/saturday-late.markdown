@@ -1,29 +1,27 @@
 ---
 title: Saturday Late
-date: 2017-09-16 20:15:00 Z
-position: 3
+date: 2018-06-09 19:45:00 Z
+position: 5
 acts:
-- name: Rob Beckett
-  image: "/uploads/rob-beckett.jpg"
+- name: Reginald D Hunter
+  image: "/uploads/reginald-d-hunter.jpg"
 - name: Seann Walsh
   image: "/uploads/seann-walsh.jpg"
-- name: Dane Baptiste
-  image: "/uploads/dane-baptiste.jpg"
-- name: Carl Donnelly
-  image: "/uploads/carl-donnelly.jpg"
-quote: There are hints that his eyes are set firmly on arenas that are as big as that
-  mouth of his
-quote-cite: Metro
-secondary-text: |-
-  Joining Rob is Live At The Apollo star and observational king-slacker Seann Walsh, 8 Out Of 10 Cats Does Countdown star Dane Baptiste and champion story-weaver Carl Donnelly as host.
-
-  Please note - Rob Beckett replaces Ed Byrne on this show. All original tickets remain valid.
-festival-starts-at: 2017-09-16 18:00:00 Z
-show-starts-at: 2017-09-16 20:15:00 Z
+- name: Jen Brister
+  image: "/uploads/jen-brister.jpg"
+- name: Mark Olver
+  image: "/uploads/mark-olver.jpg"
+quote: Simply exhilarating…This is comedy of a rare scope
+quote-cite: The Times
+secondary-text: Joining Reg is a dazzling supporting line-up with motormouth slacker
+  and observational master Seann Walsh, Live At The Apollo star Jen Brister and Bristol’s
+  own comedy king Mark Olver as host.
+festival-starts-at: 2018-06-09 18:00:00 Z
+show-starts-at: 2018-06-09 19:45:00 Z
 ticket-price: "£20 - £25"
-ticket-link: http://www.seetickets.com/event/ed-byrne/national-maritime-museum/1121012/
+ticket-link: https://www.seetickets.com/event/reginald-d-hunter/big-top-bristol-comedy-garden/1206532
 is-sold-out: 
 layout: event
 ---
 
-Join 8 Out Of 10 Cats team captain and Mock The Week favourite Rob Beckett as he headlines an all-star night in the Big Top following his huge sell-out ‘Mouth Of The South’ tour.
+Spellbinding & brilliantly unpredictable multi-award winning US star Reginald D Hunter headlines Saturday night in the Big Top. Star of Qi, Have I Got News For You & his own hit BBC2 series 'Reginald D Hunter's Songs Of The South’, Reg’s searingly honest and hilarious material has garnered him a popular fanbase that spans the generations.

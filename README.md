@@ -1,7 +1,7 @@
-# Greenwich Comedy Festival 2017
+# Greenwich Comedy Festival 2018
 
-Website for Greenwich Comedy Festival 2017. Please go to [greenwichcomedyfestival.co.uk](http://greenwichcomedyfestival.co.uk) in case you want to take a look at the website.
+Website for Greenwich Comedy Festival 2018. Please go to [greenwichcomedyfestival.co.uk](https://www.greenwichcomedyfestival.co.uk) in case you want to take a look at the website.
 
 * * *
 
-Copyright (c) 2017 Gareth Johns Art Direction + Design – info@garethjohnsdesign.com
+Copyright (c) 2018 Gareth Johns Design + Development – info@garethjohnsdesign.com
