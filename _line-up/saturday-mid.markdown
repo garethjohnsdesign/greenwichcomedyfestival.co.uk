@@ -1,6 +1,6 @@
 ---
 title: Saturday Mid
-date: 2018-06-09 16:45:00 Z
+date: 2018-09-15 16:45:00 Z
 position: 4
 acts:
 - name: Milton Jones
@@ -16,8 +16,8 @@ quote-cite: Metro
 secondary-text: Joining Milton is an all-star supporting line-up with Bristol’s very
   own multi-award winning comedy superhero Mark Watson, acclaimed Radio 4 favourite
   Shappi Khorsandi and globe-trotting laughter-master Stephen K Amos as host.
-festival-starts-at: 2017-06-17 15:15:00 Z
-show-starts-at: 2017-06-17 16:45:00 Z
+festival-starts-at: 2018-09-15 15:15:00 Z
+show-starts-at: 2018-09-15 16:45:00 Z
 ticket-price: "£20 - £25"
 ticket-link: https://www.seetickets.com/event/milton-jones/big-top-bristol-comedy-garden/1206528
 is-sold-out: true

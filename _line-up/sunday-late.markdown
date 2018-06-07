@@ -1,6 +1,6 @@
 ---
 title: Sunday Late
-date: 2018-06-10 19:30:00 Z
+date: 2018-09-16 19:30:00 Z
 position: 5
 day: Sunday
 acts:
@@ -21,8 +21,8 @@ secondary-text: Joining Henning is groundbreaking ventriloquist and British Come
   Award winner Nina Conti, plus fast-rising Bristolian Jayde Adams, Have I Got News
   For You star Phil Wang makes his Comedy Garden debut, and the wildly acclaimed Fin
   Taylor hosts.
-festival-starts-at: 2018-06-10 18:00:00 Z
-show-starts-at: 2018-06-10 19:30:00 Z
+festival-starts-at: 2018-09-16 18:00:00 Z
+show-starts-at: 2018-09-16 19:30:00 Z
 ticket-price: "£20 - 25"
 ticket-link: https://www.seetickets.com/event/henning-wehn/big-top-bristol-comedy-garden/1206550
 is-sold-out: 

@@ -8,9 +8,9 @@ general:
     local Mexican food legends Los Amigos, comfort-food specialists Warm and Toastie,
     supremely tasty curries from Gopal’s, and more!
 - title: Festival Timings
-  text: "Weds 6th June: 6pm - 10.30pm  \nThurs 7th June: 6pm - 10.30pm  \nFri 8th
-    June: 6pm - 10.30pm  \nSat 9th June: 1pm - 10.30pm  \nSun 10th June: 2.45pm -
-    10.30pm  "
+  text: "Weds 12 September: 6pm - 10.30pm  \nThurs 13 September: 6pm - 10.30pm  \nFri 14
+    September: 6pm - 10.30pm  \nSat 15 September: 1pm - 10.30pm  \nSun 16 September: 2.45pm -
+    10.30pm"
 - title: Festival Site
   text: |-
     You must have a valid ticket to gain entry to the Comedy Garden. Tickets can be purchased online in advance or at the on site Box Office on the evening of the show, depending on availability.
@@ -42,7 +42,7 @@ general:
 
     We’re looking for friendly, confident and hard working people to come and work on our bars during the Comedy Garden. Previous bar experience is essential and you must be over 18. You’ll be part of the team and enjoy all the perks that go with that. In return you’ll be punctual, reliable and ready to hop to action at any given moment.
 
-    This is a paid role. You’ll be expected to work at least four shifts during the Comedy Garden with full availability from 6th June to 10th June regarded very highly.
+    This is a paid role. You’ll be expected to work at least four shifts during the Comedy Garden with full availability from 6th September to 10th September regarded very highly.
 
     If you’re interested please send your name, contact details and CV to sparkleandspirit@outlook.com with BCG BAR CREW in the subject line.
 layout: info

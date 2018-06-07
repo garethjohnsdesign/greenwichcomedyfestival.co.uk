@@ -198,7 +198,7 @@ i, cite, em, var, address, dfn {
 // ----------
 
 footer {
-  color: $secondary-color;
-  @include links($secondary-color, $white);
-  background-color: get-color(primary-background);
+  color: $primary-color;
+  @include links($primary-color, $white);
+  background-color: get-color(secondary-background);
 }

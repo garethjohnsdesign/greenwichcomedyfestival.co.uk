@@ -68,23 +68,25 @@
 $global-font-size: 100%;
 $global-width: rem-calc(1200);
 $global-lineheight: 1.5;
-$foundation-palette: (
-  primary: #d92e5a,
-  secondary: #d92e5a,
-  success: #3adb76,
-  warning: #ffae00,
-  alert: #cc4b37,
-  primary-background: #2c3781, // blue
-  secondary-background: #ffd6c8, // pink
-);
 $light-gray: #e6e6e6;
 $medium-gray: #cacaca;
 $dark-gray: #8a8a8a;
 // $black: #0a0a0a;
 $black: #212121;
 $white: #fefefe;
+$foundation-palette: (
+  primary: $black,
+  secondary: #d92e5a,
+  success: #3adb76,
+  warning: #ffae00,
+  alert: #cc4b37,
+  light-background: #f7f7f2, // spring-wood
+  primary-background: #5deac2, // teal
+  secondary-background: #3ecdff, // blue
+  tertiary-background: #ffd972, // yellow
+);
 // $body-background: $white;
-$body-background: #3ecebc;
+$body-background: #f7f7f2;
 $body-font-color: $black;
 // $body-font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;
 $body-font-family: $secondary-font-family;
@@ -893,7 +895,7 @@ $tooltip-radius: $global-radius;
 
 $topbar-padding: 0.5rem;
 // $topbar-background: $light-gray;
-$topbar-background: get-color(secondary-background);
+$topbar-background: #f7f7f2;
 $topbar-submenu-background: $topbar-background;
 $topbar-title-spacing: 0.5rem 1rem 0.5rem 0;
 $topbar-input-width: 200px;
