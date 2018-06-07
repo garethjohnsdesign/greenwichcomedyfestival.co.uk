@@ -27,5 +27,4 @@ is-sold-out:
 layout: event
 ---
 
-http://gareths-imac.local:5757/line-up/saturday-mid/
 Everyone’s favourite randomist Ross Noble returns to the Comedy Garden. One of the most successful cult-comedians of our time, the master surrealist top off an unbeatable lineup in the Big Top with a scenic trip through his infamous, infinite and hilarious imagination.

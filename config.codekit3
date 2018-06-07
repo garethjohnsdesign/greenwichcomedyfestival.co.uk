@@ -69,18 +69,18 @@
 		"oAP": "\/_includes\/head.html",
 		"oF": 0
 		},
-	"\/_includes\/images\/landscape.html": {
+	"\/_includes\/images\/excerpt.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_includes\/images\/landscape.html",
+		"oAP": "\/_includes\/images\/excerpt.html",
 		"oF": 0
 		},
-	"\/_includes\/images\/portrait.html": {
+	"\/_includes\/images\/feature.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/_includes\/images\/portrait.html",
+		"oAP": "\/_includes\/images\/feature.html",
 		"oF": 0
 		},
 	"\/_includes\/map-script.html": {
@@ -1125,6 +1125,28 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/assets\/img\/horse.png": {
+		"ft": 32768,
+		"iS": 113846,
+		"oA": 0,
+		"oAP": "\/assets\/img\/horse.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/lobster.png": {
+		"ft": 32768,
+		"iS": 451521,
+		"oA": 0,
+		"oAP": "\/assets\/img\/lobster.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/assets\/img\/logo.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -1135,6 +1157,39 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/assets\/img\/octopus-02.png": {
+		"ft": 32768,
+		"iS": 592381,
+		"oA": 0,
+		"oAP": "\/assets\/img\/octopus-02.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/octopus-and-lobster.png": {
+		"ft": 32768,
+		"iS": 835244,
+		"oA": 0,
+		"oAP": "\/assets\/img\/octopus-and-lobster.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/octopus.png": {
+		"ft": 32768,
+		"iS": 122444,
+		"oA": 0,
+		"oAP": "\/assets\/img\/octopus.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/assets\/img\/og-image.png": {
 		"ft": 32768,
 		"iS": 480014,
@@ -1143,6 +1198,39 @@
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/plants-01.png": {
+		"ft": 32768,
+		"iS": 42119,
+		"oA": 0,
+		"oAP": "\/assets\/img\/plants-01.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/plants-02.png": {
+		"ft": 32768,
+		"iS": 64773,
+		"oA": 0,
+		"oAP": "\/assets\/img\/plants-02.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/plants-03.png": {
+		"ft": 32768,
+		"iS": 52159,
+		"oA": 0,
+		"oAP": "\/assets\/img\/plants-03.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},

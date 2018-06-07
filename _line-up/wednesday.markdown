@@ -22,7 +22,7 @@ secondary-text: Joining Josh is sharp-suited & soon to be huge Tom Allen, BBC Co
 festival-starts-at: 2018-09-12 18:00:00 Z
 show-starts-at: 2018-09-12 19:30:00 Z
 ticket-price: "£20 - £25"
-ticket-link: https://www.seetickets.com/event/josh-widdicombe/big-top-bristol-comedy-garden/1206454
+ticket-link: https://www.seetickets.com/
 is-sold-out: true
 layout: event
 ---

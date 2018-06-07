@@ -48,7 +48,8 @@
   </ul>
 </div>
 <div class="off-canvas-content" data-off-canvas-content>
-<div class="grid-x top-bar"> 
+<div data-sticky-container>
+<div class="grid-x top-bar padding-1" data-sticky data-options="marginTop:0;" style="width:100%"> 
       <div class="shrink cell">    
         <ul class="menu simple">
           <li class="text-lowercase top-bar__logo"><h3><a href="/">Greenwich Comedy Festival</a></h3></li>
@@ -56,28 +57,29 @@
         </ul>
       </div>
       <div class="shrink cell">
-        <div class="show-for-small-only">
+        <div class="hide-for-large">
           <a data-toggle="offCanvas"><svg class="icon icon-menu"><use xlink:href="/assets/icons/symbol-defs.svg#icon-menu"></use></svg></a>
         </div>
-        <div class="show-for-medium">
+        <div class="show-for-large">
           <ul class="dropdown menu" data-dropdown-menu>
             <li><a href="/line-up/">Line-up</a></li>
             <li class="active"><a href="/tickets/">Tickets</a></li>
             <li><a href="/location/">Location</a></li>
             <li><a href="/about/">About</a></li>
             <li><a href="/info/">Info</a></li>
-            <li class="show-for-large"><a href="https://www.facebook.com/greenwichcomedyfestival" target="_blank"><svg class="icon icon-socials icon-facebook"><use xlink:href="/assets/icons/symbol-defs.svg#icon-facebook"></use></svg></a></li>
-            <li class="show-for-large"><a href="https://www.instagram.com/greenwichcomedyfestival" target="_blank"><svg class="icon icon-socials icon-instagram"><use xlink:href="/assets/icons/symbol-defs.svg#icon-instagram"></use></svg></a></li>
-            <li class="show-for-large"><a href="https://twitter.com/greenwichcomedy" target="_blank"><svg class="icon icon-socials icon-twitter"><use xlink:href="/assets/icons/symbol-defs.svg#icon-twitter"></use></svg></a></li>
+            <li class="show-for-xlarge"><a href="https://www.facebook.com/greenwichcomedyfestival" target="_blank"><svg class="icon icon-socials icon-facebook"><use xlink:href="/assets/icons/symbol-defs.svg#icon-facebook"></use></svg></a></li>
+            <li class="show-for-xlarge"><a href="https://www.instagram.com/greenwichcomedyfestival" target="_blank"><svg class="icon icon-socials icon-instagram"><use xlink:href="/assets/icons/symbol-defs.svg#icon-instagram"></use></svg></a></li>
+            <li class="show-for-xlarge"><a href="https://twitter.com/greenwichcomedy" target="_blank"><svg class="icon icon-socials icon-twitter"><use xlink:href="/assets/icons/symbol-defs.svg#icon-twitter"></use></svg></a></li>
           </ul>
         </div>
       </div>
+</div>
 </div>
 <section class="tickets padding-bottom-3">
 <div class="grid-container">
   <div class="grid-x grid-padding-y align-center text-lowercase">
   <div class="shrink cell">
-    <h2>Wednesday 12 September</h2>
+    <h2>Wednesday 12 Sep</h2>
   </div>
   </div>
   <div class="grid-x grid-margin-x grid-margin-y">
@@ -95,7 +97,14 @@
     </div>
   </div>
           <div class="small-12 large-4 cell">
-            <img src="/uploads/josh-widdicombe.jpg" alt="">
+            <img data-interchange=
+"
+[https://greenwich-comedy-festival.imgix.net/uploads/josh-widdicombe.jpg?ixlib=jekyll-1.1.0&w=640&h=457&fit=crop&auto=compress&lossless=true&q=50&dpr=1, small]
+[https://greenwich-comedy-festival.imgix.net/uploads/josh-widdicombe.jpg?ixlib=jekyll-1.1.0&w=1024&h=731&fit=crop&auto=compress&lossless=true&q=40&dpr=1, medium]
+[https://greenwich-comedy-festival.imgix.net/uploads/josh-widdicombe.jpg?ixlib=jekyll-1.1.0&w=1200&h=857&fit=crop&auto=compress&lossless=true&q=50&dpr=1, large]
+[https://greenwich-comedy-festival.imgix.net/uploads/josh-widdicombe.jpg?ixlib=jekyll-1.1.0&w=1440&h=1029&fit=crop&auto=compress&lossless=true&q=50&dpr=1, xlarge]
+"
+>
           </div>
           <div class="small-12 large-4 cell text-lowercase text-center medium-text-left">
               <h3>Josh Widdicombe</h3>
@@ -122,7 +131,7 @@
   </div>
   <div class="grid-x grid-padding-y align-center text-lowercase">
   <div class="shrink cell">
-    <h2>Thursday 13 September</h2>
+    <h2>Thursday 13 Sep</h2>
   </div>
   </div>
   <div class="grid-x grid-margin-x grid-margin-y">
@@ -140,7 +149,14 @@
     </div>
   </div>
           <div class="small-12 large-4 cell">
-            <img src="/uploads/alan-davies.jpg" alt="">
+            <img data-interchange=
+"
+[https://greenwich-comedy-festival.imgix.net/uploads/alan-davies.jpg?ixlib=jekyll-1.1.0&w=640&h=457&fit=crop&auto=compress&lossless=true&q=50&dpr=1, small]
+[https://greenwich-comedy-festival.imgix.net/uploads/alan-davies.jpg?ixlib=jekyll-1.1.0&w=1024&h=731&fit=crop&auto=compress&lossless=true&q=40&dpr=1, medium]
+[https://greenwich-comedy-festival.imgix.net/uploads/alan-davies.jpg?ixlib=jekyll-1.1.0&w=1200&h=857&fit=crop&auto=compress&lossless=true&q=50&dpr=1, large]
+[https://greenwich-comedy-festival.imgix.net/uploads/alan-davies.jpg?ixlib=jekyll-1.1.0&w=1440&h=1029&fit=crop&auto=compress&lossless=true&q=50&dpr=1, xlarge]
+"
+>
           </div>
           <div class="small-12 large-4 cell text-lowercase text-center medium-text-left">
               <h3>Alan Davies</h3>
@@ -166,7 +182,7 @@
   </div>
   <div class="grid-x grid-padding-y align-center text-lowercase">
   <div class="shrink cell">
-    <h2>Friday 14 September</h2>
+    <h2>Friday 14 Sep</h2>
   </div>
   </div>
   <div class="grid-x grid-margin-x grid-margin-y">
@@ -184,7 +200,14 @@
     </div>
   </div>
           <div class="small-12 large-4 cell">
-            <img src="/uploads/david-o-doherty.jpg" alt="">
+            <img data-interchange=
+"
+[https://greenwich-comedy-festival.imgix.net/uploads/david-o-doherty.jpg?ixlib=jekyll-1.1.0&w=640&h=457&fit=crop&auto=compress&lossless=true&q=50&dpr=1, small]
+[https://greenwich-comedy-festival.imgix.net/uploads/david-o-doherty.jpg?ixlib=jekyll-1.1.0&w=1024&h=731&fit=crop&auto=compress&lossless=true&q=40&dpr=1, medium]
+[https://greenwich-comedy-festival.imgix.net/uploads/david-o-doherty.jpg?ixlib=jekyll-1.1.0&w=1200&h=857&fit=crop&auto=compress&lossless=true&q=50&dpr=1, large]
+[https://greenwich-comedy-festival.imgix.net/uploads/david-o-doherty.jpg?ixlib=jekyll-1.1.0&w=1440&h=1029&fit=crop&auto=compress&lossless=true&q=50&dpr=1, xlarge]
+"
+>
           </div>
           <div class="small-12 large-4 cell text-lowercase text-center medium-text-left">
               <h3>David O'Doherty</h3>
@@ -211,7 +234,7 @@
   </div>
   <div class="grid-x grid-padding-y align-center text-lowercase">
   <div class="shrink cell">
-    <h2>Saturday 15 September</h2>
+    <h2>Saturday 15 Sep</h2>
   </div>
   </div>
   <div class="grid-x grid-margin-x grid-margin-y">
@@ -229,7 +252,14 @@
     </div>
   </div>
           <div class="small-12 large-4 cell">
-            <img src="/uploads/adam-buxton.jpg" alt="">
+            <img data-interchange=
+"
+[https://greenwich-comedy-festival.imgix.net/uploads/adam-buxton.jpg?ixlib=jekyll-1.1.0&w=640&h=457&fit=crop&auto=compress&lossless=true&q=50&dpr=1, small]
+[https://greenwich-comedy-festival.imgix.net/uploads/adam-buxton.jpg?ixlib=jekyll-1.1.0&w=1024&h=731&fit=crop&auto=compress&lossless=true&q=40&dpr=1, medium]
+[https://greenwich-comedy-festival.imgix.net/uploads/adam-buxton.jpg?ixlib=jekyll-1.1.0&w=1200&h=857&fit=crop&auto=compress&lossless=true&q=50&dpr=1, large]
+[https://greenwich-comedy-festival.imgix.net/uploads/adam-buxton.jpg?ixlib=jekyll-1.1.0&w=1440&h=1029&fit=crop&auto=compress&lossless=true&q=50&dpr=1, xlarge]
+"
+>
           </div>
           <div class="small-12 large-4 cell text-lowercase text-center medium-text-left">
               <h3>Adam Buxton's Bug X</h3>
@@ -265,7 +295,14 @@
     </div>
   </div>
           <div class="small-12 large-4 cell">
-            <img src="/uploads/milton-jones.jpg" alt="">
+            <img data-interchange=
+"
+[https://greenwich-comedy-festival.imgix.net/uploads/milton-jones.jpg?ixlib=jekyll-1.1.0&w=640&h=457&fit=crop&auto=compress&lossless=true&q=50&dpr=1, small]
+[https://greenwich-comedy-festival.imgix.net/uploads/milton-jones.jpg?ixlib=jekyll-1.1.0&w=1024&h=731&fit=crop&auto=compress&lossless=true&q=40&dpr=1, medium]
+[https://greenwich-comedy-festival.imgix.net/uploads/milton-jones.jpg?ixlib=jekyll-1.1.0&w=1200&h=857&fit=crop&auto=compress&lossless=true&q=50&dpr=1, large]
+[https://greenwich-comedy-festival.imgix.net/uploads/milton-jones.jpg?ixlib=jekyll-1.1.0&w=1440&h=1029&fit=crop&auto=compress&lossless=true&q=50&dpr=1, xlarge]
+"
+>
           </div>
           <div class="small-12 large-4 cell text-lowercase text-center medium-text-left">
               <h3>Milton Jones</h3>
@@ -304,7 +341,14 @@
     </div>
   </div>
           <div class="small-12 large-4 cell">
-            <img src="/uploads/reginald-d-hunter.jpg" alt="">
+            <img data-interchange=
+"
+[https://greenwich-comedy-festival.imgix.net/uploads/reginald-d-hunter.jpg?ixlib=jekyll-1.1.0&w=640&h=457&fit=crop&auto=compress&lossless=true&q=50&dpr=1, small]
+[https://greenwich-comedy-festival.imgix.net/uploads/reginald-d-hunter.jpg?ixlib=jekyll-1.1.0&w=1024&h=731&fit=crop&auto=compress&lossless=true&q=40&dpr=1, medium]
+[https://greenwich-comedy-festival.imgix.net/uploads/reginald-d-hunter.jpg?ixlib=jekyll-1.1.0&w=1200&h=857&fit=crop&auto=compress&lossless=true&q=50&dpr=1, large]
+[https://greenwich-comedy-festival.imgix.net/uploads/reginald-d-hunter.jpg?ixlib=jekyll-1.1.0&w=1440&h=1029&fit=crop&auto=compress&lossless=true&q=50&dpr=1, xlarge]
+"
+>
           </div>
           <div class="small-12 large-4 cell text-lowercase text-center medium-text-left">
               <h3>Reginald D Hunter</h3>
@@ -330,7 +374,7 @@
   </div>
   <div class="grid-x grid-padding-y align-center text-lowercase">
   <div class="shrink cell">
-    <h2>Sunday 16 September</h2>
+    <h2>Sunday 16 Sep</h2>
   </div>
   </div>
   <div class="grid-x grid-margin-x grid-margin-y">
@@ -348,7 +392,14 @@
     </div>
   </div>
           <div class="small-12 large-4 cell">
-            <img src="/uploads/ross-noble.jpg" alt="">
+            <img data-interchange=
+"
+[https://greenwich-comedy-festival.imgix.net/uploads/ross-noble.jpg?ixlib=jekyll-1.1.0&w=640&h=457&fit=crop&auto=compress&lossless=true&q=50&dpr=1, small]
+[https://greenwich-comedy-festival.imgix.net/uploads/ross-noble.jpg?ixlib=jekyll-1.1.0&w=1024&h=731&fit=crop&auto=compress&lossless=true&q=40&dpr=1, medium]
+[https://greenwich-comedy-festival.imgix.net/uploads/ross-noble.jpg?ixlib=jekyll-1.1.0&w=1200&h=857&fit=crop&auto=compress&lossless=true&q=50&dpr=1, large]
+[https://greenwich-comedy-festival.imgix.net/uploads/ross-noble.jpg?ixlib=jekyll-1.1.0&w=1440&h=1029&fit=crop&auto=compress&lossless=true&q=50&dpr=1, xlarge]
+"
+>
           </div>
           <div class="small-12 large-4 cell text-lowercase text-center medium-text-left">
               <h3>Ross Noble</h3>
@@ -387,7 +438,14 @@
     </div>
   </div>
           <div class="small-12 large-4 cell">
-            <img src="/uploads/henning-wehn.jpg" alt="">
+            <img data-interchange=
+"
+[https://greenwich-comedy-festival.imgix.net/uploads/henning-wehn.jpg?ixlib=jekyll-1.1.0&w=640&h=457&fit=crop&auto=compress&lossless=true&q=50&dpr=1, small]
+[https://greenwich-comedy-festival.imgix.net/uploads/henning-wehn.jpg?ixlib=jekyll-1.1.0&w=1024&h=731&fit=crop&auto=compress&lossless=true&q=40&dpr=1, medium]
+[https://greenwich-comedy-festival.imgix.net/uploads/henning-wehn.jpg?ixlib=jekyll-1.1.0&w=1200&h=857&fit=crop&auto=compress&lossless=true&q=50&dpr=1, large]
+[https://greenwich-comedy-festival.imgix.net/uploads/henning-wehn.jpg?ixlib=jekyll-1.1.0&w=1440&h=1029&fit=crop&auto=compress&lossless=true&q=50&dpr=1, xlarge]
+"
+>
           </div>
           <div class="small-12 large-4 cell text-lowercase text-center medium-text-left">
               <h3>Henning Wehn</h3>
@@ -414,7 +472,7 @@
   </div>
 </div>
 </section>
-<footer class="padding-top-1 padding-bottom-1">
+<footer class="padding-1">
   <div class="grid-x grid-padding-y">
     <div class="small-12 cell text-center">
       <h5><a href="/tickets">National Maritime Museum, Greenwich</a></h5>
@@ -436,11 +494,11 @@
   </div>
   <div class="grid-x grid-padding-x align-center">
     <div class="small-12 medium-7 large-5 cell">
-      <form action="//bristolcomedygarden.us8.list-manage.com/subscribe/post?u=4f6c24b1fd6a641ead690d017&amp;id=da73c043ee" method="post" target="_blank" novalidate="">
+      <form action="//bristolcomedygarden.us8.list-manage.com/subscribe/post?u=4f6c24b1fd6a641ead690d017&id=e6f2914b7c" method="post" target="_blank" novalidate="">
       <div class="input-group">
         <input class="input-group-field" type="email" name="EMAIL" id="mce-EMAIL" placeholder="Subscribe to our newsletter">
         <div class="input-group-button">
-        <input type="submit" class="button hollow secondary" value="Submit">
+        <input type="submit" class="button hollow primary" value="Subscribe">
         </div>
       </div>
       </form>

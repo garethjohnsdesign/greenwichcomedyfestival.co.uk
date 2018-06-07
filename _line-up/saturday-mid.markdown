@@ -19,7 +19,7 @@ secondary-text: Joining Milton is an all-star supporting line-up with Bristol’
 festival-starts-at: 2018-09-15 15:15:00 Z
 show-starts-at: 2018-09-15 16:45:00 Z
 ticket-price: "£20 - £25"
-ticket-link: https://www.seetickets.com/event/milton-jones/big-top-bristol-comedy-garden/1206528
+ticket-link: https://www.seetickets.com/
 is-sold-out: true
 layout: event
 ---

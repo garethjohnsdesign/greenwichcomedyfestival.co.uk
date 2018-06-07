@@ -12,7 +12,8 @@
       </div>
       
       <div class="excerpt__image">
-        <img src="{{act.image}}" alt="{{act.title}}">
+           {% assign image = act.image %}
+            {% include images/excerpt.html %}
       </div>
     
     </a>

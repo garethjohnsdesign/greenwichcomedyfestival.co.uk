@@ -18,4 +18,4 @@ We only sell our tickets through certified third-party ticket-sellers, such as S
 
 We are not responsible for any of the information gathered and stored by third-party sellers and enquiries related to information gathered at the time of ticket purchases should be directed to the relevant company. 
  
-If you would like any more information about any of this, please contact us at info@bristolcomedygarden.co.uk
+If you would like any more information about any of this, please contact us at info@greenwichcomedyfestival.co.uk

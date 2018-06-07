@@ -4,7 +4,7 @@ layout: default
 
 <section class="tickets padding-bottom-3">
 <div class="grid-container">
-  {% assign collection = site.line-up | group_by_exp: "item", "item.date | date: '%A %-d %B'" %}
+  {% assign collection = site.line-up | group_by_exp: "item", "item.date | date: '%A %-d %b'" %}
   {% for day in collection %}
   
   <!-- Day -->
@@ -50,7 +50,8 @@ layout: default
   
           <div class="small-12 large-4 cell">
             {% for act in day.acts limit:1 %}
-            <img src="{{act.image}}" alt="{{act.title}}">
+            {% assign image = act.image %}
+            {% include images/excerpt.html %}
             {% endfor %}
           </div>
           

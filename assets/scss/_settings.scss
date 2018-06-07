@@ -83,7 +83,7 @@ $foundation-palette: (
   light-background: #f7f7f2, // spring-wood
   primary-background: #5deac2, // teal
   secondary-background: #3ecdff, // blue
-  tertiary-background: #ffd972, // yellow
+  tertiary-background: #ffbc2f, // yellow
 );
 // $body-background: $white;
 $body-background: #f7f7f2;
@@ -119,7 +119,7 @@ $breakpoints: (
   xxlarge: 1440px,
 );
 $print-breakpoint: large;
-$breakpoint-classes: (small medium large);
+$breakpoint-classes: (small medium large xlarge xxlarge);
 
 // 3. The Grid
 // -----------
@@ -188,7 +188,7 @@ $code-border: 1px solid $medium-gray;
 $code-padding: rem-calc(2 5 1);
 $anchor-color: $primary-color;
 // $anchor-color-hover: scale-color($anchor-color, $lightness: -14%);
-$anchor-color-hover: scale-color($anchor-color, $lightness: -80%);
+$anchor-color-hover: scale-color(get-color(tertiary-background), $lightness: 0%);
 $anchor-text-decoration: none;
 $anchor-text-decoration-hover: none;
 $hr-width: $global-width;
@@ -204,7 +204,7 @@ $defnlist-margin-bottom: 1rem;
 $defnlist-term-weight: $global-weight-bold;
 $defnlist-term-margin-bottom: 0.3rem;
 // $blockquote-color: $dark-gray;
-$blockquote-color: $white;
+$blockquote-color: get-color(tertiary-background);
 // $blockquote-padding: rem-calc(9 20 0 19);
 $blockquote-padding: 0;
 // $blockquote-border: 1px solid $medium-gray;
@@ -212,7 +212,7 @@ $blockquote-border: 0px solid $medium-gray;
 // $cite-font-size: rem-calc(13);
 $cite-font-size: 1rem;;
 // $cite-color: $dark-gray;
-$cite-color: $white;
+$cite-color: scale-color(get-color(tertiary-background), $lightness: 20%);
 $cite-pseudo-content: '\2014 \0020';
 $keystroke-font: $font-family-monospace;
 $keystroke-color: $black;
@@ -307,7 +307,7 @@ $breadcrumbs-item-separator-color: $medium-gray;
 // ----------
 
 // $button-font-family: inherit;
-$button-font-family: $primary-font-family;
+$button-font-family: $secondary-font-family;
 $button-padding: 0.85em 1em;
 $button-margin: 0 0 $global-margin 0;
 $button-fill: solid;
@@ -462,9 +462,9 @@ $select-background: $white;
 $select-triangle-color: $dark-gray;
 $select-radius: $global-radius;
 // $input-color: $black;
-$input-color: $secondary-color;
+$input-color: $primary-color;
 // $input-placeholder-color: $medium-gray;
-$input-placeholder-color: $secondary-color;
+$input-placeholder-color: $primary-color;
 $input-font-family: inherit;
 $input-font-size: rem-calc(16);
 $input-font-weight: $global-weight-normal;
@@ -474,9 +474,9 @@ $input-background: transparent;
 // $input-background-focus: $white;
 $input-background-focus: transparent;
 // $input-background-disabled: $light-gray;
-$input-background-disabled: $secondary-color;
+$input-background-disabled: $primary-color;
 // $input-border: 1px solid $medium-gray;
-$input-border: 1px solid $secondary-color;
+$input-border: 1px solid $primary-color;
 $input-border-focus: 1px solid $dark-gray;
 $input-padding: $form-spacing / 2;
 // $input-shadow: inset 0 1px 2px rgba($black, 0.1);
@@ -515,7 +515,8 @@ $menu-nested-margin: $global-menu-nested-margin;
 $menu-items-padding: $global-menu-padding;
 $menu-simple-margin: 1rem;
 $menu-item-color-active: $white;
-$menu-item-background-active: get-color(primary);
+// $menu-item-background-active: get-color(primary);
+$menu-item-background-active: get-color(secondary-background);
 $menu-icon-spacing: 0.25rem;
 $menu-item-background-hover: $light-gray;
 $menu-state-back-compat: true;
@@ -895,7 +896,7 @@ $tooltip-radius: $global-radius;
 
 $topbar-padding: 0.5rem;
 // $topbar-background: $light-gray;
-$topbar-background: #f7f7f2;
+$topbar-background: get-color(light-background);
 $topbar-submenu-background: $topbar-background;
 $topbar-title-spacing: 0.5rem 1rem 0.5rem 0;
 $topbar-input-width: 200px;

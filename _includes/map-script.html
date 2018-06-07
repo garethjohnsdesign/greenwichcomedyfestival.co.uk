@@ -1,11 +1,11 @@
 <script>
     function initMap() {
-    var bristol = new google.maps.LatLng(51.450542, -2.594750);
-    var bristoloptions =
+    var greenwich = new google.maps.LatLng(51.481015, -0.005163);
+    var greenwichoptions =
     {
         zoom: 15,
         scrollwheel: false,
-        center: bristol,
+        center: greenwich,
         styles: [
   {
     "elementType": "geometry",
@@ -169,17 +169,13 @@
     };
 
 
-    var bristolmap = new google.maps.Map(document.getElementById("bristol_canvas"), bristoloptions);
+    var greenwichmap = new google.maps.Map(document.getElementById("greenwich_canvas"), greenwichoptions);
 
     var myMarker = new google.maps.Marker(
     {
-        position: bristol,
-        map: bristolmap,
-        title:"Bristol",
-        icon: {
-        path: google.maps.SymbolPath.CIRCLE,
-        scale: 10
-        }
+        position: greenwich,
+        map: greenwichmap,
+        title:"greenwich"
    });
 
 }

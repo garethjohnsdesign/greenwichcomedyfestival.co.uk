@@ -2,13 +2,13 @@
 layout: default
 ---
 
-<section class="line-up">
+<section class="line-up margin-2">
   
   <div class="grid-x align-center">
   <div class="expand cell">
   <ul class="tabs" data-update-history="true" data-deep-link-smudge="true" data-deep-link-smudge-delay="600" data-responsive-accordion-tabs="accordion large-tabs" data-allow-all-closed="true" id="example-tabs">
   <li class="tabs-title is-active"><a href="#all" aria-selected="true">All Days</a></li>
-  {% assign collection = site.line-up | group_by_exp: "item", "item.date | date: '%A %-d %B'" %}
+  {% assign collection = site.line-up | group_by_exp: "item", "item.date | date: '%A %-d %b'" %}
   {% for day in collection %}
   <li class="tabs-title"><a href="#{{ day.name | slugify | remove: "-" }}">{{ day.name }}</a></li>
   {% endfor %}
@@ -30,7 +30,7 @@ layout: default
     </div>
   </div>
   
-  {% assign collection = site.line-up | group_by_exp: "item", "item.date | date: '%A %-d %B'" %}
+  {% assign collection = site.line-up | group_by_exp: "item", "item.date | date: '%A %-d %b'" %}
   {% for day in collection %}
   
   <div class="tabs-panel border-none" id="{{ day.name | slugify | remove: "-" }}">
