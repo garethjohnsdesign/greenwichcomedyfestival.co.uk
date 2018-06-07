@@ -51,6 +51,7 @@ layout: default
           <div class="small-12 large-4 cell">
             {% for act in day.acts limit:1 %}
             {% assign image = act.image %}
+            
             {% include images/excerpt.html %}
             {% endfor %}
           </div>
