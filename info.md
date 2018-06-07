@@ -8,9 +8,9 @@ general:
     local Mexican food legends Los Amigos, comfort-food specialists Warm and Toastie,
     supremely tasty curries from Gopal’s, and more!
 - title: Festival Timings
-  text: "Weds 12 September: 6pm - 10.30pm  \nThurs 13 September: 6pm - 10.30pm  \nFri 14
-    September: 6pm - 10.30pm  \nSat 15 September: 1pm - 10.30pm  \nSun 16 September: 2.45pm -
-    10.30pm"
+  text: "Weds 12 September: 6pm - 10.30pm  \nThurs 13 September: 6pm - 10.30pm  \nFri
+    14 September: 6pm - 10.30pm  \nSat 15 September: 1pm - 10.30pm  \nSun 16 September:
+    2.45pm - 10.30pm"
 - title: Festival Site
   text: |-
     You must have a valid ticket to gain entry to the Comedy Garden. Tickets can be purchased online in advance or at the on site Box Office on the evening of the show, depending on availability.
