@@ -2,7 +2,6 @@
 title: Location
 position: 3
 details:
-details:
 - title: Car
   text: Unfortunately there is no public parking available at the museum and limited
     parking in Greenwich town centre. However there is blue badge parking area available
