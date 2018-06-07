@@ -7,7 +7,7 @@ collections:
     output: true
   posts:
     title: Posts
-    output: true
+    output: false
   uploads:
     title: Uploads
     output: false
@@ -36,6 +36,7 @@ plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
 - jekyll-feed
+- jekyll/imgix
 markdown: kramdown
 kramdown:
   input: GFM
@@ -61,3 +62,5 @@ compress_html:
   - " -->"
   blanklines: true
   profile: false
+imgix:
+  source: https://greenwich-comedy-festival.imgix.net
