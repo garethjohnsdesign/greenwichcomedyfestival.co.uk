@@ -5,7 +5,7 @@ image: "/assets/img/og-image.png"
 carousel:
 - name: Russell Howard
   image: "/uploads/russell-howard.jpg"
-  subheader: The undisputed king of the exasperated petty gripe — Evening Standard
+  subheader: Energetic, uncynical and, most importantly, very funny - The Times
   is-sold-out: 
   line-up: Sunday Late
 - name: Adam Buxton's Bug X
