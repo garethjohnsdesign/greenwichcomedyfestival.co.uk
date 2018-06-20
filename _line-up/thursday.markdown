@@ -3,26 +3,25 @@ title: Thursday
 date: 2018-09-13 19:30:00 Z
 position: 1
 acts:
-- name: Alan Davies
-  image: "/uploads/alan-davies.jpg"
-- name: Joe Wilkinson
-  image: "/uploads/joe-wilkinson.jpg"
-- name: Zoe Lyons
-  image: "/uploads/zoe-lyons.jpg"
-- name: Kiri Pritchard-Mclean
-  image: "/uploads/kiri-pritchard-mclean.jpg"
-quote: One of the best Stand-up comics out there... packed with deft silliness and
-  shrewd observation
-quote-cite: The Guardian
-secondary-text: Joining Alan is is 8 Out Of 10 Cats Does Countdown’s favourite oddball
-  Joe Wilkinson making his Comedy Garden debut, alongside high-energy Live At The
-  Apollo star Zoe Lyons and the brilliant Kiri Pritchard-Mclean as host.
+- name: James Acaster
+  image: "/uploads/james-acaster.jpg"
+- name: Nish Kumar
+  image: "/uploads/nish-kumar.jpg"
+- name: Lolly Adefope
+  image: "/uploads/lolly-adefope.jpg"
+- name: Suzi Ruffell
+  image: "/uploads/suzi-ruffell.jpg"
+- name: John Robins
+  image: "/uploads/john-robins.jpg"
+quote: He really is rewriting the comedy rulebook
+quote-cite: Time Out
+secondary-text: Joining James is an astounding supporting line-up with The Mash Report star Nish Kumar, Taskmaster’s Lolly Adefope, flawless stand-up machine Suzi Ruffell and 2017 Edinburgh Comedy Award winner, podcast hero and all-round vibe magnet John Robins as host.
 festival-starts-at: 2018-09-13 18:00:00 Z
 show-starts-at: 2018-09-13 19:30:00 Z
 ticket-price: "£20 - £25"
 ticket-link: https://www.seetickets.com/
-is-sold-out: true
+is-sold-out: false
 layout: event
 ---
 
-Much lauded as resident dunderhead on QI, or the charming but reticent crime solver Jonathan Creek, Davies' virtuosic story-telling and whip-smart funny bones combine as he heads to the Big Top in beautiful Queen Square.
+Following his wildly acclaimed four part Netflix Special ‘Repertoire’, five time Edinburgh Comedy Award nominee and Mock The Week regular James Acaster headlines an unmissable night in the Big Top at Greenwich Comedy Festival. 

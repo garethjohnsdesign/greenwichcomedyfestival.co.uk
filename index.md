@@ -3,57 +3,62 @@ title: Greenwich Comedy Festival 2018
 position: 0
 image: "/assets/img/og-image.png"
 carousel:
-- name: Josh Widdicombe
-  image: "/uploads/josh-widdicombe-featured-rev2.jpg"
+- name: Russell Howard
+  image: "/uploads/russell-howard.jpg"
   subheader: The undisputed king of the exasperated petty gripe — Evening Standard
-  is-sold-out: true
-  line-up: Wednesday
+  is-sold-out:
+  line-up: Sunday Late
 - name: Adam Buxton's Bug X
-  image: "/uploads/adam-buxton-featured.jpg"
+  image: "/uploads/adam-buxton.jpg"
   subheader: 
-  is-sold-out: true
+  is-sold-out:
   line-up: Saturday Early
-- name: Alan Davies
-  image: "/uploads/alan-davies-featured.jpg"
-  subheader: One of the best Stand-up comics out there — The Guardian
-  is-sold-out: true
+- name: James Acaster
+  image: "/uploads/james-acaster.jpg"
+  subheader: "One of comedy’s most original voices - Evening Standard"
+  is-sold-out:
   line-up: Thursday
 - name: Milton Jones
-  image: "/uploads/milton-jones-featured.jpg"
+  image: "/uploads/milton-jones.jpg"
   subheader: Pun-derful Jones leaves the audience gagging for more — Metro
-  is-sold-out: true
+  is-sold-out:
+  line-up: Saturday Early
+- name: Ed Byrne
+  image: "/uploads/ed-byrne.jpg"
+  subheader: Comedy’s Holy Grail. Go See - Sunday Times
+  is-sold-out:
   line-up: Saturday Mid
 featured:
-- name: Ross Noble
-  image: "/uploads/ross-noble.jpg"
+- name: Aisling Bea
+  image: "/uploads/aisling-bea.jpg"
   subheader: 
   is-sold-out: false
-  line-up: Sunday Early
+  line-up: Friday
 - name: Nina Conti
   image: "/uploads/nina-conti.jpg"
   subheader: 
   is-sold-out: false
-  line-up: Sunday Late
-- name: Miles Jupp
-  image: "/uploads/miles-jupp.jpg"
+  line-up: Saturday Mid
+- name: Nish Kumar
+  image: "/uploads/nish-kumar.jpg"
   subheader: 
   is-sold-out: false
-  line-up: Sunday Early
-- name: Shappi Khorsandi
-  image: "/uploads/shappi-khorsandi.jpg"
-  subheader: 
-  is-sold-out: true
-  line-up: Saturday Mid
-- name: Tom Allen
-  image: "/uploads/tom-allen.jpg"
+  line-up: Thursday
+- name: David O'Doherty
+  image: "/uploads/david-o-doherty.jpg"
   subheader: 
   is-sold-out: true
   line-up: Friday
-- name: Joe Wilkinson
-  image: "/uploads/joe-wilkinson.jpg"
+- name: Lolly Adefope
+  image: "/uploads/lolly-adefope.jpg"
   subheader: 
   is-sold-out: true
   line-up: Thursday
+- name: Tim Key
+  image: "/uploads/tim-key.jpg"
+  subheader: 
+  is-sold-out: true
+  line-up: Friday
 - name: Reginald D Hunter
   image: "/uploads/reginald-d-hunter.jpg"
   subheader: 
@@ -63,7 +68,7 @@ featured:
   image: "/uploads/henning-wehn.jpg"
   subheader: 
   is-sold-out: 
-  line-up: Sunday Late
+  line-up: Sunday Mid
 layout: home
 ---
 

@@ -4,29 +4,23 @@ date: 2018-09-16 19:30:00 Z
 position: 5
 day: Sunday
 acts:
-- name: Henning Wehn
-  image: "/uploads/henning-wehn.jpg"
-- name: Nina Conti
-  image: "/uploads/nina-conti.jpg"
-- name: Jayde Adams
-  image: "/uploads/jayde-adams.jpg"
+- name: Russell Howard
+  image: "/uploads/russell-howard.jpg"
+- name: Desiree Burch
+  image: "/uploads/desiree-burch.jpg"
 - name: Phil Wang
   image: "/uploads/phil-wang.jpg"
-- name: Fin Taylor
-  image: "/uploads/fin-taylor.jpg"
-quote: Wehn wraps his vowels around the issues of immigration and identity. And he
-  triumphs at it
+- name: Ed Gamble
+  image: "/uploads/ed-gamble.jpg"
+quote: Energetic, uncynical and, most importantly, very funny
 quote-cite: The Times
-secondary-text: Joining Henning is groundbreaking ventriloquist and British Comedy
-  Award winner Nina Conti, plus fast-rising Bristolian Jayde Adams, Have I Got News
-  For You star Phil Wang makes his Comedy Garden debut, and the wildly acclaimed Fin
-  Taylor hosts.
+secondary-text: Joining Russell is a dazzling supporting cast with the formidably funny Have I Got News For You star Desiree Burch, Live At The Apollo star Phil Wang and charming scoundrel and Mock The Week regular Ed Gamble as host.
 festival-starts-at: 2018-09-16 18:00:00 Z
 show-starts-at: 2018-09-16 19:30:00 Z
 ticket-price: "£20 - 25"
-ticket-link: https://www.seetickets.com/event/henning-wehn/big-top-bristol-comedy-garden/1206550
+ticket-link: https://www.seetickets.com/
 is-sold-out: 
 layout: event
 ---
 
-Self styled German Comedy Ambassador Henning Wehn headlines the final show of Bristol Comedy Garden 2018. Expect a hit packed set from the Would I Lie To You Star, chock-full of inimitable teutonic jolliness.
+One of the best-selling acts in British stand-up, and host of his own smash-hit TV shows – Russell Howard headlines the final show of Greenwich Comedy Festival 2018. Last year Russell completed his ‘Round The World’ tour which included 10 nights at the Royal Albert Hall and a further 36 cities world wide. Don’t miss this stand-up superstar live in the Big Top!
