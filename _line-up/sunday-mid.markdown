@@ -12,9 +12,9 @@ acts:
   image: "/uploads/tom-lucy.jpg"
 - name: Kiri Pritchard-Mclean
   image: "/uploads/kiri-pritchard-mclean.jpg"
-quote:
-quote-cite:
-secondary-text:
+quote: 
+quote-cite: 
+secondary-text: 
 festival-starts-at: 2018-09-16 15:00:00 Z
 show-starts-at: 2018-09-16 16:00:00 Z
 ticket-price: "£20 - £25"

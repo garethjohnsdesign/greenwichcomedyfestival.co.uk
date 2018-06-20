@@ -11,9 +11,12 @@ acts:
   image: "/uploads/ivo-graham.jpg"
 - name: Mark Olver
   image: "/uploads/mark-olver.jpg"
-quote: It is rare for a comic to merit the word “masterful” but in this case it is no overstatement
+quote: It is rare for a comic to merit the word “masterful” but in this case it is
+  no overstatement
 quote-cite: Scotsman
-secondary-text: Joining Ed is Bristish Comedy Award winner and groundbreaking ventriloquist Nina Conti, endlessly amusing Live At The Apollo star Ivo Graham and master-compere and rabble-rouser Mark Olver as host.
+secondary-text: Joining Ed is Bristish Comedy Award winner and groundbreaking ventriloquist
+  Nina Conti, endlessly amusing Live At The Apollo star Ivo Graham and master-compere
+  and rabble-rouser Mark Olver as host.
 festival-starts-at: 2018-09-15 16:00:00 Z
 show-starts-at: 2018-09-15 17:00:00 Z
 ticket-price: "£20 - £25"

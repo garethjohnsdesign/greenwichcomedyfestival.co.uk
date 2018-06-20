@@ -11,7 +11,9 @@ acts:
   image: "/uploads/stephen-k-amos.jpg"
 quote: Pun-derful Jones leaves the audience gagging for more
 quote-cite: Metro
-secondary-text: Joining Milton is a dazzling supporting cast with a very special guest to be announced, acclaimed Radio 4 favourite Shappi Khorsandi and globe-trotting laughter-master Stephen K Amos as host.
+secondary-text: Joining Milton is a dazzling supporting cast with a very special guest
+  to be announced, acclaimed Radio 4 favourite Shappi Khorsandi and globe-trotting
+  laughter-master Stephen K Amos as host.
 festival-starts-at: 2018-09-15 13:00:00 Z
 show-starts-at: 2018-09-15 14:00:00 Z
 ticket-price: "£20"

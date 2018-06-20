@@ -14,7 +14,9 @@ acts:
 quote: When a stand up gig goes this well, you do get a sense of how religions are
   started
 quote-cite: The Guardian
-secondary-text: Joining David is a supporting line-up chock-a-block with greatness including cult poet/comic, Taskmaster and Alan Partridge star Tim Key, 8 Out Of 10 Cats team captain Aisling Bea and Mock The Week’s plucky scamp Ed Gamble as host.
+secondary-text: Joining David is a supporting line-up chock-a-block with greatness
+  including cult poet/comic, Taskmaster and Alan Partridge star Tim Key, 8 Out Of
+  10 Cats team captain Aisling Bea and Mock The Week’s plucky scamp Ed Gamble as host.
 festival-starts-at: 2018-09-14 18:00:00 Z
 show-starts-at: 2018-09-14 19:30:00 Z
 ticket-price: "£20 - £25"
