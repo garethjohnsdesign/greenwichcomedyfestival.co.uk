@@ -32,7 +32,7 @@ featured:
 - name: Aisling Bea
   image: "/uploads/aisling-bea.jpg"
   subheader: 
-  is-sold-out: false
+  is-sold-out:
   line-up: Friday
 - name: Nina Conti
   image: "/uploads/nina-conti.jpg"
@@ -47,17 +47,17 @@ featured:
 - name: David O'Doherty
   image: "/uploads/david-o-doherty.jpg"
   subheader: 
-  is-sold-out: true
+  is-sold-out:
   line-up: Friday
 - name: Lolly Adefope
   image: "/uploads/lolly-adefope.jpg"
   subheader: 
-  is-sold-out: true
+  is-sold-out:
   line-up: Thursday
 - name: Tim Key
   image: "/uploads/tim-key.jpg"
   subheader: 
-  is-sold-out: true
+  is-sold-out:
   line-up: Friday
 - name: Reginald D Hunter
   image: "/uploads/reginald-d-hunter.jpg"

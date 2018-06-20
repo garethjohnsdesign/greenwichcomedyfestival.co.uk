@@ -21,7 +21,7 @@ festival-starts-at: 2018-09-15 16:00:00 Z
 show-starts-at: 2018-09-15 17:00:00 Z
 ticket-price: "£20 - £25"
 ticket-link: https://www.seetickets.com/
-is-sold-out: true
+is-sold-out:
 layout: event
 ---
 
