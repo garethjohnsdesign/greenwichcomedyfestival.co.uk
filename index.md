@@ -69,6 +69,5 @@ featured:
   subheader: 
   is-sold-out: 
   line-up: Sunday Mid
-layout: home
+layout: holding
 ---
-
