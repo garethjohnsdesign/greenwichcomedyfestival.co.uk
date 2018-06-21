@@ -1,6 +1,6 @@
 ---
 title: Sunday Mid
-date: 2018-09-16 16:00:00 Z
+date: 2018-09-16 16:15:00 Z
 position: 5
 day: Sunday
 acts:
