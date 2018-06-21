@@ -25,4 +25,4 @@ is-sold-out: false
 layout: event
 ---
 
-The Lidle Enya, Broken Bublé, Live At The Apollo star and bona-fide Greenwich Comedy Festival favourite David O’Doherty returns to headline the Big Top with talking and songs played on a crappy keyboard from 1986.
+The Lidl Enya, Broken Bublé, Live At The Apollo star and bona-fide Greenwich Comedy Festival favourite David O’Doherty returns to headline the Big Top with talking and songs played on a crappy keyboard from 1986.
