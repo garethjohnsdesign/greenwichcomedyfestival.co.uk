@@ -27,4 +27,4 @@ is-sold-out: false
 layout: event
 ---
 
-Following his wildly acclaimed four part Netflix Special ‘Repertoire’, five time Edinburgh Comedy Award nominee and Mock The Week regular James Acaster headlines an unmissable night in the Big Top at Greenwich Comedy Festival. 
+Following his wildly acclaimed four-part Netflix Special ‘Repertoire’, five-time Edinburgh Comedy Award nominee and Mock The Week regular James Acaster headlines an unmissable night in the Big Top at Greenwich Comedy Festival. 
