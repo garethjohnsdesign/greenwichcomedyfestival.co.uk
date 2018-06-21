@@ -15,7 +15,7 @@ secondary-text: Joining Rob is a unmissable supporting line-up with a very speci
 festival-starts-at: 2018-09-12 18:00:00 Z
 show-starts-at: 2018-09-12 19:30:00 Z
 ticket-price: "£20 - £25"
-ticket-link: https://www.seetickets.com/
+ticket-link: https://www.seetickets.com/event/rob-delaney/national-maritime-museum/1242622
 is-sold-out: false
 layout: event
 ---
