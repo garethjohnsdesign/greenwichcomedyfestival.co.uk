@@ -5,7 +5,7 @@ position: 5
 day: Sunday
 acts:
 - name: Adam Buxton's Bug X
-  image: "/uploads/adam-buxton.jpg"
+  image: "/uploads/adam-buxton-two.jpg"
 quote: 
 quote-cite: 
 secondary-text: 
