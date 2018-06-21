@@ -178,6 +178,10 @@ i, cite, em, var, address, dfn {
   background-size: 50%;
 }
 
+.info p a {
+  border-bottom: 1px solid $black;
+}
+
 .event {
   @include breakpoint(small) {
   background: none;
@@ -199,6 +203,10 @@ i, cite, em, var, address, dfn {
 
 .about h3 {
   margin-bottom: 1rem;
+}
+
+.about p a {
+  border-bottom: 1px solid $black;
 }
 
 
