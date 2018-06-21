@@ -14,7 +14,7 @@ acts:
 quote: It is rare for a comic to merit the word “masterful” but in this case it is
   no overstatement
 quote-cite: Scotsman
-secondary-text: Joining Ed is Bristish Comedy Award winner and groundbreaking ventriloquist
+secondary-text: Joining Ed is British Comedy Award winner and groundbreaking ventriloquist
   Nina Conti, endlessly amusing Live At The Apollo star Ivo Graham and master-compere
   and rabble-rouser Mark Olver as host.
 festival-starts-at: 2018-09-15 16:00:00 Z
