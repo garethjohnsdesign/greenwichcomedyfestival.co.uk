@@ -5,12 +5,12 @@ image: "/assets/img/og-image.png"
 carousel:
 - name: Rob Delaney
   image: "/uploads/rob-delaney.jpg"
-  subheader: "Sharp and bitingly funny - Time Out"
+  subheader: Sharp and bitingly funny - Time Out
   is-sold-out: 
   line-up: Sunday Late
 - name: Russell Howard
   image: "/uploads/russell-howard.jpg"
-  subheader: "Energetic, uncynical and, most importantly, very funny - The Times"
+  subheader: Energetic, uncynical and, most importantly, very funny - The Times
   is-sold-out: 
   line-up: Sunday Late
 - name: Adam Buxton's Bug X
@@ -20,17 +20,17 @@ carousel:
   line-up: Saturday Early
 - name: James Acaster
   image: "/uploads/james-acaster.jpg"
-  subheader: "One of comedy’s most original voices - Evening Standard"
+  subheader: One of comedy’s most original voices - Evening Standard
   is-sold-out: 
   line-up: Thursday
 - name: Milton Jones
   image: "/uploads/milton-jones.jpg"
-  subheader: "Pun-derful Jones leaves the audience gagging for more — Metro"
+  subheader: Pun-derful Jones leaves the audience gagging for more — Metro
   is-sold-out: 
   line-up: Saturday Early
 - name: Ed Byrne
   image: "/uploads/ed-byrne.jpg"
-  subheader: "Comedy’s Holy Grail. Go See — Sunday Times"
+  subheader: Comedy’s Holy Grail. Go See — Sunday Times
   is-sold-out: 
   line-up: Saturday Mid
 featured:
