@@ -11,10 +11,12 @@ images:
 layout: about
 ---
 
-#### The magnificent Greenwich Comedy Festival returns once more to the grounds of the [National Maritime Museum](/location/) with even more legendary line-ups in the Big Top.
+#### Celebrating its 10th anniversary with a spell-binding selection of award-winning stand-up’s, this year’s Greenwich Comedy Festival is not to be missed.
 
-Come satisfy your comic cravings with legendary unkempt wordsmith [Dylan Moran](/line-up/saturday-mid/), charismatic Mock The Week host [Dara O’Briain](/line-up/sunday-late/), much lauded Qi regular [Alan Davies](/line-up/friday/), The Last Leg host [Adam Hills](/line-up/sunday-mid/), natural charmer [Sara Pascoe](/line-up/saturday-early/), 8 Out Of 10 Cats favourite [Joe Lycett](/line-up/thursday/), observational master [Ed Byrne](/line-up/saturday-late/) plus [David O’Doherty](/line-up/saturday-early/), [Ellie Taylor](/line-up/thursday/), [Shappi Khorsandi](/line-up/sunday-mid/) and many many more.
+Once again the beautiful surroundings of the iconic National Maritime Museum in Royal Greenwich will be awash with even more legendary line-ups in the Big Top.
 
-Each year thousands of comedy-fans flock to this iconic location to witness meticulously curated shows in sublime surroundings complete with bars, gourmet street-food, music and so much more.
+Marking a decade of laughter, we are very ecstatic to announce an astounding programme featuring stand-up mega-star Russell Howard, who performed at the inaugural event back in 2009, plus cult-hero Adam Buxton, observational master Ed Byrne, one-liner slinger Milton Jones, groundbreaking ventriloquist Nina Conti, self-styled ‘German Comedy Ambassador’ Henning Wehn, acclaimed character comic Lolly Adefope, David O’Doherty, Reginald D Hunter, Shappi Khorsandi, Nish Kumar and many (many) more.
+
+Each year, thousands of comedy-lovers flock to Time Out’s “favourite London comedy festival” to watch the very best comedians perform in a series of meticulously curated shows in sublime surroundings - complete with bars, gourmet street-food, music and so much more.
 
 Get your tickets now and end your summer on a hilarious high!
