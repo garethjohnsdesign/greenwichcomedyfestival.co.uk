@@ -17,7 +17,7 @@ secondary-text: Joining Reginald is a special guest to be announced plus Edinbur
   Comedy Award nominee Jayde Adams, Mock The Week’s one-liner slinger Gary Delaney
   and the unmissable Live At The Apollo star Andrew Maxwell as host.
 festival-starts-at: 2018-09-15 19:00:00 Z
-show-starts-at: 2018-09-15 20:00:00 Z
+show-starts-at: 2018-09-15 20:15:00 Z
 ticket-price: "£20 - £25"
 ticket-link: https://www.seetickets.com/
 is-sold-out: 
