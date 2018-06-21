@@ -2,9 +2,6 @@
 title: Greenwich Comedy Festival
 timezone: UTC
 collections:
-  line-up:
-    title: Line-up
-    output: true
   posts:
     title: Posts
     output: true
