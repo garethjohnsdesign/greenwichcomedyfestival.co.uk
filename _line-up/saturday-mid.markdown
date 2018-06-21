@@ -1,6 +1,6 @@
 ---
 title: Saturday Mid
-date: 2018-09-15 16:45:00 Z
+date: 2018-09-15 17:00:00 Z
 position: 4
 acts:
 - name: Ed Byrne
