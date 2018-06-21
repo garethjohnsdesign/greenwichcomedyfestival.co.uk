@@ -265,6 +265,13 @@
 		"oAP": "\/_line-up\/thursday.markdown",
 		"oF": 0
 		},
+	"\/_line-up\/wednesday.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_line-up\/wednesday.markdown",
+		"oF": 0
+		},
 	"\/_site": {
 		"ft": 65536,
 		"oA": 1,
@@ -337,6 +344,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/_uploads\/ed-byrne.jpg": {
+		"ft": 16384,
+		"iS": 515280,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/ed-byrne.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_uploads\/ed-gamble-2.jpg": {
 		"ft": 16384,
 		"iS": 311720,
@@ -348,15 +366,15 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/_uploads\/ed-gamble.jpg": {
+	"\/_uploads\/fin-taylor.jpg": {
 		"ft": 16384,
-		"iS": 457261,
+		"iS": 393571,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/_uploads\/ed-gamble.jpg",
+		"oAP": "\/_uploads\/fin-taylor.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/_uploads\/gallery-01.jpg": {
@@ -590,6 +608,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/_uploads\/rob-delaney.jpg": {
+		"ft": 16384,
+		"iS": 529615,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/rob-delaney.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_uploads\/rosie-jones.jpg": {
 		"ft": 16384,
 		"iS": 684948,
@@ -665,6 +694,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"\/_uploads\/zoe-lyons.jpg": {
+		"ft": 16384,
+		"iS": 339763,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/zoe-lyons.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/about.md": {
