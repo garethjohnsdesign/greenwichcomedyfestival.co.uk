@@ -19,7 +19,7 @@ secondary-text: Joining Reginald is a special guest to be announced plus Edinbur
 festival-starts-at: 2018-09-15 19:00:00 Z
 show-starts-at: 2018-09-15 20:15:00 Z
 ticket-price: "£20 - £25"
-ticket-link: https://www.seetickets.com/
+ticket-link: https://www.seetickets.com/event/reginald-d-hunter/national-maritime-museum/1241748
 is-sold-out: 
 layout: event
 ---

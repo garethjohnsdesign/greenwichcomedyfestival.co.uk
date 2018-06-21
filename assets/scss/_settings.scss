@@ -82,7 +82,7 @@ $foundation-palette: (
   alert: #cc4b37,
   light-background: #f7f7f2, // spring-wood
   primary-background: #5deac2, // teal
-  secondary-background: #3ecdff, // blue
+  secondary-background: #3FCEA5, // blue
   tertiary-background: #ffbc2f, // yellow
 );
 // $body-background: $white;
@@ -160,7 +160,7 @@ $header-styles: (
   small: (
     'h1': ('font-size': 40),
     'h2': ('font-size': 32),
-    'h3': ('font-size': 28),
+    'h3': ('font-size': 24),
     'h4': ('font-size': 18),
     'h5': ('font-size': 17),
     'h6': ('font-size': 16),
@@ -553,8 +553,7 @@ $offcanvas-reveal-zindex: 12;
 $offcanvas-transition-length: 0.5s;
 $offcanvas-transition-timing: ease;
 $offcanvas-fixed-reveal: true;
-// $offcanvas-exit-background: rgba($white, 0.25);
-$offcanvas-exit-background: rgba($secondary-color, 0.75);
+$offcanvas-exit-background: rgba($white, 0.25);
 $maincontent-class: 'off-canvas-content';
 
 // 26. Orbit

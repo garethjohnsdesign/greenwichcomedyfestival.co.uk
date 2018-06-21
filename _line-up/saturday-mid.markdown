@@ -20,7 +20,7 @@ secondary-text: Joining Ed is British Comedy Award winner and groundbreaking ven
 festival-starts-at: 2018-09-15 16:00:00 Z
 show-starts-at: 2018-09-15 17:00:00 Z
 ticket-price: "£20 - £25"
-ticket-link: https://www.seetickets.com/
+ticket-link: https://www.seetickets.com/event/ed-byrne/national-maritime-museum/1241745
 is-sold-out: 
 layout: event
 ---

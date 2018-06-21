@@ -17,7 +17,7 @@ secondary-text: Joining Milton is a dazzling supporting cast with a very special
 festival-starts-at: 2018-09-15 13:00:00 Z
 show-starts-at: 2018-09-15 14:00:00 Z
 ticket-price: "£20 - £25"
-ticket-link: https://www.seetickets.com/
+ticket-link: https://www.seetickets.com/event/milton-jones/national-maritime-museum/1241744
 is-sold-out: false
 layout: event
 ---

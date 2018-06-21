@@ -20,7 +20,7 @@ secondary-text: Joining David is a supporting line-up chock-a-block with greatne
 festival-starts-at: 2018-09-14 18:00:00 Z
 show-starts-at: 2018-09-14 19:30:00 Z
 ticket-price: "£20 - £25"
-ticket-link: https://www.seetickets.com/
+ticket-link: https://www.seetickets.com/event/david-o-doherty/national-maritime-museum/1241736
 is-sold-out: false
 layout: event
 ---

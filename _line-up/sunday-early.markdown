@@ -12,7 +12,7 @@ secondary-text:
 festival-starts-at: 2018-09-16 12:30:00 Z
 show-starts-at: 2018-09-16 13:30:00 Z
 ticket-price: "£20"
-ticket-link: https://www.seetickets.com/
+ticket-link: https://www.seetickets.com/event/adam-buxton-s-bug-x/national-maritime-museum/1241752
 is-sold-out: 
 layout: event
 ---
