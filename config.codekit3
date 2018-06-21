@@ -366,6 +366,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/_uploads\/ed-gamble.jpg": {
+		"ft": 16384,
+		"iS": 409788,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/ed-gamble.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_uploads\/fin-taylor.jpg": {
 		"ft": 16384,
 		"iS": 393571,
@@ -379,13 +390,13 @@
 		},
 	"\/_uploads\/gallery-01.jpg": {
 		"ft": 16384,
-		"iS": 70895,
+		"iS": 145491,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/gallery-01.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/_uploads\/gallery-02.jpg": {
@@ -412,35 +423,35 @@
 		},
 	"\/_uploads\/gallery-04.jpg": {
 		"ft": 16384,
-		"iS": 256101,
+		"iS": 201977,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/gallery-04.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/_uploads\/gallery-05.jpg": {
 		"ft": 16384,
-		"iS": 231294,
+		"iS": 294087,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/gallery-05.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/_uploads\/gallery-06.jpg": {
 		"ft": 16384,
-		"iS": 135180,
+		"iS": 242496,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/_uploads\/gallery-06.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/_uploads\/gary-delaney.jpg": {

@@ -14,7 +14,7 @@ carousel:
   is-sold-out: 
   line-up: Sunday Late
 - name: Adam Buxton's Bug X
-  image: "/uploads/adam-buxton.jpg"
+  image: "/uploads/adam-buxton-two.jpg"
   subheader: 
   is-sold-out: 
   line-up: Saturday Early

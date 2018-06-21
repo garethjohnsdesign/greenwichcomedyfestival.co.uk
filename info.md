@@ -2,20 +2,6 @@
 title: Info
 position: 5
 general:
-- title: Food and Drink
-  text: |-
-    Arrive early to get into the comedy spirit at our bars and scrumptious street-food stalls.
-
-    Details on this year’s delicious traders will be announced soon but rest assured, there’ll be something to suit every possible palette!
-- title: Refill Not Landfill
-  text: We are proud to be using a reusable cup scheme across our bars - a £1 deposit
-    will get you a ‘green’ cup that you can replace for a clean cup and then get your
-    £1 back at the end of the night when you return the cup.
-- title: Festival Timings
-  text: "Weds 12 September: 6pm - 10.30pm  \nThurs 13 September: 6pm - 10.30pm  \nFri
-    14 September: 6pm - 10.30pm  \nSat 15 September: 1pm - 11.00pm  \nSun 16 September:
-    12:30pm - 10.30pm\n\nPlease check your tickets for your show start times, the
-    multi-bill shows last approximately 2.5 hours with intervals."
 - title: FAQ’s
   text: |-
     You must have a valid ticket to gain entry to the festival site. Tickets can be purchased online in advance or at the on site Box Office on the evening of the show, subject to availability.
@@ -31,6 +17,20 @@ general:
     Please do not try and bring any animals into the festival, only guide dogs are permitted.
 
     The festival has an age limit of 16+ with under 18’s accompanied by an adult. We apologise to all you younger comedy fans out there!
+- title: Food and Drink
+  text: |-
+    Arrive early to get into the comedy spirit at our bars and scrumptious street-food stalls.
+
+    Details on this year’s delicious traders will be announced soon but rest assured, there’ll be something to suit every possible palette!
+- title: Refill Not Landfill
+  text: We are proud to be using a reusable cup scheme across our bars - a £1 deposit
+    will get you a ‘green’ cup that you can replace for a clean cup and then get your
+    £1 back at the end of the night when you return the cup.
+- title: Festival Timings
+  text: "Weds 12 September: 6pm - 10.30pm  \nThurs 13 September: 6pm - 10.30pm  \nFri
+    14 September: 6pm - 10.30pm  \nSat 15 September: 1pm - 11.00pm  \nSun 16 September:
+    12:30pm - 10.30pm\n\nPlease check your tickets for your show start times, the
+    multi-bill shows last approximately 2.5 hours with intervals."
 - title: The Big Top Venue
   text: The Big Top is a fully seated venue. There are two types of tickets; Front
     Stalls and Rear Stalls. The Front Stalls are allocated and positioned closest
@@ -56,8 +56,6 @@ general:
     You can call SEE Tickets to make an access booking on 0871 220 0260 or 0115 896 0030, these bookings can also be made online.
 - title: Work With Us
   text: |-
-    **BAR CREW**
-
     We’re looking for friendly, confident and hard working people to come and work on our bars during the festival. Previous bar experience is essential and you must be over 18. You’ll be part of the team and enjoy all the perks that go with that. In return you’ll be punctual, reliable and ready to hop to action at any given moment.
 
     This is a paid role. You’ll be expected to work at least four shifts during the festival with full availability from 12th to 16th September regarded very highly.

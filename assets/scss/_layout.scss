@@ -174,8 +174,8 @@ i, cite, em, var, address, dfn {
 .info {
   background:  url(/assets/img/plants-01.png);
   background-repeat:no-repeat;
-  background-position: right top;
-  background-size: contain;
+  background-position: right bottom;
+  background-size: 50%;
 }
 
 .event {
@@ -192,9 +192,13 @@ i, cite, em, var, address, dfn {
 
 .about {
   background:  url(/assets/img/plants-01.png);
-  background-repeat:no-repeat;
+  background-repeat: no-repeat;
   background-position: right bottom;
-  background-size: contain;
+  background-size: 50%;
+}
+
+.about h3 {
+  margin-bottom: 1rem;
 }
 
 

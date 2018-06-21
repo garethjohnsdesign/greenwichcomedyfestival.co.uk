@@ -11,7 +11,7 @@ images:
 layout: about
 ---
 
-#### Celebrating its 10th anniversary with a spell-binding selection of award-winning stand-up’s, this year’s Greenwich Comedy Festival is not to be missed.
+### Celebrating its 10th anniversary with a spell-binding selection of award-winning stand-up’s, this year’s Greenwich Comedy Festival is not to be missed.
 
 Once again the beautiful surroundings of the iconic [National Maritime Museum](https://www.rmg.co.uk/national-maritime-museum) in Royal Greenwich will be awash with even more legendary line-ups in the Big Top.
 
