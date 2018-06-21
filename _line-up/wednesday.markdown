@@ -11,7 +11,9 @@ acts:
   image: "/uploads/fin-taylor.jpg"
 quote: Sharp and bitingly funny
 quote-cite: Time Out
-secondary-text: Joining Rob is a unmissable supporting line-up with a very special guest to be announced, Live At The Apollo and Mock The Week regular Zoe Lyons and the fiercely funny, uncompromising social commentator Fin Taylor as host.
+secondary-text: Joining Rob is a unmissable supporting line-up with a very special
+  guest to be announced, Live At The Apollo and Mock The Week regular Zoe Lyons and
+  the fiercely funny, uncompromising social commentator Fin Taylor as host.
 festival-starts-at: 2018-09-12 18:00:00 Z
 show-starts-at: 2018-09-12 19:30:00 Z
 ticket-price: "£20 - £25"
