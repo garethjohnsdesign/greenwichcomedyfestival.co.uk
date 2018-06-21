@@ -7,7 +7,7 @@ carousel:
   image: "/uploads/rob-delaney.jpg"
   subheader: Sharp and bitingly funny - Time Out
   is-sold-out: 
-  line-up: Sunday Late
+  line-up: Wednesday
 - name: Russell Howard
   image: "/uploads/russell-howard.jpg"
   subheader: Energetic, uncynical and, most importantly, very funny - The Times
