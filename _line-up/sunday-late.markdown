@@ -17,8 +17,8 @@ quote-cite: The Times
 secondary-text: Joining Russell is a dazzling supporting cast with the formidably
   funny Have I Got News For You star Desiree Burch, Live At The Apollo star Phil Wang
   and charming scoundrel and Mock The Week regular Ed Gamble as host.
-festival-starts-at: 2018-09-16 18:00:00 Z
-show-starts-at: 2018-09-16 19:30:00 Z
+festival-starts-at: 2018-09-16 18:30:00 Z
+show-starts-at: 2018-09-16 19:45:00 Z
 ticket-price: "£20 - £25"
 ticket-link: https://www.seetickets.com/
 is-sold-out: 
