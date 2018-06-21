@@ -54,15 +54,6 @@ general:
     Find more information on Blue Badge parking here.
 
     You can call SEE Tickets to make an access booking on 0871 220 0260 or 0115 896 0030, these bookings can also be made online.
-- title: Accessibility
-  text: |-
-    The Comedy Garden is totally accessible; wheelchair spaces with a free carer ticket are available through our online ticketing partner. Please contact us ahead of your show if you have any special requirements and we’ll do our best to accommodate you. While the Comedy Garden is in full swing our Front of House Team will be on hand to assist you in anyway they can.
-
-    Find more information on Blue Badge parking [here](https://www.bristol.gov.uk/parking/where-you-can-park)
-
-    Please do not try and bring any animals into the Comedy Garden, only guide dogs are permitted.
-
-    You can call SEE Tickets to make an access booking on 0871 220 0260 or 0115 896 0030, these bookings can also be made online.
 - title: Work With Us
   text: |-
     **BAR CREW**
