@@ -11,7 +11,7 @@ acts:
 - name: Phil Wang
   image: "/uploads/phil-wang.jpg"
 - name: Ed Gamble
-  image: "/uploads/ed-gamble.jpg"
+  image: "/uploads/ed-gamble-2.jpg"
 quote: Energetic, uncynical and, most importantly, very funny
 quote-cite: The Times
 secondary-text: Joining Russell is a dazzling supporting cast with the formidably
