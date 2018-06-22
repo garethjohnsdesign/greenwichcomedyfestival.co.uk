@@ -38,7 +38,7 @@ general:
 
     Details on this year’s delicious traders will be announced soon but rest assured, there’ll be something to suit every possible palette!
 
-    Refill Not Landfill
+    **Refill Not Landfill**
 
     We are proud to be using a reusable cup scheme across our bars - a £1 deposit will get you a ‘green’ cup that you can replace for a clean cup and then get your £1 back at the end of the night when you return the cup.
 - title: Festival Timings
@@ -56,13 +56,17 @@ general:
     If you would like purchase 20 tickets or more please get in touch and we’ll help you with the necessary arrangements. We can offer you and your guests a dedicated seating area within the festival site as well as in the Big Top plus pre-ordered food and drinks from our bars and food vendors.
     Please contact [info@greenwichcomedyfestival.co.uk](mailto:info@greenwichcomedyfestival.co.uk) with GROUP BOOKING in the subject line and we’ll be in touch soon.
 - title: Accessibility
-  text: |
+  text: |-
     The festival site and Big Top venue are accessible and our access tickets are sold with a free essential companion ticket through our online ticketing partner SEE Tickets. 
     If you have any questions relating to your booking or special requirements please contact [info@greenwichcomedyfestival.co.uk](mailto:info@greenwichcomedyfestival.co.uk) with ACCESS in the subject line and we’ll be in touch soon. If you prefer to call please contact SEE Tickets on the numbers below and they will liaise with us on your behalf.
     While the festival is in full swing our Front of House team will be on hand to assist you in anyway they can.
     There is blue badge parking available at the National Maritime Museum’s car park, accessed via Park Row.
+
+    SEE Customer Services can be reached on 0871 220 0260 (open 24/7, calls cost 13p per minute plus network charges)
 - title: Work With Us
   text: |-
+    **Bar Crew**
+
     We’re looking for friendly, confident and hard working people to come and work on our bars during the festival. Previous bar experience is essential and you must be over 18. You’ll be part of the team and enjoy all the perks that go with that. In return you’ll be punctual, reliable and ready to hop to action at any given moment.
 
     This is a paid role. You’ll be expected to work at least four shifts during the festival with full availability from 12th to 16th September regarded very highly.
