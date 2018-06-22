@@ -42,7 +42,14 @@ general:
 
     We are proud to be using a reusable cup scheme across our bars - a £1 deposit will get you a ‘green’ cup that you can replace for a clean cup and then get your £1 back at the end of the night when you return the cup.
 - title: Festival Timings
-  text: ''
+  text: |-
+    Weds 12 September: 6pm - 10.30pm  \
+    Thurs 13 September: 6pm - 10.30pm\
+    Fri 14 September: 6pm - 10.30pm\
+    Sat 15 September: 1pm - 11pm\
+    Sun 16 September: 12:30pm - 10.30pm\
+      \
+    Please check your tickets for your show start times, the multi-bill shows last approximately 2.5 hours with intervals.
 - title: The Big Top Venue
   text: The Big Top is a fully seated venue. There are two types of tickets; Front
     Stalls and Rear Stalls. The Front Stalls are allocated and positioned closest
