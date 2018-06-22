@@ -33,17 +33,22 @@ carousel:
   subheader: Comedy’s Holy Grail. Go See — Sunday Times
   is-sold-out: 
   line-up: Saturday Mid
+- name: Nina Conti
+  image: "/uploads/nina-conti.jpg"
+  subheader: You will see nothing like it onstage — Evening Standard
+  is-sold-out: 
+  line-up: Saturday Mid
 featured:
 - name: Aisling Bea
   image: "/uploads/aisling-bea.jpg"
   subheader: 
   is-sold-out: 
   line-up: Friday
-- name: Nina Conti
-  image: "/uploads/nina-conti.jpg"
+- name: Shappi Khorsandi
+  image: "/uploads/shappi-khorsandi.jpg"
   subheader: 
   is-sold-out: false
-  line-up: Saturday Mid
+  line-up: Saturday Early
 - name: Nish Kumar
   image: "/uploads/nish-kumar.jpg"
   subheader: 
