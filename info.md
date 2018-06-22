@@ -4,7 +4,7 @@ position: 5
 general:
 - title: FAQ’s
   text: |-
-    * Do I need to print my tickets?
+    * **Do I need to print my tickets?**
       Everybody needs a printed ticket to gain entry to the festival. If you don't have a printer, don't worry, our on-site Box Office can print your tickets for you - head straight there when you arrive.
 
     * I haven't received an email with my tickets on them, what should I do?
