@@ -3,20 +3,40 @@ title: Info
 position: 5
 general:
 - title: FAQ’s
-  text: |-
-    You must have a valid ticket to gain entry to the festival site. Tickets can be purchased online in advance or at the on site Box Office on the evening of the show, subject to availability.
-
-    Please respect our traders and do not try and bring food or drink into the festival.
-
-    All our bars operate the Challenge 25 scheme. If you’re lucky enough to look under 25, please bring ID!
-
-    We accept card and cash payments at the Box Office and across our bars, most of our food vendors will also accept card payments as well as cash.
-
-    Latecomers will not be admitted into the Big Top until the first interval so please arrive in plenty of time.
-
-    Please do not try and bring any animals into the festival, only guide dogs are permitted.
-
-    The festival has an age limit of 16+ with under 18’s accompanied by an adult. We apologise to all you younger comedy fans out there!
+  text: "* Do I need to print my tickets?\nEverybody needs a printed ticket to gain
+    entry to the festival. If you don't have a printer, don't worry, our on-site Box
+    Office can print your tickets for you - head straight there when you arrive. \n\n*
+    I haven't received an email with my tickets on them, what should I do?\nFirst,
+    check your spam! If you have no luck there contact your ticket provider directly
+    (SEE Tickets are our primary provider). Have ready all of your booking information
+    and they will be able to send you through your tickets. \nhttps://www.seetickets.com/CustomerService\n\n*
+    Is there an age limit?\nYes. The festival has an age limit of 16+, anyone aged
+    16-17 needs to be accompanied by an adult. You may be refused entry if our staff
+    think you are under 16, so please bring ID if you're concerned. We do not offer
+    refunds to ticket-holders who are denied entry. Apologies to all you younger comedy
+    fans out there!\n\n* You're sold out! Where can I apply for returns?\nCheck our
+    facebook page. Anyone who can't make it to a gig may try to pass on their tickets
+    via our facebook page. Do not buy tickets from external sources as they may not
+    be accepted on the door. \n\n* I need to organise the babysitter - what exact
+    time is my favourite comedian performing?\nWe do not give out specific timings
+    of comedians. Your tickets however will provide information on the festival open
+    and show start times and we estimate that our multi-bill shows last approximately
+    2.5 hours.\n\n* Can I bring my dog / cat / parrot?\nUnfortunately not. Assistance
+    animals are welcome, but please contact info@greenwichcomedyfestival.co.uk ahead
+    of your show to organise. \n\n* I have booked for more than one show in one day
+    - how do I guarantee entry to the venue without having to re-enter?\nPlease alert
+    a member of staff when you arrive if you are seeing more than one show in a day,
+    and they can check your tickets and give you the correct credentials so you don't
+    have to leave and re-enter the festival again. You will still need to vacate the
+    venue itself between shows though. \n\n* I’m running late, is this a problem?\nLatecomers
+    will be admitted to the Big Top after the next interval - so please try and arrive
+    in plenty of time to catch all the glorious comedy!\n\n* Can I bring a picnic?
+    Afraid not. We ask that you respect our traders and do not try and bring food
+    or drink into the festival, if you do you will be asked to leave it outside. But
+    worry not, we’ve lined up an array of bars and delicious street-food eateries
+    to satisfy all possible palettes.\n\n* Cash or card? We accept card and cash payments
+    at the Box Office and across our bars, most of our food vendors will also accept
+    card payments as well, of course, as cash!"
 - title: Food and Drink
   text: |-
     Arrive early to get into the comedy spirit at our bars and scrumptious street-food stalls.
