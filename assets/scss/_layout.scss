@@ -29,6 +29,10 @@ svg {
   outline: 0;
 }
 
+strong, b {
+font-weight: normal;
+font-family: $primary-font-family;
+}
 
 .accordion {
   margin-bottom: 0;
