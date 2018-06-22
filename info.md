@@ -7,31 +7,31 @@ general:
     * **Do I need to print my tickets?**
       Everybody needs a printed ticket to gain entry to the festival. If you don't have a printer, don't worry, our on-site Box Office can print your tickets for you - head straight there when you arrive.
 
-    * I haven't received an email with my tickets on them, what should I do?
+    * **I haven't received an email with my tickets on them, what should I do?**
       First, check your spam! If you have no luck there contact your ticket provider [directly](https://www.seetickets.com/CustomerService) (SEE Tickets are our primary provider). Have ready all of your booking information and they will be able to send you through your tickets.
 
 
-    * Is there an age limit?
+    * **Is there an age limit?**
       Yes. The festival has an age limit of 16\+, anyone aged 16-17 needs to be accompanied by an adult. You may be refused entry if our staff think you are under 16, so please bring ID if you're concerned. We do not offer refunds to ticket-holders who are denied entry. Apologies to all you younger comedy fans out there!
 
-    * You're sold out! Where can I apply for returns?
+    * **You're sold out! Where can I apply for returns?**
       Check our facebook [page](https://www.facebook.com/greenwichcomedyfestival). Anyone who can't make it to a gig may try to pass on their tickets via our facebook page. Do not buy tickets from external sources as they may not be accepted on the door.
 
-    * I need to organise the babysitter - what exact time is my favourite comedian performing?
+    * **I need to organise the babysitter - what exact time is my favourite comedian performing?**
       We do not give out specific timings of comedians. Your tickets however will provide information on the festival open and show start times and we estimate that our multi-bill shows last approximately 2.5 hours.
 
-    * Can I bring my dog / cat / parrot?
+    * **Can I bring my dog / cat / parrot?**
       Unfortunately not. Assistance animals are welcome, but please contact [info@greenwichcomedyfestival.co.uk](mailto:info@greenwichcomedyfestival.co.uk) ahead of your show to organise.
 
-    * I have booked for more than one show in one day - how do I guarantee entry to the venue without having to re-enter?
+    * **I have booked for more than one show in one day - how do I guarantee entry to the venue without having to re-enter?**
       Please alert a member of staff when you arrive if you are seeing more than one show in a day, and they can check your tickets and give you the correct credentials so you don't have to leave and re-enter the festival again. You will still need to vacate the venue itself between shows though.
 
-    * I’m running late, is this a problem?
+    * **I’m running late, is this a problem?**
       Latecomers will be admitted to the Big Top after the next interval - so please try and arrive in plenty of time to catch all the glorious comedy!
 
-    * Can I bring a picnic? Afraid not. We ask that you respect our traders and do not try and bring food or drink into the festival, if you do you will be asked to leave it outside. But worry not, we’ve lined up an array of bars and delicious street-food eateries to satisfy all possible palettes.
+    * **Can I bring a picnic?** Afraid not. We ask that you respect our traders and do not try and bring food or drink into the festival, if you do you will be asked to leave it outside. But worry not, we’ve lined up an array of bars and delicious street-food eateries to satisfy all possible palettes.
 
-    * Cash or card? We accept card and cash payments at the Box Office and across our bars, most of our food vendors will also accept card payments as well, of course, as cash!
+    * **Cash or card?** We accept card and cash payments at the Box Office and across our bars, most of our food vendors will also accept card payments as well, of course, as cash!
 - title: Food and Drink
   text: |-
     Arrive early to get into the comedy spirit at our bars and scrumptious street-food stalls.
