@@ -43,12 +43,12 @@ general:
     We are proud to be using a reusable cup scheme across our bars - a £1 deposit will get you a ‘green’ cup that you can replace for a clean cup and then get your £1 back at the end of the night when you return the cup.
 - title: Festival Timings
   text: |-
-    Weds 12 September: 6pm - 10.30pm  \
-    Thurs 13 September: 6pm - 10.30pm\
-    Fri 14 September: 6pm - 10.30pm\
-    Sat 15 September: 1pm - 11pm\
-    Sun 16 September: 12:30pm - 10.30pm\
-      \
+    Weds 12 September: 6pm - 10.30pm   
+    Thurs 13 September: 6pm - 10.30pm  
+    Fri 14 September: 6pm - 10.30pm  
+    Sat 15 September: 1pm - 11pm  
+    Sun 16 September: 12:30pm - 10.30pm  
+
     Please check your tickets for your show start times, the multi-bill shows last approximately 2.5 hours with intervals.
 - title: The Big Top Venue
   text: The Big Top is a fully seated venue. There are two types of tickets; Front
@@ -58,11 +58,11 @@ general:
 - title: Group Bookings
   text: |
     If you would like purchase 20 tickets or more please get in touch and we’ll help you with the necessary arrangements. We can offer you and your guests a dedicated seating area within the festival site as well as in the Big Top plus pre-ordered food and drinks from our bars and food vendors.
-    Please contact info@greenwichcomedyfestival.co.uk with GROUP BOOKING in the subject line and we’ll be in touch soon.
+    Please contact [info@greenwichcomedyfestival.co.uk](mailto:info@greenwichcomedyfestival.co.uk) with GROUP BOOKING in the subject line and we’ll be in touch soon.
 - title: Accessibility
   text: |
     The festival site and Big Top venue are accessible and our access tickets are sold with a free essential companion ticket through our online ticketing partner SEE Tickets. 
-    If you have any questions relating to your booking or special requirements please contact info@greenwichcomedyfestival.co.uk with ACCESS in the subject line and we’ll be in touch soon. If you prefer to call please contact SEE Tickets on the numbers below and they will liaise with us on your behalf.
+    If you have any questions relating to your booking or special requirements please contact [info@greenwichcomedyfestival.co.uk](mailto:info@greenwichcomedyfestival.co.uk) with ACCESS in the subject line and we’ll be in touch soon. If you prefer to call please contact SEE Tickets on the numbers below and they will liaise with us on your behalf.
     While the festival is in full swing our Front of House team will be on hand to assist you in anyway they can.
     There is blue badge parking available at the National Maritime Museum’s car park, accessed via Park Row.
 - title: Work With Us
@@ -71,7 +71,7 @@ general:
 
     This is a paid role. You’ll be expected to work at least four shifts during the festival with full availability from 12th to 16th September regarded very highly.
 
-    If you’re interested please send your name, contact details and CV to sparkleandspirit@outlook.com with GCF BAR CREW in the subject line.
+    If you’re interested please send your name, contact details and CV to [sparkleandspirit@outlook.com](mailto:sparkleandspirit@outlook.com) with GCF BAR CREW in the subject line.
 layout: info
 ---
 
