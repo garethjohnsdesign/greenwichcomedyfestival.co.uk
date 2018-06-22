@@ -17,7 +17,7 @@ carousel:
   image: "/uploads/adam-buxton-two.jpg"
   subheader: 
   is-sold-out: 
-  line-up: Saturday Early
+  line-up: Sunday Early
 - name: James Acaster
   image: "/uploads/james-acaster.jpg"
   subheader: One of comedy’s most original voices - Evening Standard
