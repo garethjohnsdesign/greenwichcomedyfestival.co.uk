@@ -42,12 +42,12 @@ general:
 
     We are proud to be using a reusable cup scheme across our bars - a £1 deposit will get you a ‘green’ cup that you can replace for a clean cup and then get your £1 back at the end of the night when you return the cup.
 - title: Festival Timings
-  text: ""
+  text: ''
 - title: The Big Top Venue
-  text: 'The Big Top is a fully seated venue. There are two types of tickets; Front
+  text: The Big Top is a fully seated venue. There are two types of tickets; Front
     Stalls and Rear Stalls. The Front Stalls are allocated and positioned closest
     to the stage and therefore the action. All Rear Stall tickets are sold as unreserved
-    which means you can choose where you sit when you arrive.'
+    which means you can choose where you sit when you arrive.
 - title: Group Bookings
   text: |
     If you would like purchase 20 tickets or more please get in touch and we’ll help you with the necessary arrangements. We can offer you and your guests a dedicated seating area within the festival site as well as in the Big Top plus pre-ordered food and drinks from our bars and food vendors.
