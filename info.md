@@ -64,7 +64,7 @@ general:
 
     SEE Customer Services can be reached on 0871 220 0260 (open 24/7, calls cost 13p per minute plus network charges)
 - title: Work With Us
-  text: |-
+  text: |+
     Join our Front of House Team and get in on all the hilarious action. You’ll be the first point of contact with our lovely audiences so good communication skills and a friendly attitude are a must. Working with the Front of House Manager you’ll be responsible for getting our audiences to the right place at the right time, making sure the shows run on time and keeping the venue running smoothly. You should be confident, good with people, alert and interested in the programme and event you’re representing. This role is very active and a lot of fun, you should enjoy dealing with lots of people and manage all this with a level head.
 
     You will be expected to work all of the shifts throughout the Comedy Festival; you must be over 16 to apply.
@@ -73,7 +73,8 @@ general:
 
     Deadline 13th July, interviews via Skype 20th-22nd July.
 
-    Greenwich Comedy Festival - Front of House Assistant
+    [GCF18-FoH-Job-Application.pdf](/uploads/GCF18-FoH-Job-Application.pdf)
+
 layout: info
 ---
 
