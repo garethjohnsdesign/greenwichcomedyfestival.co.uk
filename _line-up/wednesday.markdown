@@ -10,7 +10,7 @@ acts:
 - name: Fin Taylor
   image: "/uploads/fin-taylor.jpg"
 - name: Joe Wilkinson
-  image: "/uploads/joe-wilkinson-chapel2.jpg"
+  image: "/uploads/joe-wilkinson.jpg"
 quote: Sharp and bitingly funny
 quote-cite: Time Out
 secondary-text: Joining Rob is a unmissable supporting line-up with 8 Out Of 10 Cats
