@@ -5,12 +5,12 @@ position: 1
 acts:
 - name: Rob Delaney
   image: "/uploads/rob-delaney.jpg"
+- name: Joe Wilkinson
+  image: "/uploads/joe-wilkinson2.jpg"
 - name: Zoe Lyons
   image: "/uploads/zoe-lyons.jpg"
 - name: Fin Taylor
   image: "/uploads/fin-taylor.jpg"
-- name: Joe Wilkinson
-  image: "/uploads/joe-wilkinson2.jpg"
 quote: Sharp and bitingly funny
 quote-cite: Time Out
 secondary-text: Joining Rob is a unmissable supporting line-up with 8 Out Of 10 Cats
