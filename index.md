@@ -59,11 +59,11 @@ featured:
   subheader: 
   is-sold-out: 
   line-up: Friday
-- name: Lolly Adefope
-  image: "/uploads/lolly-adefope.jpg"
+- name: Joe Wilkinson
+  image: "/uploads/joe-wilkinson2.jpg"
   subheader: 
   is-sold-out: 
-  line-up: Thursday
+  line-up: Wednesday
 - name: Tim Key
   image: "/uploads/tim-key.jpg"
   subheader: 
