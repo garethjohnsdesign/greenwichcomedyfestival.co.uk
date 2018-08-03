@@ -20,7 +20,7 @@ festival-starts-at: 2018-09-13 18:00:00 Z
 show-starts-at: 2018-09-13 19:30:00 Z
 ticket-price: "£20 - £25"
 ticket-link: https://www.seetickets.com/event/james-acaster/national-maritime-museum/1241716
-is-sold-out: false
+is-sold-out: true
 layout: event
 ---
 
