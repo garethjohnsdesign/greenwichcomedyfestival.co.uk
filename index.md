@@ -21,7 +21,7 @@ carousel:
 - name: James Acaster
   image: "/uploads/james-acaster.jpg"
   subheader: One of comedy’s most original voices - Evening Standard
-  is-sold-out: 
+  is-sold-out: true
   line-up: Thursday
 - name: Milton Jones
   image: "/uploads/milton-jones.jpg"
@@ -52,7 +52,7 @@ featured:
 - name: Nish Kumar
   image: "/uploads/nish-kumar.jpg"
   subheader: 
-  is-sold-out: false
+  is-sold-out: true
   line-up: Thursday
 - name: David O'Doherty
   image: "/uploads/david-o-doherty.jpg"
