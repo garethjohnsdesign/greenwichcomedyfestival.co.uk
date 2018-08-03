@@ -7,8 +7,6 @@ acts:
   image: "/uploads/james-acaster.jpg"
 - name: Nish Kumar
   image: "/uploads/nish-kumar.jpg"
-- name: Lolly Adefope
-  image: "/uploads/lolly-adefope.jpg"
 - name: Suzi Ruffell
   image: "/uploads/suzi-ruffell.jpg"
 - name: John Robins
