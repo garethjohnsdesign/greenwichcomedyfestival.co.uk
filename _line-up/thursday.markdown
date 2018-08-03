@@ -16,9 +16,8 @@ acts:
 quote: He really is rewriting the comedy rulebook
 quote-cite: Time Out
 secondary-text: Joining James is an astounding supporting line-up with The Mash Report
-  star Nish Kumar, Taskmaster’s Lolly Adefope, flawless stand-up machine Suzi Ruffell
-  and 2017 Edinburgh Comedy Award winner, podcast hero and all-round vibe magnet John
-  Robins as host.
+  star Nish Kumar, flawless stand-up machine Suzi Ruffell and 2017 Edinburgh Comedy
+  Award winner, podcast hero and all-round vibe magnet John Robins as host.
 festival-starts-at: 2018-09-13 18:00:00 Z
 show-starts-at: 2018-09-13 19:30:00 Z
 ticket-price: "£20 - £25"
