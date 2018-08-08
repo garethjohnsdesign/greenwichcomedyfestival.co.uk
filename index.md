@@ -11,7 +11,7 @@ carousel:
 - name: Russell Howard
   image: "/uploads/russell-howard.jpg"
   subheader: Energetic, uncynical and, most importantly, very funny - The Times
-  is-sold-out: 
+  is-sold-out: true
   line-up: Sunday Late
 - name: Adam Buxton's Bug X
   image: "/uploads/adam-buxton-two.jpg"
