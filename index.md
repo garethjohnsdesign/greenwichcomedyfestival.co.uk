@@ -42,7 +42,7 @@ featured:
 - name: Aisling Bea
   image: "/uploads/aisling-bea.jpg"
   subheader: 
-  is-sold-out: 
+  is-sold-out: true
   line-up: Friday
 - name: Shappi Khorsandi
   image: "/uploads/shappi-khorsandi.jpg"
@@ -57,7 +57,7 @@ featured:
 - name: David O'Doherty
   image: "/uploads/david-o-doherty.jpg"
   subheader: 
-  is-sold-out: 
+  is-sold-out: true
   line-up: Friday
 - name: Joe Wilkinson
   image: "/uploads/joe-wilkinson2.jpg"
@@ -67,7 +67,7 @@ featured:
 - name: Tim Key
   image: "/uploads/tim-key.jpg"
   subheader: 
-  is-sold-out: 
+  is-sold-out: true
   line-up: Friday
 - name: Reginald D Hunter
   image: "/uploads/reginald-d-hunter.jpg"
