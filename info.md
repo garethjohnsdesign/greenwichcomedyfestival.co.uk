@@ -63,7 +63,7 @@ general:
     There is blue badge parking available at the National Maritime Museum’s car park, accessed via Park Row.
 
     SEE Customer Services can be reached on 0871 220 0260 (open 24/7, calls cost 13p per minute plus network charges)
-- title: Work With Us
+- title: Work With Us - Front Of House
   text: |
     Join our Front of House Team and get in on all the hilarious action. You’ll be the first point of contact with our lovely audiences so good communication skills and a friendly attitude are a must. Working with the Front of House Manager you’ll be responsible for getting our audiences to the right place at the right time, making sure the shows run on time and keeping the venue running smoothly. You should be confident, good with people, alert and interested in the programme and event you’re representing. This role is very active and a lot of fun, you should enjoy dealing with lots of people and manage all this with a level head.
 
@@ -76,6 +76,13 @@ general:
     [GCF18-FoH-Job-Application.pdf](/uploads/GCF18-FoH-Job-Application.pdf)
 
     [Equality and Diverstiy Monitoring Form.docx](/uploads/Equality%20and%20Diverstiy%20Monitoring%20Form.docx)
+- title: Work  With Us - Bar Staff
+  text: |-
+    We’re looking for friendly, confident and hard working people to come and work on our bars during Greenwich Comedy Festival. Previous bar experience is essential and you must be over 18. You’ll be part of the team and enjoy all the perks that go with that. In return you’ll be punctual, reliable and ready to hop to action at any given moment.
+
+    This is a paid role. You’ll be expected to work at least four shifts during the Comedy Garden with full availability from 6th June to 10th June regarded very highly.
+
+    If you’re interested please send your name, contact details and CV to sparkleandspirit@outlook.com with GCF BAR CREW in the subject line.
 layout: info
 ---
 
