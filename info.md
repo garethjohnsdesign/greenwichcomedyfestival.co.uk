@@ -80,7 +80,7 @@ general:
   text: |-
     We’re looking for friendly, confident and hard working people to come and work on our bars during Greenwich Comedy Festival. Previous bar experience is essential and you must be over 18. You’ll be part of the team and enjoy all the perks that go with that. In return you’ll be punctual, reliable and ready to hop to action at any given moment.
 
-    This is a paid role. You’ll be expected to work at least four shifts during the Comedy Garden with full availability from 12th Sept to 16th September  regarded very highly.
+    This is a paid role. You’ll be expected to work at least four shifts during the festival  with full availability from 12th Sept to 16th September  regarded very highly.
 
     If you’re interested please send your name, contact details and CV to [sparkleandspirit@outlook.com](mailto:sparkleandspirit@outlook.com) with GCF BAR CREW in the subject line.
 layout: info
