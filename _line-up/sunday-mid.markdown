@@ -6,6 +6,8 @@ day: Sunday
 acts:
 - name: Henning Wehn
   image: "/uploads/henning-wehn.jpg"
+- name: Sean Lock
+  image: "/uploads/sean-lock.jpg"
 - name: Rosie Jones
   image: "/uploads/rosie-jones.jpg"
 - name: Tom Lucy
@@ -14,9 +16,9 @@ acts:
   image: "/uploads/kiri-pritchard-mclean.jpg"
 quote: Wehn wraps his vowels around the issues of immigration and identity
 quote-cite: The Times
-secondary-text: 'Joining Henning is a superb lineup including a special guest to be
-  announced,  mischievous 8 Out Of 10 Cats star Rosie Jones, fast-rising Stand Up
-  Central star Tom Lucy and the magnificently funny Kiri Pritchard-Mclean as host. '
+secondary-text: 'Joining Henning is an astounding line-up with 8 Out Of 10 Cats does
+  countdown team captain Sean Lock, the   mischievous Rosie Jones, fast-rising Stand
+  Up Central star Tom Lucy and the magnificently funny Kiri Pritchard-Mclean as host. '
 festival-starts-at: 2018-09-16 15:15:00 Z
 show-starts-at: 2018-09-16 16:15:00 Z
 ticket-price: "£20 - £25"
