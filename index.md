@@ -42,7 +42,7 @@ carousel:
   image: "/uploads/sean-lock-banner.jpg"
   subheader: One of the finest and most original comedians around — The Independent
   is-sold-out: 
-  line-up: 
+  line-up: Sunday Mid
 featured:
 - name: Aisling Bea
   image: "/uploads/aisling-bea.jpg"
