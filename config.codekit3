@@ -279,6 +279,12 @@
 		"oAP": "\/_line-up\/wednesday.markdown",
 		"oF": 0
 		},
+	"\/_site": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/_site",
+		"oF": 0
+		},
 	"\/_uploads\/adam-buxton-two.jpg": {
 		"ft": 16384,
 		"iS": 755589,
@@ -535,6 +541,39 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/_uploads\/joe-wilkinson-chapel2.jpg": {
+		"ft": 16384,
+		"iS": 232030,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/joe-wilkinson-chapel2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/joe-wilkinson.jpg": {
+		"ft": 16384,
+		"iS": 230354,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/joe-wilkinson.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/joe-wilkinson2.jpg": {
+		"ft": 16384,
+		"iS": 136091,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/joe-wilkinson2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/_uploads\/john-robins.jpg": {
 		"ft": 16384,
 		"iS": 404147,
@@ -665,6 +704,28 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"\/_uploads\/sean-lock-banner.jpg": {
+		"ft": 16384,
+		"iS": 669664,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/sean-lock-banner.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/sean-lock.jpg": {
+		"ft": 16384,
+		"iS": 669664,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/sean-lock.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/_uploads\/shappi-khorsandi.jpg": {
@@ -960,16 +1021,6 @@
 		"oA": 0,
 		"oAP": "\/assets\/fonts\/raisonne-demibold.woff2",
 		"oF": 0
-		},
-	"\/assets\/icons\/symbol-defs.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/assets\/icons\/symbol-defs.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
 		},
 	"\/assets\/img\/horse.png": {
 		"ft": 32768,
