@@ -38,6 +38,11 @@ carousel:
   subheader: You will see nothing like it onstage — Evening Standard
   is-sold-out: 
   line-up: Saturday Mid
+- name: Sean Lock
+  image: "/uploads/sean-lock-banner.jpg"
+  subheader: One of the finest and most original comedians around — The Independent
+  is-sold-out: 
+  line-up: 
 featured:
 - name: Aisling Bea
   image: "/uploads/aisling-bea.jpg"
