@@ -5,12 +5,12 @@ position: 3
 acts:
 - name: Milton Jones
   image: "/uploads/milton-jones.jpg"
+- name: Sara Pascoe
+  image: "/uploads/Sara%20Pascoe%203.jpg"
 - name: Shappi Khorsandi
   image: "/uploads/shappi-khorsandi.jpg"
 - name: Stephen K Amos
   image: "/uploads/stephen-k-amos.jpg"
-- name: Sara Pascoe
-  image: "/uploads/Sara%20Pascoe%203.jpg"
 quote: Pun-derful Jones leaves the audience gagging for more
 quote-cite: Metro
 secondary-text: Joining Milton is a dazzling supporting cast with very special guest
