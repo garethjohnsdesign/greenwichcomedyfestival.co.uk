@@ -6,7 +6,7 @@ acts:
 - name: Milton Jones
   image: "/uploads/milton-jones.jpg"
 - name: Sara Pascoe
-  image: "/uploads/Sara%20Pascoe%203.jpg"
+  image: "/uploads/sarapascoe4.jpg"
 - name: Shappi Khorsandi
   image: "/uploads/shappi-khorsandi.jpg"
 - name: Stephen K Amos
