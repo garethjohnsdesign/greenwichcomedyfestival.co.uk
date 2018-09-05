@@ -44,11 +44,11 @@ carousel:
   is-sold-out: 
   line-up: Sunday Mid
 featured:
-- name: Aisling Bea
-  image: "/uploads/aisling-bea.jpg"
+- name: Sara Pascoe
+  image: "/uploads/sarapascoe5.jpg"
   subheader: 
-  is-sold-out: true
-  line-up: Friday
+  is-sold-out: false
+  line-up: Saturday Early
 - name: Shappi Khorsandi
   image: "/uploads/shappi-khorsandi.jpg"
   subheader: 
