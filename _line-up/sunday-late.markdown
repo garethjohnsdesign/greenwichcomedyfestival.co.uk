@@ -21,7 +21,7 @@ festival-starts-at: 2018-09-16 18:30:00 Z
 show-starts-at: 2018-09-16 19:45:00 Z
 ticket-price: "£20 - £25"
 ticket-link: https://www.seetickets.com/event/russell-howard/national-maritime-museum/1241779
-is-sold-out: true
+is-sold-out: false
 layout: event
 ---
 
