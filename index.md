@@ -11,17 +11,17 @@ carousel:
 - name: Russell Howard
   image: "/uploads/russell-howard.jpg"
   subheader: Energetic, uncynical and, most importantly, very funny - The Times
-  is-sold-out: true
+  is-sold-out: false
   line-up: Sunday Late
 - name: Adam Buxton's Bug X
   image: "/uploads/adam-buxton-two.jpg"
   subheader: 
-  is-sold-out: true
+  is-sold-out: false
   line-up: Sunday Early
 - name: James Acaster
   image: "/uploads/james-acaster.jpg"
   subheader: One of comedy’s most original voices - Evening Standard
-  is-sold-out: true
+  is-sold-out: false
   line-up: Thursday
 - name: Milton Jones
   image: "/uploads/milton-jones.jpg"
@@ -57,12 +57,12 @@ featured:
 - name: Nish Kumar
   image: "/uploads/nish-kumar.jpg"
   subheader: 
-  is-sold-out: true
+  is-sold-out: false
   line-up: Thursday
 - name: David O'Doherty
   image: "/uploads/david-o-doherty.jpg"
   subheader: 
-  is-sold-out: true
+  is-sold-out: false
   line-up: Friday
 - name: Joe Wilkinson
   image: "/uploads/joe-wilkinson2.jpg"
@@ -72,7 +72,7 @@ featured:
 - name: Tim Key
   image: "/uploads/tim-key.jpg"
   subheader: 
-  is-sold-out: true
+  is-sold-out: false
   line-up: Friday
 - name: Reginald D Hunter
   image: "/uploads/reginald-d-hunter.jpg"
