@@ -16,7 +16,7 @@ carousel:
 - name: Adam Buxton's Bug X
   image: "/uploads/adam-buxton-two.jpg"
   subheader: 
-  is-sold-out: false
+  is-sold-out: true
   line-up: Sunday Early
 - name: James Acaster
   image: "/uploads/james-acaster.jpg"
