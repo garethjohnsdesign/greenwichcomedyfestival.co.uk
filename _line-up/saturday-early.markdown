@@ -9,13 +9,14 @@ acts:
   image: "/uploads/sarapascoe5.jpg"
 - name: Shappi Khorsandi
   image: "/uploads/shappi-khorsandi.jpg"
-- name: Stephen K Amos
-  image: "/uploads/stephen-k-amos.jpg"
+- name: 'Carl Donnelly '
+  image: "/uploads/Carl%20Donnelly.jpg"
 quote: Pun-derful Jones leaves the audience gagging for more
 quote-cite: Metro
-secondary-text: Joining Milton is a dazzling supporting cast with very special guest
-  - the multi-award-winning Sara Pascoe, acclaimed Radio 4 favourite Shappi Khorsandi
-  and globe-trotting laughter-master Stephen K Amos as host.
+secondary-text: |-
+  Joining Milton is a dazzling supporting cast with very special guest - the multi-award-winning Sara Pascoe, acclaimed Radio 4 favourite Shappi Khorsandi and the brilliant Carl Donnelly as host.
+
+  * Please note - Carl Donnelly replace Stephen K Amos on this show.
 festival-starts-at: 2018-09-15 13:00:00 Z
 show-starts-at: 2018-09-15 14:00:00 Z
 ticket-price: "£20 - £25"
