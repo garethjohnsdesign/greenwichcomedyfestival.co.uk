@@ -10,7 +10,7 @@ acts:
 - name: Shappi Khorsandi
   image: "/uploads/shappi-khorsandi.jpg"
 - name: 'Carl Donnelly '
-  image: "/uploads/Carl%20Donnelly.jpg"
+  image: "/uploads/carl-donnelly1.jpg"
 quote: Pun-derful Jones leaves the audience gagging for more
 quote-cite: Metro
 secondary-text: |-
