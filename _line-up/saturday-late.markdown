@@ -9,13 +9,15 @@ acts:
   image: "/uploads/jayde-adams.jpg"
 - name: Gary Delaney
   image: "/uploads/gary-delaney.jpg"
+- name: Rhys James
+  image: "/uploads/rhys-james.jpg"
 - name: Andrew Maxwell
   image: "/uploads/andrew-maxwell.jpg"
 quote: Simply exhilarating…This is comedy of a rare scope
 quote-cite: The Times
-secondary-text: Joining Reginald is a special guest to be announced plus Edinburgh
-  Comedy Award nominee Jayde Adams, Mock The Week’s one-liner slinger Gary Delaney
-  and the unmissable Live At The Apollo star Andrew Maxwell as host.
+secondary-text: Joining Reginald is Edinburgh Comedy Award nominee Jayde Adams, Mock
+  The Week’s one-liner slinger Gary Delaney, whip-smart Rhys James and the unmissable
+  Live At The Apollo star Andrew Maxwell as host.
 festival-starts-at: 2018-09-15 19:00:00 Z
 show-starts-at: 2018-09-15 20:15:00 Z
 ticket-price: "£20 - £25"
