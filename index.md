@@ -41,7 +41,7 @@ carousel:
 - name: Sean Lock
   image: "/uploads/sean-lock-banner.jpg"
   subheader: One of the finest and most original comedians around — The Independent
-  is-sold-out: 
+  is-sold-out: true
   line-up: Sunday Mid
 featured:
 - name: Sara Pascoe
@@ -82,7 +82,7 @@ featured:
 - name: Henning Wehn
   image: "/uploads/henning-wehn.jpg"
   subheader: 
-  is-sold-out: 
+  is-sold-out: true
   line-up: Sunday Mid
 layout: home
 ---
