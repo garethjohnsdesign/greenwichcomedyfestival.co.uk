@@ -23,7 +23,7 @@ festival-starts-at: 2018-09-16 15:15:00 Z
 show-starts-at: 2018-09-16 16:15:00 Z
 ticket-price: "£20 - £25"
 ticket-link: https://www.seetickets.com/event/henning-wehn/national-maritime-museum/1241757
-is-sold-out: 
+is-sold-out: true
 layout: event
 ---
 
