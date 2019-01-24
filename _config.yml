@@ -60,4 +60,4 @@ pagination:
 autopages:
   enabled: false
 imgix:
-  source: https://greenwich-comedy-festival.imgix.net
+  source: greenwich-comedy-festival.imgix.net

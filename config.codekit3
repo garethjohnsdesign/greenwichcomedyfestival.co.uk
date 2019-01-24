@@ -7071,43 +7071,43 @@
 	"/assets/js/app.js": [
 		{
 			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/swup/dist/swup.js",
+			"linkedFileAbbreviatedPath": "/bower_components/jquery/dist/jquery.js",
 			"position": 0,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/swup/dist/plugins/swupGaPlugin.js",
+			"linkedFileAbbreviatedPath": "/bower_components/foundation-sites/dist/js/foundation.js",
 			"position": 1,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/jquery/dist/jquery.js",
+			"linkedFileAbbreviatedPath": "/bower_components/motion-ui/dist/motion-ui.js",
 			"position": 2,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/foundation-sites/dist/js/foundation.js",
+			"linkedFileAbbreviatedPath": "/bower_components/what-input/dist/what-input.js",
 			"position": 3,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/motion-ui/dist/motion-ui.js",
+			"linkedFileAbbreviatedPath": "/bower_components/aos/dist/aos.js",
 			"position": 4,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/what-input/dist/what-input.js",
+			"linkedFileAbbreviatedPath": "/bower_components/swup/dist/swup.js",
 			"position": 5,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/aos/dist/aos.js",
+			"linkedFileAbbreviatedPath": "/bower_components/swup/dist/plugins/swupGaPlugin.js",
 			"position": 6,
 			"type": 0
 			}
