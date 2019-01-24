@@ -13,14 +13,11 @@ Content, design & development
 @garethjohnsabc
 
 
-SPECIAL THANKS
---------------
-
-Skylar Challand
-
-
 TECHNOLOGY
 ----------
+
+Codekit - File Processor
+codekitapp.com
 
 Siteleaf - Content management system
 siteleaf.com
@@ -58,7 +55,3 @@ adobe.com
 
 Slack - Emojis and GIFs
 slack.com
-
-
-FONTS
------

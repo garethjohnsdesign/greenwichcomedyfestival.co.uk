@@ -1,24 +1,26 @@
 @font-face {
-  font-family: 'Apercu';
+  font-family: 'Demibold';
   src: 
-  url('../fonts/apercu-regular.woff2') format('woff2'), 
-  url('../fonts/apercu-regular.woff') format('woff');
+  url('../fonts/demibold-pro.woff2') format('woff2'), 
+  url('../fonts/demibold-pro.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Raisonne';
+  font-family: 'Regular';
   src: 
-  url('../fonts/raisonne-demibold.woff2') format('woff2'), 
-  url('../fonts/raisonne-demibold.woff') format('woff');
+  url('../fonts/regular-pro.woff2') format('woff2'), 
+  url('../fonts/regular-pro.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Gallery';
-  src: url('../fonts/Gallery.eot?#iefix') format('embedded-opentype'), url('../fonts/Gallery.woff') format('woff'), url('../fonts/Gallery.ttf')  format('truetype'), url('../fonts/Gallery.svg#Gallery') format('svg');
+  font-family: 'Light';
+  src: 
+  url('../fonts/light-pro.woff2') format('woff2'), 
+  url('../fonts/light-pro.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }

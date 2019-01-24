@@ -1,45 +1,25 @@
-// Icons
-
 .icon {
-    display: inline-block;
-    width: 1em;
-    height: 1em;
-    stroke-width: 0;
-    stroke: currentColor;
-    fill: currentColor;
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
 }
 
-/* =======================================================================================
-Example showing how to change the color/size of the icons:
+/* ==========================================
+Single-colored icons can be modified like so:
 .icon-name {
-	font-size: 32px; // works because "width" & "height" were set using em units
-	color: red; // works for single-colored icons, because "fill" was set to "currentColor"
+  font-size: 32px;
+  color: red;
 }
-======================================================================================== */
+========================================== */
+
+.icon-logo {
+  width: 1.37890625em;
+  font-size: 8.5rem;
+}
 
 .icon-socials {
-  font-size: 1.25rem;
-}
-
-.icon-partners {
-  font-size: 3rem;
-}
-
-.icon-arrow {
-  font-size: 3rem;
-  vertical-align: middle;
-}
-
-.icon-widgets {
-  font-size: 3rem;
-}
-
-.icon-menu {
-  font-size: 2.5rem;
-  vertical-align: middle;
-  margin-left: 1rem;
-}
-
-.icon-info {
-  font-size: 2.5rem;
+  font-size: 1.5rem;
 }

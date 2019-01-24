@@ -1,38 +1,30 @@
 ---
-title: Greenwich Comedy Festival
+title: Greenwich Comedy Festival 2019
 timezone: UTC
 collections:
-  line-up:
-    title: Line-up
-    output: true
   posts:
     title: Posts
     output: true
   uploads:
     title: Uploads
     output: false
-defaults:
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: page
 url: https://www.greenwichcomedyfestival.co.uk
-description: Greenwich Comedy Festival returns this summer for another series of unmissable
-  shows!
+description: Greenwich Comedy Festival returns this summer for another series of unmissable shows!
 permalink: pretty
 exclude:
 - bower.json
+- Gemfile.lock
 - package.json
 - config.codekit3
 - README*
 - LICENSE*
 - CHANGELOG*
 - node_modules
-- bower_components
 - ".gitignore"
+- bower_components
 - assets/scss
 plugins:
+- jekyll-paginate-v2
 - jekyll-seo-tag
 - jekyll-sitemap
 - jekyll-feed
@@ -41,12 +33,13 @@ markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
-  auto_ids: false
 highlighter: rouge
 company: 57 Festivals Ltd
-address: National Maritime Museum, Greenwich
+event-span: "4 - 8 September 2019"
+event-address: National Maritime Museum, Greenwich
+company-registration: 06840256
+company-address: 237 Westcombe Hill, Blackheath, London, United Kingdom, SE3 7DW
 email: info@greenwichcomedyfestival.co.uk
-google_site_verification: pqGndzwmQkEKSTgKHo610nlM0DuQgngEzzJldUbq084
 analytics: UA-52649780-1
 logo: "/assets/img/logo.svg"
 per_page: 12
@@ -62,5 +55,9 @@ compress_html:
   - " -->"
   blanklines: true
   profile: false
+pagination:
+  enabled: false
+autopages:
+  enabled: false
 imgix:
   source: https://greenwich-comedy-festival.imgix.net
