@@ -2,8 +2,7 @@
 
   <div class="grid-x">
     <div class="small-12 medium-12 cell text-center">
-    {% assign image = page.poster-image %}
-    <img data-interchange="{% include images/interchange-img-small-12-medium-6-cell.html %}">
+      <img data-interchange="[{{page.poster-image}}, small], [{{page.poster-image}}, medium], [{{page.poster-image}}, large]">
     </div>
   </div>
 
