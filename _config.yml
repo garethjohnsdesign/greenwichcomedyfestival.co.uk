@@ -1,0 +1,64 @@
+---
+title: Greenwich Comedy Festival 2019
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: false
+url: https://www.greenwichcomedyfestival.co.uk
+description: Greenwich Comedy Festival returns this summer for another series of unmissable
+  shows!
+permalink: pretty
+exclude:
+- bower.json
+- Gemfile.lock
+- package.json
+- config.codekit3
+- README*
+- LICENSE*
+- CHANGELOG*
+- node_modules
+- ".gitignore"
+- bower_components
+- assets/scss
+plugins:
+- jekyll-paginate-v2
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-feed
+- jekyll/imgix
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+company: 57 Festivals Ltd
+event-span: 4 - 8 September 2019
+event-address: National Maritime Museum, Greenwich
+company-registration: '06840256'
+company-address: 237 Westcombe Hill, Blackheath, London, United Kingdom, SE3 7DW
+email: info@greenwichcomedyfestival.co.uk
+analytics: UA-52649780-1
+logo: "/assets/img/logo.svg"
+per_page: 12
+date_format: "%b %d, %Y"
+future: true
+social:
+  facebook: https://www.facebook.com/greenwichcomedyfestival
+  instagram: https://www.instagram.com/greenwichcomedyfestival
+  twitter: https://twitter.com/greenwichcomedy
+compress_html:
+  comments:
+  - "<!-- "
+  - " -->"
+  blanklines: true
+  profile: false
+pagination:
+  enabled: false
+autopages:
+  enabled: false
+imgix:
+  source: greenwich-comedy-festival.imgix.net
