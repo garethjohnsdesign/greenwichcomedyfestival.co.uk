@@ -1,15 +1,14 @@
 //  Table of Contents:
 //
-//   1. Global
-//   2. Typography
-//   3. Navigation
-//   4. Excerpt
-//   5. Index
-//   6. Location
-//   7. Event
-//   8. Footer
+//   1. Mixins
+//   2. Global
+//   3. Animations
+//   4. Color
+//   5. Typography
+//   6. Layout
 
-// 1. Global
+
+// 1. Mixins
 // ---------
 
 @mixin links ($link, $hover) {
@@ -21,223 +20,132 @@
   }
 }
 
+@mixin aspect-ratio($width, $height) {
+  position: relative;
+  &:before {
+    display: block;
+    content: "";
+    width: 100%;
+    padding-top: ($height / $width) * 100%;
+  }
+ .content {
+    transition: $primary-transition;
+    z-index: 1;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 100%;
+    width: 100%;
+  }
+}
+
+// 2. Global
+// ---------
+
+a {
+  transition: all .35s cubic-bezier(.39, .575, .565, 1);
+}
+
+a:focus {
+color: $white;
+}
+
+body {
+  cursor: default;
+  font-kerning: normal;
+  margin: 0
+}
+
 svg {
   max-width: 100%;
+}
+
+::selection {
+  background: $primary-color;
+  color: $black;
 }
 
 :focus {
   outline: 0;
 }
 
-strong, b {
-font-weight: normal;
-font-family: $primary-font-family;
-}
-
-.accordion {
-  margin-bottom: 0;
-}
-
-// 2. Typography
+// 3. Animations
 // -------------
+
+.swup-transition-fade-up {
+  transition: 0.5s;
+  opacity: 1;
+  transform: translateY(0);
+}
+
+html.is-animating .swup-transition-fade-up {
+  opacity: 0;
+  transform: translateY(-10px);
+}
+
+.swup-transition-fade {
+  transition: 0.5s;
+  opacity: 1;
+}
+
+html.is-animating .swup-transition-fade {
+  opacity: 0;
+}
+
+.swup-transition-color {
+  transition: 0.5s;
+  opacity: 1;
+}
+
+html.is-animating .swup-transition-color {
+  opacity: 0;
+}
+
+// 4. Color
+// --------
+
+.primary-color {
+  color: get-color(primary);
+}
+
+.secondary-color {
+  color: get-color(secondary);
+}
+
+// 5. Typography
+// -------------
+
+.underline {
+  border-bottom: 1px solid $white;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
 
 i, cite, em, var, address, dfn {
   font-style: normal;
 }
 
-// 3. Navigation
-// -------------
-
-.top-bar {
-  border-bottom: solid 2px get-color(tertiary-background);
+p a {
+  border-bottom: 1px solid $black;
 }
 
-.top-bar__logo h3 { 
-  letter-spacing: -1px;
-  margin-bottom: 0;
+.sans-light {
+  font-family: $sans-light;
 }
 
-.top-bar__date { 
-@include links($dark-gray, $black);
+.sans-bold {
+  font-family: $sans-bold;
 }
 
-.top-bar__socials {
-@include links($dark-gray, $black);
-}
-
-
-// 4. Excerpt
-// ----------
-
-.excerpt {
-  background-color: get-color(tertiary-background);
-  position:relative;
-    &:hover .excerpt__image img {
-    filter: grayscale(1) contrast(2.5);
-    opacity: 0.2;
-    } 
-}
-
-.excerpt__title {
-  position:absolute;
-  width: 100%;
-  height: 100%;
-  margin: 0rem;
-  color: $white;
-  z-index: 1;
-}
-
-// 5. Index
-// --------
-
-.index {
-  background: url(/assets/img/plants-01.png), url(/assets/img/octopus.png);
-  background-repeat:no-repeat;
-  background-position:left bottom, right bottom;
-  background-size: 50%, 40%;
-  @include breakpoint(small) {
-  padding-bottom: 20vh;
-  }
-  @include breakpoint(medium) {
-  padding-bottom: 60vh;
-  }
-}
-
-.index__gallery {
-  height: 80vh;
-}
-
-.index__gallery__image {
-  width: 100%;
-  height: 100%;
-  z-index: -100;
-  position: absolute;
-  top: 0;
-  left: 0;
-  img {
-  object-fit: cover;
-  width: 100%;
-  height: 100%;
-  }
-}
-
-.index__gallery-cell {
-  width: 100%;
-  height: 100%;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: top center;
-}
-  
-.index__gallery__text {
-	height: 100%;
-}
-
-.index__gallery__text__inner {
-  @include links($white, $primary-color);
-}
-
-.act-name {
-  text-stroke: red;
-}
-
-
-// 6. Location
-// ------------
-
-
-.location {
-  background: url(/assets/img/plants-01.png), url(/assets/img/horse.png);
-  background-repeat:no-repeat;
-  background-position:left bottom, right bottom;
-  background-size: 50%, 30%;
-  @include breakpoint(small) {
-  padding-bottom: 20vh;
-  }
-  @include breakpoint(medium) {
-  padding-bottom: 50vh;
-  }
-}
-
-.location__map {
-  @include breakpoint(small) {
-  height: 70vh;
-  }
-  @include breakpoint(medium) { 
-  height: 50vh;
-  }
-}
-
-// 7. Event
+// 6. Layout
 // ---------
 
-.event__title span {
-  color: $white;
-}
-
-.info {
-  background:  url(/assets/img/plants-01.png);
-  background-repeat:no-repeat;
-  background-position: right bottom;
-  background-size: 50%;
-}
-
-.info p a {
-  border-bottom: 1px solid $black;
-}
-
-.event {
-  @include breakpoint(small) {
-  background: none;
+main {
+  @include breakpoint(small only) {
+    @include padding(1,1,1,1);
   }
-  @include breakpoint(medium) {
-  background: url(/assets/img/octopus-and-lobster.png), url(/assets/img/plants-02.png);
-  background-repeat:no-repeat;
-  background-position:left top, right top;
-  background-size: 25%, 40%;
-  }
-}
-
-.about {
-  background:  url(/assets/img/plants-01.png);
-  background-repeat: no-repeat;
-  background-position: right bottom;
-  background-size: 50%;
-}
-
-.about h3 {
-  margin-bottom: 1rem;
-}
-
-.about p a {
-  border-bottom: 1px solid $black;
-}
-
-
-.tickets {
-  @include breakpoint(small) {
-  background: none;
-/*
-  padding-top: 20vh;
-  padding-bottom: 20vh;
-*/
-  }
-  @include breakpoint(medium) {
-  background: url(/assets/img/octopus-and-lobster.png), url(/assets/img/plants-02.png);
-  background-repeat:no-repeat;
-  background-position:left top, right top;
-  background-size: 25%, 40%;
-  padding-top: 0vh;
-  padding-bottom: 60vh;
-  }
-}
-
-
-// 8. Footer
-// ----------
-
-footer {
-  color: $primary-color;
-  @include links($primary-color, $white);
-  background-color: get-color(secondary-background);
 }

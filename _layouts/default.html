@@ -3,42 +3,30 @@ layout: compress
 ---
 
 <!DOCTYPE html>
-<html class="no-js" lang="en" dir="ltr">
+<html lang="en" dir="ltr" class="no-js">
 
 <!-- Head -->
-{% include head.html %}
+{% include site/head.html %}
 <!-- End Head -->
 
-<body>
-<div class="off-canvas-wrapper">
-<div class="multilevel-offcanvas off-canvas position-right" id="offCanvas" data-off-canvas data-transition="overlap">
-{% include mobile.html %}
-</div>
+<body class="{{page.layout | slugify}} grid-y" style="height: 100vh;">
 
-<div class="off-canvas-content" data-off-canvas-content>
-<!-- Navigation -->  
-{% include navigation.html %}
-<!-- End Navigation -->
+  <!-- Main -->
+  <div class="cell auto" id="main" data-aos="fade-in" data-aos-delay="100">
 
-<!-- Content -->
-{{ content }}
-<!-- End Content -->
+    <div class="grid-x align-middle" style="min-height: 100%">
+      <div class="small-12 cell">
+      {{content}}
+      </div>
+    </div>
 
-<!-- Footer -->  
-{% include footer.html %}
-<!-- End Footer -->
-</div>
+  </div>
+  <!-- Main -->
 
-<!-- Scripts -->
-{% include scripts.html %}
-<!-- End Scripts -->
+<!-- Poster -->
+{% include reveal/poster.html %}
+<!-- End Poster -->
 
-<!-- Google Analytics -->
-{% if site.analytics %}
-{% include analytics.html %}
-{% endif %}
-<!-- End Google Analytics -->
-</div>
 </body>
 
 </html>
