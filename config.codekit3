@@ -266,11 +266,11 @@
 		"oAP": "/assets/fonts/demibold-pro.woff2",
 		"oF": 0
 		},
-	"/assets/fonts/gallery.woff": {
+	"/assets/fonts/Gallery.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/assets/fonts/gallery.woff",
+		"oAP": "/assets/fonts/Gallery.woff",
 		"oF": 0
 		},
 	"/assets/fonts/gallery.woff2": {
@@ -634,7 +634,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "/bower_components/aos/dist/aos.js",
 		"oF": 0,
 		"sC": 1,
@@ -1212,7 +1212,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "/bower_components/foundation-sites/dist/js/foundation.js",
 		"oF": 0,
 		"sC": 1,
@@ -4454,7 +4454,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "/bower_components/jquery/dist/jquery.js",
 		"oF": 0,
 		"sC": 1,
@@ -5687,7 +5687,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "/bower_components/motion-ui/dist/motion-ui.js",
 		"oF": 0,
 		"sC": 1,
@@ -6361,7 +6361,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "/bower_components/swup/dist/plugins/swupGaPlugin.js",
 		"oF": 0,
 		"sC": 1,
@@ -6421,7 +6421,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "/bower_components/swup/dist/swup.js",
 		"oF": 0,
 		"sC": 1,
@@ -6798,7 +6798,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "/bower_components/what-input/dist/what-input.js",
 		"oF": 0,
 		"sC": 1,
@@ -7068,50 +7068,6 @@
 "hooks": [
 	],
 "manualImportLinks": {
-	"/assets/js/app.js": [
-		{
-			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/jquery/dist/jquery.js",
-			"position": 0,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/foundation-sites/dist/js/foundation.js",
-			"position": 1,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/motion-ui/dist/motion-ui.js",
-			"position": 2,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/what-input/dist/what-input.js",
-			"position": 3,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/aos/dist/aos.js",
-			"position": 4,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/swup/dist/swup.js",
-			"position": 5,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "/bower_components/swup/dist/plugins/swupGaPlugin.js",
-			"position": 6,
-			"type": 0
-			}
-		]
 	},
 "projectAttributes": {
 	"creationDate": 499792706,

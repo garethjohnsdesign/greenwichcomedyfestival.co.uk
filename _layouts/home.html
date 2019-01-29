@@ -38,7 +38,12 @@ layout: default
               </div>
             </div>
           </form>
-          <a data-open="poster">View 2018 Lineup</a>
+
+          <ul class="menu align-center">
+            <li><a data-open="poster">2018 line up</a></li>
+            <li><a href="https://2018.greenwichcomedyfestival.co.uk">2018 website</a></li>
+          </ul>
+
         </div>
       </div>
       
@@ -48,11 +53,7 @@ layout: default
             <ul class="menu">
               {% for item in site.social %}  
               <li><a href="{{ item[1] }}" target="_blank" rel="noopener"><span class="show-for-sr">{{ item[0] }}</span><svg class="icon icon-socials icon-{{ item[0] }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ item[0] }}"></use></svg></a></li>
-              {% endfor %} 
-            </ul>
-          {% else %}
-            <ul class="menu">
-              <li><a href="mailto:{{site.email}}">{{site.email}}</a></li>
+              {% endfor %}
             </ul>
           {% endif %}
         </div>
@@ -68,6 +69,7 @@ layout: default
       
     <div class="grid-x grid-padding-y grid-padding-x align-center">
       <div class="small-12 cell text-center">
+        <a href="http://www.57festivals.com"><svg class="icon icon-festivals"><use xlink:href="/assets/icons/symbol-defs.svg#icon-festivals"></use></svg></a>
         <ul class="menu align-center">
         <li><a href="/privacy-policy"><small>© {{'now' | date: "%Y"}} {{site.company}} – Subject to Site Permission and License Approval</small></a></li>
         <li><a href="/privacy-policy"><small>Privacy Policy</small></a></li>
