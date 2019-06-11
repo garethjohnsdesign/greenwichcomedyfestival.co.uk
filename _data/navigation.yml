@@ -4,20 +4,18 @@ header-full:
     sublinks:
       - title: All
         url: /line-up/
-      - title: Wednesday 3 July
+      - title: Wednesday 4 September
         url: /line-up/wednesday
-      - title: Thursday 4 July
+      - title: Thursday 5 September
         url: /line-up/thursday
-      - title: Friday 5 July
+      - title: Friday 6 September
         url: /line-up/friday
-      - title: Saturday 6 July — Early
+      - title: Saturday 7 September — Early
         url: /line-up/saturday-early
-      - title: Saturday 6 July — Mid
+      - title: Saturday 7 September — Mid
         url: /line-up/saturday-mid
-      - title: Saturday 6 July — Late
+      - title: Saturday 7 September — Late
         url: /line-up/saturday-late
-      - title: Sunday 7 July - Mid
-        url: /line-up/sunday-mid
       - title: Sunday 7 July - Late
         url: /line-up/sunday-late
 
@@ -42,21 +40,22 @@ header-short:
   - title: Line-up
     url: #
     sublinks:
-      - title: Wednesday 3 July
+      - title: All
+        url: /line-up/
+      - title: Wednesday 4 September
         url: /line-up/wednesday
-      - title: Thursday 4 July
+      - title: Thursday 5 September
         url: /line-up/thursday
-      - title: Friday 5 July
+      - title: Friday 6 September
         url: /line-up/friday
-      - title: Saturday 6 July — Early
+      - title: Saturday 7 September — Early
         url: /line-up/saturday-early
-      - title: Saturday 6 July — Mid
+      - title: Saturday 7 September — Mid
         url: /line-up/saturday-mid
-      - title: Saturday 6 July — Late
+      - title: Saturday 7 September — Late
         url: /line-up/saturday-late
-      - title: Sunday 7 July - Mid
-        url: /line-up/sunday-mid
       - title: Sunday 7 July - Late
+        url: /line-up/sunday-late
 
   - title: Info
     url: #

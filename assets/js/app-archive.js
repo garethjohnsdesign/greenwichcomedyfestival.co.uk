@@ -1,10 +1,3 @@
-// @codekit-prepend "/../node_modules/jquery/dist/jquery.js";
-// @codekit-prepend "/../node_modules/foundation-sites/dist/js/foundation.js";
-// @codekit-prepend "/../node_modules/motion-ui/dist/motion-ui.js";
-// @codekit-prepend "/../node_modules/what-input/dist/what-input.js";
-// @codekit-prepend "/../node_modules/aos/dist/aos.js";
-// @codekit-prepend "/../node_modules/lightgallery/dist/js/lightgallery-all.js";
-
 $(document).ready(function() {
 
 // 1. Foundation
@@ -33,6 +26,23 @@ $("#cookiesPolicy").foundation("open");
     $.cookie('showed_modal', 'true', { expires: 365 }); 
   }
 });
+
+// 2. Map
+// ------
+
+/*
+$(function() {  
+mapboxgl.accessToken = 'pk.eyJ1IjoiZ2FyZXRoam9obnNkZXNpZ24iLCJhIjoibWRoWDZWUSJ9.n1A58EO10IDrB5yIAKqAPA';
+});
+
+var map = new mapboxgl.Map({
+    container: 'map',
+    style: 'mapbox://styles/garethjohnsdesign/cjj4c8f7p46ua2roce0wkb7f9', //hosted style id
+    center: [-0.102483, 51.528037],
+    zoom: 11.14,
+    scrollZoom: false
+  });
+*/
 
 // 2. Animate on Scroll
 // --------------------

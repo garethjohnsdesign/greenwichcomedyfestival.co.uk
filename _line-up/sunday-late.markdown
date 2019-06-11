@@ -9,7 +9,7 @@ acts:
 - name: Rich Hall
   image: "/uploads/rich-hall.jpg"
 - name: Maisie Adam
-  image: "/uploads/masie-adam.jpg"
+  image: "/uploads/maisie-adam.jpg"
 - name: Larry Dean
   image: "/uploads/larry-dean.jpg"
 - name: Jarred Christmas
