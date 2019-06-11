@@ -1,5 +1,5 @@
 ---
-title: Bristol Comedy Garden 2019
+title: Greenwich Comedy Festival
 position: 0
 image: "/assets/img/og-image.png"
 carousel:
@@ -19,7 +19,7 @@ carousel:
   is-sold-out: true
   line-up: Friday
 - name: Jason Manford
-  image: "/uploads/rob-delaney.jpg"
+  image: "/uploads/jason-manford.jpg"
   subheader: Effortlessly entertaining — Evening Standard
   is-sold-out: false
   line-up: Sunday Late
@@ -71,4 +71,3 @@ featured:
   line-up: Saturday Mid
 layout: home
 ---
-
