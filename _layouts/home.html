@@ -2,71 +2,80 @@
 layout: default
 ---
 
-      <div class="grid-x grid-padding-x grid-padding-y" data-aos="fade-in">
-        <div class="small-12 cell text-center">
-          <svg class="icon icon-logo"><use xlink:href="/assets/icons/symbol-defs.svg#icon-logo"></use></svg>
-        </div>
-      </div>
+<!-- Headliners - Desktop -->
+<div class="swiper-container show-for-large">
 
-      <div class="grid-x">
-        <div class="cell text-center">
-          <h4>{{site.event-address}}</h4>
+  <div class="swiper-wrapper">
+    {% for act in page.carousel %}
+    {% assign image = act.image %}
+    <div class="swiper-slide small-12 cell text-center">
+      <div class="image--panorama align-center-middle" data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}">
+        
+        <div class="grid-y height-100 align-center content">
+          <div class="shrink cell text-center">
+          <a href="/line-up/{{act.line-up | slugify}}" class="white">
+            <h1 class="text-lowercase">{{act.name}}</h3>
+            <h5>{{act.subheader}}</h5>
+            {% if day.is-sold-out == true %}
+            <p>Sold Out</p>
+            {% endif %}
+          </a>
+          </div>
         </div>
-      </div>
-      
-      <div class="grid-x">
-        <div class="cell text-center">
-          <h4>{{site.event-span}}</h4>
-        </div>
-      </div>
-      
-      
-      <div class="grid-x align-center">
-        <div class="small-11 medium-5 large-4 xlarge-4 xxlarge-3 cell text-center">
-          <p>Tickets on Sale June</p>
-          <p>Join the mailing list to find out who’s on first</p>
-          <form action="//bristolcomedygarden.us8.list-manage.com/subscribe/post?u=4f6c24b1fd6a641ead690d017&id=e6f2914b7c" method="post" target="_blank" data-abide novalidate>
-           
-            <div data-abide-error class="alert callout" style="display: none;">
-              <p><i class="fi-alert"></i>There are some errors in your form.</p>
-            </div> 
-
-            <div class="input-group">
-              <input class="input-group-field" type="email" name="EMAIL" placeholder="Subscribe to our newsletter">
-              <div class="input-group-button">
-              <input type="submit" class="button hollow" value="Submit">
-              </div>
-            </div>
-          </form>
-
-          <ul class="menu align-center">
-            <li><a data-open="poster">2018 line up</a></li>
-            <li><a href="https://2018.greenwichcomedyfestival.co.uk">2018 website</a></li>
-          </ul>
-
-        </div>
-      </div>
-      
-      <div class="grid-x align-center">
-        <div class="shrink cell">
-          {% if site.social %}
-            <ul class="menu">
-              {% for item in site.social %}  
-              <li><a href="{{ item[1] }}" target="_blank" rel="noopener"><span class="show-for-sr">{{ item[0] }}</span><svg class="icon icon-socials icon-{{ item[0] }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ item[0] }}"></use></svg></a></li>
-              {% endfor %}
-            </ul>
-          {% endif %}
-        </div>
-      </div>
-      
-      
-    <div class="grid-x grid-padding-y grid-padding-x align-center">
-      <div class="small-12 cell text-center">
-        <a href="http://www.57festivals.com"><svg class="icon icon-festivals"><use xlink:href="/assets/icons/symbol-defs.svg#icon-festivals"></use></svg></a>
-        <ul class="menu align-center">
-        <li><a href="/privacy-policy"><small>© {{'now' | date: "%Y"}} {{site.company}} – Subject to Site Permission and License Approval</small></a></li>
-        <li><a href="/privacy-policy"><small>Privacy Policy</small></a></li>
-        <li><a href="/terms-and-conditions"><small>Terms and Conditions</small></a></li>
-        </ul>
+  
       </div>
     </div>
+    {% endfor %}
+  </div>
+
+  <div class="swiper-button-prev-test flex-container align-middle primary-color margin-left-1"></div>
+  <div class="swiper-button-next-test flex-container align-middle align-right primary-color margin-right-1"></div>
+
+
+</div>
+<!-- End Headliners - Desktop -->
+
+<!-- Headliners - Mobile -->
+<div class="grid-x small-up-1 medium-up-2 xlarge-up-4 xlarge-up-4 hide-for-large">
+  {% for act in page.carousel %}
+  <div class="cell acts">
+    <a href="/line-up/{{act.line-up | slugify}}"> 
+      {% assign image = act.image %}
+      {% include blocks/excerpt--act.html %}    
+    </a>
+  </div>
+  {% endfor %}
+</div>
+<!-- End Headliners - Mobile -->
+
+<!-- Description -->
+<div class="grid-container">
+  <div class="grid-x grid-padding-x grid-padding-y align-center">
+    <div class="small-12 medium-10 cell text-center padding-vertical-3">
+      <h3 class="text-lowercase">{{site.description}}
+    </div>
+  </div>
+</div>
+<!-- End Description -->
+
+
+<!-- Featured -->
+<div class="grid-x small-up-1 medium-up-2 xlarge-up-4">
+  {% for act in page.featured %}
+  <div class="cell acts">
+    <a href="/line-up/{{act.line-up | slugify}}"> 
+      {% assign image = act.image %}
+      {% include blocks/excerpt--act.html %}    
+    </a>
+  </div>
+  {% endfor %}
+</div>
+<!-- End Featured -->
+
+<!-- Line-up Link -->
+<div class="grid-x grid-padding-y align-center">
+  <div class="small-12 cell text-center padding-vertical-3">
+    <a href="/line-up/" class="h3 text-lowercase underline">View Full Line-up</a>
+  </div>
+</div>
+<!-- End Line-up Link -->

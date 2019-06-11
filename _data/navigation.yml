@@ -1,9 +1,75 @@
-header: 
+header-full:
+  - title: Line-up
+    url: /line-up/
+    sublinks:
+      - title: All
+        url: /line-up/
+      - title: Wednesday 3 July
+        url: /line-up/wednesday
+      - title: Thursday 4 July
+        url: /line-up/thursday
+      - title: Friday 5 July
+        url: /line-up/friday
+      - title: Saturday 6 July — Early
+        url: /line-up/saturday-early
+      - title: Saturday 6 July — Mid
+        url: /line-up/saturday-mid
+      - title: Saturday 6 July — Late
+        url: /line-up/saturday-late
+      - title: Sunday 7 July - Mid
+        url: /line-up/sunday-mid
+      - title: Sunday 7 July - Late
+        url: /line-up/sunday-late
+
   - title: About
-    url: /about/  
-  - title: Work
-    url: /work/
-  - title: Culture
-    url: /culture/
-  - title: Contact
-    url: /contact/
+    url: /about/
+  
+  - title: Location
+    url: /location/
+
+  - title: Food + Drink
+    url: /food-and-drink/
+    
+  - title: Info
+    url: /info/
+
+  - title: Tickets
+    url: /tickets/
+    class: button large margin-left-1
+
+
+header-short:
+  - title: Line-up
+    url: #
+    sublinks:
+      - title: Wednesday 3 July
+        url: /line-up/wednesday
+      - title: Thursday 4 July
+        url: /line-up/thursday
+      - title: Friday 5 July
+        url: /line-up/friday
+      - title: Saturday 6 July — Early
+        url: /line-up/saturday-early
+      - title: Saturday 6 July — Mid
+        url: /line-up/saturday-mid
+      - title: Saturday 6 July — Late
+        url: /line-up/saturday-late
+      - title: Sunday 7 July - Mid
+        url: /line-up/sunday-mid
+      - title: Sunday 7 July - Late
+
+  - title: Info
+    url: #
+    sublinks:
+      - title: Location
+        url: /location/
+    
+      - title: Food + Drink
+        url: /food-and-drink/
+        
+      - title: About
+        url: /about/
+
+  - title: Tickets
+    url: /tickets/
+    class: button hollow margin-left-1

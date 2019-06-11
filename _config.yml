@@ -2,6 +2,9 @@
 title: Greenwich Comedy Festival 2019
 timezone: UTC
 collections:
+  line-up:
+    title: Line-up
+    output: true
   posts:
     title: Posts
     output: true
@@ -9,8 +12,7 @@ collections:
     title: Uploads
     output: false
 url: https://www.greenwichcomedyfestival.co.uk
-description: Greenwich Comedy Festival returns this summer for another series of unmissable
-  shows!
+description: Greenwich Comedy Festival returns this summer for another series of unmissable shows!
 permalink: pretty
 exclude:
 - bower.json
@@ -38,14 +40,21 @@ highlighter: rouge
 company: 57 Festivals Ltd
 event-span: 4 - 8 September 2019
 event-address: National Maritime Museum, Greenwich
+event-address-short: National Maritime Museum
 company-registration: '06840256'
 company-address: 237 Westcombe Hill, Blackheath, London, United Kingdom, SE3 7DW
 email: info@greenwichcomedyfestival.co.uk
-analytics: UA-52649780-1
+subscribe: https://bristolcomedygarden.us8.list-manage.com/subscribe/post?u=4f6c24b1fd6a641ead690d017&amp;id=da73c043ee
+analytics:
 logo: "/assets/img/logo.svg"
 per_page: 12
 date_format: "%b %d, %Y"
 future: true
+sponsors:
+  57-festivals: http://www.57festivals.com
+  heineken: https://www.heineken.com/gb/
+  see-tickets: https://www.seetickets.com
+  ents-24: https://www.ents24.com
 social:
   facebook: https://www.facebook.com/greenwichcomedyfestival
   instagram: https://www.instagram.com/greenwichcomedyfestival

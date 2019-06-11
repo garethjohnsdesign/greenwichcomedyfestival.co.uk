@@ -1,0 +1,94 @@
+---
+layout: default
+---
+
+<div class="grid-container">
+  {% assign collection = site.line-up | group_by_exp: "item", "item.date | date: '%A %-d %B'" %}
+  {% for day in collection %}
+  
+  <!-- Day -->
+  <div class="grid-x padding-top-2 align-center text-lowercase show-for-medium">
+    <div class="shrink cell">
+      <h3>{{ day.name }}</h3>
+    </div>
+  </div>
+  <!-- End Day -->
+  
+  
+  {% assign sorted = day.items | sort: 'date' %}
+  {% for day in sorted %}
+  
+  
+  <!-- Panel -->
+  <div class="grid-x grid-margin-x grid-margin-y">
+  <div class="small-12 cell padding-top-1">
+    
+  <div class="grid-x grid-padding-x grid-padding-y callout">
+
+          
+  <!-- Time -->
+  <div class="small-12 large-2 cell text-center large-text-left">
+    <div class="grid-y align-justify" style="height: 100%">
+      
+      <div class="shrink cell">
+      <h3 class="text-lowercase show-for-small-only">{{ day.date | date: "%A %-d %b" }}</h3>
+      <h3>{{ day.date | date: "%l:%M%p" }}</h3>
+      <a href="{{ day.url }}"><svg class="icon icon-info"><use xlink:href="/assets/icons/symbol-defs.svg#icon-info"></use></svg></a>
+      </div>
+      
+      <div class="shrink cell show-for-large">
+      {% if day.is-sold-out == true %}
+      <a class="button expanded">Sold Out</a>
+      {% else %}
+      <a class="button expanded" href="{{day.ticket-link}}" target="_blank">Buy Now</a>
+      {% endif %} 
+      </div>
+      
+    </div>
+  </div>
+  <!-- End Time -->
+  
+          <div class="small-12 large-4 cell">
+            {% for act in day.acts limit:1 %}
+            {% assign image = act.image %}
+<div class="image--landscape align-center-middle" data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}">
+</div>
+            {% endfor %}
+          </div>
+          
+          <div class="small-12 large-4 cell text-lowercase text-center large-text-left padding-top-1">
+            {% for act in day.acts %}
+              <h3 class="margin-bottom-0">{{ act.name }}</h3>
+            {% endfor %}
+          </div>
+          
+          <div class="small-12 large-2 cell text-center large-text-right">
+            <div class="show-for-large">
+            <h5 class="text-lowercase margin-bottom-0">Festival Opens</h5>
+            {{ day.festival-starts-at | date: "%l:%M%p" }}
+            <h5 class="text-lowercase margin-bottom-0 padding-top-1">Show Starts</h5>
+            {{ day.show-starts-at | date: "%l:%M%p" }}
+            </div>
+            <h5 class="text-lowercase margin-bottom-0 padding-top-1">Tickets</h5>
+            {{ day.ticket-price }}
+            
+      <div class="shrink cell hide-for-large padding-top-2">
+      {% if day.is-sold-out == true %}
+      <a class="button expanded">Sold Out</a>
+      {% else %}
+      <a class="button expanded" href="{{day.ticket-link}}" target="_blank">Buy Now</a>
+      {% endif %} 
+      </div>
+      
+          </div>
+          
+          
+
+      </div>
+    
+  </div>
+  </div>
+  <!-- End Panel -->
+  {%endfor%}
+  {%endfor%}
+</div>

@@ -1,0 +1,19 @@
+{% for entry in site.data.navigation.header %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
+<!-- Navigation -->
+<div class="grid-y align-center primary-background-colour" style="height: 100%;">
+  
+  <div class="shrink cell">
+    <ul class="veritcal menu align-center text-lowercase accordion-menu" data-accordion-menu>
+      {% for entry in site.data.navigation.header-full %}
+      {% if entry.url == current_page %}
+      {% assign current = ' class="active"' %}
+      {% else %}
+      {% assign current = null %}
+      {% endif %}
+      <li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}" class="{{ entry.color }} h3 primary-font margin-bottom-0">{{ entry.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+
+</div>
+<!-- End Navigation -->

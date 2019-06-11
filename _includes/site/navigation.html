@@ -1,0 +1,57 @@
+<div class="grid-x align-justify primary-background-colour show-for-small-only navigation__banner"> 
+
+    <div class="small-12 cell text-center">   
+      <small>{{site.event-span}} — {{site.event-address}}</small>
+    </div>
+
+</div>
+
+{% for entry in site.data.navigation.header-full %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
+
+
+<div class="grid-x align-justify align-middle navigation"> 
+
+    <div class="auto cell">    
+      <ul class="menu align-middle">
+        <li><a href="/"><svg class="icon icon-inline-logo"><use xlink:href="/assets/icons/symbol-defs.svg#icon-inline-logo"></use></svg></a></li>
+        <li class="hide-for-small-only"><a href="/">{{site.event-span}}</a></li>
+      </ul>
+    </div>
+
+    <div class="shrink cell show-for-xlarge text-lowercase">    
+      <ul class="dropdown menu align-middle" data-dropdown-menu>
+          {% for entry in site.data.navigation.header-full %}
+          {% if entry.url == current_page %}
+          {% assign current = ' class="active"' %}
+          {% else %}
+          {% assign current = null %}
+          {% endif %}
+          {% assign sublinks = entry.sublinks %}
+          {% if sublinks %}
+          <li{{ current }}>
+          <a href="{{ site.baseurl }}{{ entry.url }}" class="h5 {% if entry.class %}{{ entry.class }}{% endif %}">{{ entry.title }}</a>
+          <ul class="menu vertical">
+          {% for sublink in sublinks %}
+          <li><a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a></li>
+          {% endfor %}
+          </ul>
+          </li>
+          {% else %}
+          <li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}" class="h5 {% if entry.class %}{{ entry.class }}{% endif %}">{{ entry.title }}</a></li>
+          {% endif %}
+          {% endfor %}
+<!--
+          <li class="show-for-xxlarge"><a href="{{site.social.facebook}}" target="_blank"><svg class="icon icon-socials icon-facebook"><use xlink:href="/assets/icons/symbol-defs.svg#icon-facebook"></use></svg></a></li>
+          <li class="show-for-xxlarge"><a href="{{site.social.instagram}}" target="_blank"><svg class="icon icon-socials icon-instagram"><use xlink:href="/assets/icons/symbol-defs.svg#icon-instagram"></use></svg></a></li>
+          <li class="show-for-xxlarge"><a href="{{site.social.twitter}}" target="_blank"><svg class="icon icon-socials icon-twitter"><use xlink:href="/assets/icons/symbol-defs.svg#icon-twitter"></use></svg></a></li>
+-->
+      </ul>
+    </div>
+    
+    <div class="shrink cell hide-for-xlarge">  
+      <a data-toggle="offCanvas" style="z-index: 1001"><svg class="icon icon-sort"><use xlink:href="/assets/icons/symbol-defs.svg#icon-sort"></use></svg></a>
+    </div>  
+
+</div>
+
+
