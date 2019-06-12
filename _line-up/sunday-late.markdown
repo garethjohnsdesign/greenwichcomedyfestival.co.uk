@@ -5,7 +5,7 @@ position: 5
 day: Sunday
 acts:
 - name: Jason Manford
-  image: "/uploads/jason-manford.jpg"
+  image: "/uploads/jason-manford-rev.jpg"
 - name: Rich Hall
   image: "/uploads/rich-hall.jpg"
 - name: Maisie Adam

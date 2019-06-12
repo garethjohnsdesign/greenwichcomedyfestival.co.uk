@@ -19,7 +19,7 @@ carousel:
   is-sold-out: true
   line-up: Friday
 - name: Jason Manford
-  image: "/uploads/jason-manford.jpg"
+  image: "/uploads/jason-manford-rev.jpg"
   subheader: Effortlessly entertaining — Evening Standard
   is-sold-out: false
   line-up: Sunday Late
@@ -35,7 +35,7 @@ featured:
   is-sold-out: false
   line-up: Sunday
 - name: Tim Key
-  image: "/uploads/tim-key.jpg"
+  image: "/uploads/tim-key-02.jpg"
   subheader: 
   is-sold-out: false
   line-up: Saturday Late
