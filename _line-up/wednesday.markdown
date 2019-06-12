@@ -6,7 +6,7 @@ acts:
 - name: Sean Lock
   image: "/uploads/sean-lock.jpg"
 - name: Rhys James
-  image: "/uploads/rhys-james.jpg"
+  image: "/uploads/rhys-james-rev.jpg"
 - name: Suzi Ruffell
   image: "/uploads/suzi-ruffell.jpg"
 - name: Fin Taylor
