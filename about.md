@@ -1,7 +1,7 @@
 ---
 title: About
 position: 4
-header: The mighty Greenwich Comedy Festival returns this September the beautiful National Martime Museum with yet another outrageously good line-up of comedy greats performing for you in the Big Top.
+header: Another year, another outstanding line-up from London’s finest comedy festival.
 images:
 - "/uploads/about-01.jpg"
 - "/uploads/about-02.jpg"
@@ -10,8 +10,7 @@ images:
 layout: about
 ---
 
-This summer don’t miss US stand-up sensation and star of Channel 4’s ‘Catastrophe’ Rob Delaney, the multi award-winning talents of Sara Pascoe, Mash Report host and Mock The Week regular Nish Kumar, Sean Lock the hilariously surreal team captain from 8 out of 10 Cats Does Countdown, riotously funny Tom Allen, British Comedy Award winner Aisling Bea plus many many more blisteringly funny comedians all topped off with an incredible festival finale featuring the magnificent Stewart Lee.
+The magnificent Greenwich Comedy Festival returns with its annual cavalcade of the very best comedians of the moment including TV mega-stars like The Last Leg’s JOSH WIDDICOMBE, British Comedy Award winner SEAN LOCK, the multi-award winning SARA PASCOE and master observationalist JASON MANFORD, alt-comedy heroes like Rose d’Or winner BRIDGET CHRISTIE and cult poet/comic and Alan Partridge side-kick TIM KEY.
 
-Make your way to the leafy surrounds of Queen Square and bask in the glory of these laughter-masters at the Southwest’s brightest comedy extravaganza. Now in it’s ninth year Bristol Comedy Garden pairs award-winning entertainment with delicious street-food, craft beers, cocktails and more in a fun and relaxed festival atmosphere giving comedy-lovers from Bristol and beyond an unbeatable experience in the heart of the city.
-
-Get your tickets now and arrive early to make the most of this year’s blooming brilliant Bristol Comedy Garden!
+Trailblazers like The Mash Report’s NISH KUMAR and festival favourite REGINALD D HUNTER can be seen plus grouchy legend RICH HALL, groundbreaking ventriloquist NINA CONTI, the crappy keyboard wielding DAVID O’DOHERTY and many fast-rising wonders like PHIL WANG, ROSIE JONES, OLGA KOCH and LARRY DEAN.
+Now in its eleventh year this comedy extravaganza pairs award-winning entertainment in the Big Top with a boutique-style festival complete with bars serving craft beers and summer-inspired cocktails plus delicious bites from the leading lights of the street-food scene.

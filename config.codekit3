@@ -1189,6 +1189,16 @@
 		"oAP": "/assets/fonts/regular-pro.woff2",
 		"oF": 0
 		},
+	"/assets/icons/symbol-defs.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/assets/icons/symbol-defs.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/assets/img/illustrations/anchor.png": {
 		"ft": 32768,
 		"iS": 17112,
@@ -2086,14 +2096,6 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"/info.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/info.html",
-		"oF": 0
-		},
 	"/info.md": {
 		"cB": 0,
 		"cS": 0,
@@ -2103,9 +2105,9 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"hM": 0,
-		"oA": 0,
-		"oAP": "/info.html",
-		"oF": 0,
+		"oA": 2,
+		"oAP": "/info.md",
+		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
