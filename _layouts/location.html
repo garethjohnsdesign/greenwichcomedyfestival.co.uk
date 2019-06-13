@@ -37,7 +37,7 @@ mapboxgl.accessToken = 'pk.eyJ1IjoiZ2FyZXRoam9obnNkZXNpZ24iLCJhIjoibWRoWDZWUSJ9.
 var map = new mapboxgl.Map({
 container: 'map', // container id
 style: 'mapbox://styles/garethjohnsdesign/cjubb3po502161fo2syhj5kz7', //hosted style id
-center: [-2.594683,51.450530],
+center: [-0.004, 51.482],
 zoom: 14,
 scrollZoom: false,
 pitch: 60, // pitch in degrees
@@ -66,14 +66,14 @@ map.on("load", function () {
     properties: {},
     geometry: {
     type: "Point",
-    coordinates: [-2.594683,51.450530]
+    coordinates: [-0.004, 51.482]
     }
     }
     ]
     }
     },
     layout: {
-      'icon-image': 'location',
+      'icon-image': 'gcf-location',
       'icon-offset': [0, -40],
       'icon-allow-overlap': true,
     }
