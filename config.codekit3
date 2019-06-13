@@ -2078,14 +2078,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/food-and-drink.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/food-and-drink.html",
-		"oF": 0
-		},
 	"/food-and-drink.md": {
 		"cB": 0,
 		"cS": 0,
@@ -2095,9 +2087,9 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"hM": 0,
-		"oA": 0,
-		"oAP": "/food-and-drink.html",
-		"oF": 0,
+		"oA": 2,
+		"oAP": "/food-and-drink.md",
+		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
