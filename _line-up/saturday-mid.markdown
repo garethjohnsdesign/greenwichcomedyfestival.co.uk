@@ -24,4 +24,4 @@ is-sold-out:
 layout: event
 ---
 
-Festival favourite Reginald D Hunter headlines a simply stunning line-up in the Big Top. The Have I Got News For You star’s searingly honest material has garnered him a popular fan base that spans the generations and always an unmissable watch.
+Festival favourite Reginald D Hunter headlines a simply stunning line-up in the Big Top. The Have I Got News For You star’s searingly honest material has garnered him a popular fan base that spans the generations and is always an unmissable watch.
