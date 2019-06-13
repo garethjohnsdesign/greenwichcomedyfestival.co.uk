@@ -1,9 +1,7 @@
 ---
 title: About
 position: 4
-header: The mighty Bristol Comedy Garden returns this July to the beautiful Queen
-  Square with yet another outrageously good line-up of comedy greats performing for
-  you in the Big Top.
+header: The mighty Greenwich Comedy Festival returns this September the beautiful National Martime Museum with yet another outrageously good line-up of comedy greats performing for you in the Big Top.
 images:
 - "/uploads/about-01.jpg"
 - "/uploads/about-02.jpg"

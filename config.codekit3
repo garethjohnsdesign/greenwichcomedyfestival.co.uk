@@ -703,6 +703,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_uploads/reginald-d-hunter-rev2.jpg": {
+		"ft": 16384,
+		"iS": 404891,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/reginald-d-hunter-rev2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/reginald-d-hunter.jpg": {
 		"ft": 16384,
 		"iS": 503477,
@@ -1194,8 +1205,8 @@
 		"oA": 0,
 		"oAP": "/assets/img/illustrations/anchor.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1205,8 +1216,8 @@
 		"oA": 0,
 		"oAP": "/assets/img/illustrations/coral.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1216,8 +1227,8 @@
 		"oA": 0,
 		"oAP": "/assets/img/illustrations/girl.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1227,8 +1238,8 @@
 		"oA": 0,
 		"oAP": "/assets/img/illustrations/goldfish.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1238,8 +1249,8 @@
 		"oA": 0,
 		"oAP": "/assets/img/illustrations/leaf-01.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1249,8 +1260,8 @@
 		"oA": 0,
 		"oAP": "/assets/img/illustrations/leaf-02.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1260,8 +1271,8 @@
 		"oA": 0,
 		"oAP": "/assets/img/illustrations/leaf-03.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1271,8 +1282,8 @@
 		"oA": 0,
 		"oAP": "/assets/img/illustrations/leaf-04.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1282,8 +1293,8 @@
 		"oA": 0,
 		"oAP": "/assets/img/illustrations/leaves.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1293,8 +1304,8 @@
 		"oA": 0,
 		"oAP": "/assets/img/illustrations/mermaid.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1304,8 +1315,8 @@
 		"oA": 0,
 		"oAP": "/assets/img/illustrations/merman.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1315,8 +1326,8 @@
 		"oA": 0,
 		"oAP": "/assets/img/illustrations/plant-01.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1326,8 +1337,8 @@
 		"oA": 0,
 		"oAP": "/assets/img/illustrations/plant-02.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1337,8 +1348,30 @@
 		"oA": 0,
 		"oAP": "/assets/img/illustrations/plant-03.png",
 		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/img/illustrations/plant-04.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "/assets/img/illustrations/plant-04.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/assets/img/illustrations/ring-02.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "/assets/img/illustrations/ring-02.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1348,8 +1381,8 @@
 		"oA": 0,
 		"oAP": "/assets/img/illustrations/ring.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1359,8 +1392,8 @@
 		"oA": 0,
 		"oAP": "/assets/img/illustrations/sea-horse.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1370,8 +1403,8 @@
 		"oA": 0,
 		"oAP": "/assets/img/illustrations/seagull-01.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1381,8 +1414,8 @@
 		"oA": 0,
 		"oAP": "/assets/img/illustrations/snake-01.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1392,8 +1425,8 @@
 		"oA": 0,
 		"oAP": "/assets/img/illustrations/snake-02.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1403,8 +1436,8 @@
 		"oA": 0,
 		"oAP": "/assets/img/illustrations/watermelon.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -2062,6 +2095,14 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"/info.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/info.html",
+		"oF": 0
 		},
 	"/info.md": {
 		"cB": 0,

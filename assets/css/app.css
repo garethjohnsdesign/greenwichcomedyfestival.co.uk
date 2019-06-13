@@ -6186,7 +6186,7 @@ select {
   left: 100%;
   z-index: 1;
   display: none;
-  min-width: 250px;
+  min-width: 275px;
   border: 1px solid #a6a6a6;
   background: #fefefe; }
   .dropdown .is-dropdown-submenu a {
@@ -9070,11 +9070,6 @@ html.is-animating .swup-transition-color {
     .white a:hover {
       color: #2ac19c; }
 
-/*
-.home .white:hover {
-  color: $primary-color;
-}
-*/
 .underline {
   padding-bottom: 2px;
   border-bottom: 3px solid; }
@@ -9211,25 +9206,6 @@ p a {
   right: 0rem;
   left: auto; }
 
-/*
-.swiper-button-prev-test {
-cursor: url('/assets/img/arrow-left.png') 16 16, auto !important;
-cursor: -webkit-image-set(
-url('/assets/img/arrow-left.png') 1x,
-url('/assets/img/arrow-left@2x.png') 2x,
-url('/assets/img/arrow-left@3x.png') 3x
-) 16 16, auto !important;
-}
-
-.swiper-button-next-test {
-cursor: url('/assets/img/arrow-right.png') 16 16, auto !important;
-cursor: -webkit-image-set(
-url('/assets/img/arrow-right.png') 1x,
-url('/assets/img/arrow-right@2x.png') 2x,
-url('/assets/img/arrow-right@3x.png') 3x
-) 16 16, auto !important;
-}
-*/
 .swiper-slide .white:hover {
   color: #2ac19c; }
 
@@ -9364,49 +9340,49 @@ background-color: transparent;
   color: #004947; }
 
 .home__content {
-  background: url(/assets/img/illustrations/leaves.png), url(/assets/img/illustrations/snake-02.png);
+  background: url(/assets/img/illustrations/plant-04.png), url(/assets/img/illustrations/ring-02.png);
   background-repeat: no-repeat;
   background-position: left bottom, right bottom;
   background-size: 50%, 50%; }
   @media print, screen and (min-width: 40em) {
     .home__content {
-      background-size: 30%, 30%; } }
+      background-size: 30%, 25%; } }
 
 .about__content {
-  background: url(/assets/img/illustrations/snake-01.png), url(/assets/img/illustrations/leaf-01.png), url(/assets/img/illustrations/leaf-02.png);
+  background: url(/assets/img/illustrations/ring.png), url(/assets/img/illustrations/plant-04.png), url(/assets/img/illustrations/plant-04.png);
   background-repeat: no-repeat;
   background-position: left top, left bottom, right bottom;
-  background-size: 90%, 20%, 50%; }
+  background-size: 30%, 20%, 50%; }
   @media print, screen and (min-width: 40em) {
     .about__content {
-      background-size: 90%, 30%, 30%; } }
+      background-size: 30%, 30%, 30%; } }
 
 .location__content {
-  background: url(/assets/img/illustrations/leaf-01.png), url(/assets/img/illustrations/leaf-03.png);
+  background: url(/assets/img/illustrations/plant-01.png), url(/assets/img/illustrations/plant-02.png);
   background-repeat: no-repeat;
   background-position: left bottom, right top;
   background-size: 0%, 0%; }
   @media print, screen and (min-width: 40em) {
     .location__content {
-      background-size: 30%, 20%; } }
+      background-size: 40%, 25%; } }
 
 .food-and-drink__content {
-  background: url(/assets/img/illustrations/snake-01.png), url(/assets/img/illustrations/watermelon.png);
+  background: url(/assets/img/illustrations/anchor.png), url(/assets/img/illustrations/plant-04.png);
   background-repeat: no-repeat;
   background-position: left top, left bottom;
-  background-size: 90%, 0%; }
+  background-size: 30%, 0%; }
   @media print, screen and (min-width: 40em) {
     .food-and-drink__content {
-      background-size: 90%, 60%; } }
+      background-size: 30%, 30%; } }
 
 .info__content {
-  background: url(/assets/img/illustrations/leaves.png), url(/assets/img/illustrations/snake-02.png);
+  background: url(/assets/img/illustrations/plant-03.png), url(/assets/img/illustrations/ring.png);
   background-repeat: no-repeat;
-  background-position: left bottom, right bottom;
-  background-size: 30%, 30%; }
+  background-position: left top, right top;
+  background-size: 50%, 30%; }
   @media print, screen and (min-width: 40em) {
     .info__content {
-      background-size: 30%, 30%; } }
+      background-size: 50%, 40%; } }
 
 .tickets__content {
   background: url(/assets/img/illustrations/snake-01.png), url(/assets/img/illustrations/leaves.png), url(/assets/img/illustrations/snake-02.png);

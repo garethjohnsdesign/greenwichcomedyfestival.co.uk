@@ -15,13 +15,13 @@ general:
       Yes. The festival has an age limit of 18\+. You may be refused entry if our staff think you are under 18, so please bring ID if you're concerned. We do not offer refunds to ticket-holders who are denied entry. Apologies to all you younger comedy fans out there!
 
     * **You're sold out! Where can I apply for returns?**
-      Check our facebook [page](https://www.facebook.com/bristolcomedygarden). Anyone who can't make it to a gig may try to pass on their tickets via our facebook page. Do not buy tickets from external sources as they may not be accepted on the door.
+      Check our facebook [page](https://www.facebook.com/greenwichcomedyfestival). Anyone who can't make it to a gig may try to pass on their tickets via our facebook page. Do not buy tickets from external sources as they may not be accepted on the door.
 
     * **I need to organise the babysitter - what exact time is my favourite comedian performing?**
       We do not give out specific timings of comedians. Your tickets however will provide information on the festival open and show start times and we estimate that our multi-bill shows last approximately 2.5 hours.
 
     * **Can I bring my dog / cat / parrot?**
-      Unfortunately not. Assistance animals are welcome, but please contact [info@bristolcomedygarden.co.uk](mailto:info@bristolcomedygarden.co.uk) ahead of your show to organise.
+      Unfortunately not. Assistance animals are welcome, but please contact [info@greenwichcomedyfestival.co.uk](mailto:info@greenwichcomedyfestival.co.uk) ahead of your show to organise.
 
     * **I have booked for more than one show in one day - how do I guarantee entry to the venue without having to re-enter?**
       Please alert a member of staff when you arrive if you are seeing more than one show in a day, and they can check your tickets and give you the correct credentials so you don't have to leave and re-enter the festival again. You will still need to vacate the venue itself between shows though.
@@ -33,8 +33,8 @@ general:
 
     * **Cash or card?** We accept card and cash payments at the Box Office and across our bars, most of our food vendors will also accept card payments as well, of course, as cash!
 - title: Festival Timings
-  text: "Weds 3 July: 6pm - 10:30pm   \nThurs 4 July: 6pm - 10:30pm  \nFri 5 July:
-    6pm - 10:30pm  \nSat 6 July: 3:15pm - 10:30pm   \nSun 7 July: 3:15pm - 10.30pm
+  text: "Weds 4 September: 6pm - 10:30pm   \nThurs 5 September: 6pm - 10:30pm  \nFri 5 September:
+    6pm - 10:30pm  \nSat 7 September: 3:15pm - 10:30pm   \nSun 8 September: 3:15pm - 10.30pm
     \ \n\nPlease check your tickets for your show start times, all shows last approximately
     2.5 hours with intervals."
 - title: The Big Top Venue
@@ -45,12 +45,12 @@ general:
     once inside the venue. '
 - title: Group Bookings
   text: "If you would like purchase 20 tickets or more please get in touch and we’ll
-    help you with the necessary arrangements. \n\nPlease contact [info@bristolcomedygarden.co.uk](mailto:info@bristolcomedygarden.co.uk) with
+    help you with the necessary arrangements. \n\nPlease contact [info@greenwichcomedyfestival.co.uk](mailto:info@greenwichcomedyfestival.co.uk) with
     GROUP BOOKING in the subject line and we’ll be in touch soon.\n"
 - title: Accessibility
   text: |-
     The festival site and Big Top venue are accessible and our access tickets are sold with a free essential companion ticket through our online ticketing partner SEE Tickets. 
-    If you have any questions relating to your booking or special requirements please contact [info@bristolcomedygarden.co.uk](mailto:info@bristolcomedygarden.co.uk) with ACCESS in the subject line and we’ll be in touch soon. If you prefer to call please contact SEE Tickets on the numbers below and they will liaise with us on your behalf.
+    If you have any questions relating to your booking or special requirements please contact [info@greenwichcomedyfestival.co.uk](mailto:info@greenwichcomedyfestival.co.uk) with ACCESS in the subject line and we’ll be in touch soon. If you prefer to call please contact SEE Tickets on the numbers below and they will liaise with us on your behalf.
     While the festival is in full swing our Front of House team will be on hand to assist you in anyway they can.
 
     SEE Customer Services can be reached on 0871 220 0260 (open 24/7, calls cost 13p per minute plus network charges)

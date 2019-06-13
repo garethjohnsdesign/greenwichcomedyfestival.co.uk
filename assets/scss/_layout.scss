@@ -145,12 +145,6 @@ html.is-animating .swup-transition-color {
   @include links($white, $primary-color);
 }
 
-/*
-.home .white:hover {
-  color: $primary-color;
-}
-*/
-
 // 5. Typography
 // -------------
 
@@ -230,26 +224,6 @@ p a {
   right: 0rem;
   left: auto;
 }
-
-/*
-.swiper-button-prev-test {
-cursor: url('/assets/img/arrow-left.png') 16 16, auto !important;
-cursor: -webkit-image-set(
-url('/assets/img/arrow-left.png') 1x,
-url('/assets/img/arrow-left@2x.png') 2x,
-url('/assets/img/arrow-left@3x.png') 3x
-) 16 16, auto !important;
-}
-
-.swiper-button-next-test {
-cursor: url('/assets/img/arrow-right.png') 16 16, auto !important;
-cursor: -webkit-image-set(
-url('/assets/img/arrow-right.png') 1x,
-url('/assets/img/arrow-right@2x.png') 2x,
-url('/assets/img/arrow-right@3x.png') 3x
-) 16 16, auto !important;
-}
-*/
 
 .swiper-slide .white:hover {
   color: $primary-color;
@@ -374,62 +348,62 @@ color: $secondary-color;
 // ----------------
 
 .home__content {
-  background: url(/assets/img/illustrations/leaves.png), url(/assets/img/illustrations/snake-02.png);
+  background: url(/assets/img/illustrations/plant-04.png), url(/assets/img/illustrations/ring-02.png);
   background-repeat:no-repeat;
   background-position:left bottom, right bottom;
   @include breakpoint(small) {
   background-size: 50%, 50%;
   }
   @include breakpoint(medium) {
-  background-size: 30%, 30%;
+  background-size: 30%, 25%;
   }
 }
 
 .about__content {
-  background: url(/assets/img/illustrations/snake-01.png), url(/assets/img/illustrations/leaf-01.png), url(/assets/img/illustrations/leaf-02.png);
+  background: url(/assets/img/illustrations/ring.png), url(/assets/img/illustrations/plant-04.png), url(/assets/img/illustrations/plant-04.png);
   background-repeat:no-repeat;
   background-position:left top, left bottom, right bottom;
   @include breakpoint(small) {
-  background-size: 90%, 20%, 50%;
+  background-size: 30%, 20%, 50%;
   }
   @include breakpoint(medium) {
-  background-size: 90%, 30%, 30%;
+  background-size: 30%, 30%, 30%;
   }
 }
 
 .location__content {
-  background: url(/assets/img/illustrations/leaf-01.png), url(/assets/img/illustrations/leaf-03.png);
+  background: url(/assets/img/illustrations/plant-01.png), url(/assets/img/illustrations/plant-02.png);
   background-repeat:no-repeat;
   background-position:left bottom, right top;
   @include breakpoint(small) {
   background-size: 0%, 0%;
   }
   @include breakpoint(medium) {
-  background-size: 30%, 20%;
+  background-size: 40%, 25%;
   }
 }
 
 .food-and-drink__content {
-  background: url(/assets/img/illustrations/snake-01.png), url(/assets/img/illustrations/watermelon.png);
+  background: url(/assets/img/illustrations/anchor.png), url(/assets/img/illustrations/plant-04.png);
   background-repeat:no-repeat;
   background-position:left top, left bottom;
   @include breakpoint(small) {
-  background-size: 90%, 0%;
+  background-size: 30%, 0%;
   }
   @include breakpoint(medium) {
-  background-size: 90%, 60%;
+  background-size: 30%, 30%;
   }
 }
 
 .info__content {
-  background: url(/assets/img/illustrations/leaves.png), url(/assets/img/illustrations/snake-02.png);
+  background: url(/assets/img/illustrations/plant-03.png), url(/assets/img/illustrations/ring.png);
   background-repeat:no-repeat;
-  background-position:left bottom, right bottom;
+  background-position:left top, right top;
   @include breakpoint(small) {
-  background-size: 30%, 30%;
+  background-size: 50%, 30%;
   }
   @include breakpoint(medium) {
-  background-size: 30%, 30%;
+  background-size: 50%, 40%;
   }
 }
 

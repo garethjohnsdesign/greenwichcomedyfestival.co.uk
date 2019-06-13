@@ -33,7 +33,7 @@ featured:
   image: "/uploads/rich-hall.jpg"
   subheader: 
   is-sold-out: false
-  line-up: Sunday
+  line-up: Sunday Late
 - name: Tim Key
   image: "/uploads/tim-key-02.jpg"
   subheader: 
@@ -45,7 +45,7 @@ featured:
   is-sold-out: false
   line-up: Friday
 - name: Reginald D Hunter
-  image: "/uploads/reginald-d-hunter.jpg"
+  image: "/uploads/reginald-d-hunter-rev2.jpg"
   subheader: 
   is-sold-out: false
   line-up: Saturday Mid
@@ -60,7 +60,7 @@ featured:
   is-sold-out: true
   line-up: Saturday Early
 - name: David O’Doherty
-  image: "/uploads/david-o-doherty.jpg"
+  image: "/uploads/david-o-doherty-02.jpg"
   subheader: 
   is-sold-out: 
   line-up: Saturday Late

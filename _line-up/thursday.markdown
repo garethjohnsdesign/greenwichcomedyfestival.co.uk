@@ -10,7 +10,7 @@ acts:
 - name: Rosie Jones
   image: "/uploads/rosie-jones.jpg"
 - name: Ed Gamble
-  image: "/uploads/ed-gamble.jpg"
+  image: "/uploads/ed-gamble-2.jpg"
 quote: Widdicombe’s charm and incurable exasperation with the modern world win the day
 quote-cite: The I
 secondary-text: Joining Josh is an exceptional line-up with the endlessly amusing Live At The Apollo star Ivo Graham, the mischievous 8 Out 10 Cats regular Rosie Jones and Moc The Week’s plucky scamp Ed Gamble as host.
