@@ -58,16 +58,16 @@ general:
   text: |-
     Join our Front of House Team and get in on all the hilarious action. You’ll be the first point of contact with our lovely audiences so good communication skills and a friendly attitude are a must. Working with the Front of House Manager you’ll be responsible for getting our audiences to the right place at the right time, making sure the shows run on time and keeping the venue running smoothly. You should be confident, good with people, alert and interested in the programme and event you’re representing. This role is very active and a lot of fun, you should enjoy dealing with lots of people and manage all this with a level head.
 
-    You will be expected to work all of the shifts throughout the Comedy Garden; you must be over 16 to apply.
+    You will be expected to work all of the shifts throughout the festival; you must be over 16 to apply.
 
     If you’re interested, please email [hannah@57festivals.com](mailto:hannah@57festivals.com) with your CV and these completed forms.
 - title: Work  With Us - Bar Staff
   text: |-
-    We’re looking for friendly, confident and hard working people to come and work on our bars during the Comedy Garden. Previous bar experience is essential and you must be over 18. You’ll be part of the team and enjoy all the perks that go with that. In return you’ll be punctual, reliable and ready to hop to action at any given moment.
+    We’re looking for friendly, confident and hard working people to come and work on our bars during the comedy festival. Previous bar experience is essential and you must be over 18. You’ll be part of the team and enjoy all the perks that go with that. In return you’ll be punctual, reliable and ready to hop to action at any given moment.
 
-    This is a paid role. You’ll be expected to work all of the shifts during the Comedy Garden.
+    This is a paid role. You’ll be expected to work all of the shifts during the festival.
 
-    If you’re interested please send your name, contact details and CV to [sparkleandspirit@outlook.com](mailto:sparkleandspirit@outlook.com) with BCG BAR CREW in the subject line.
+    If you’re interested please send your name, contact details and CV to [sparkleandspirit@outlook.com](mailto:sparkleandspirit@outlook.com) with GCF BAR CREW in the subject line.
 layout: info
 ---
 
