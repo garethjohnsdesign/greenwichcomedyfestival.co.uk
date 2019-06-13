@@ -12,7 +12,7 @@ general:
 
 
     * **Is there an age limit?**
-      Yes. The festival has an age limit of 18\+. You may be refused entry if our staff think you are under 18, so please bring ID if you're concerned. We do not offer refunds to ticket-holders who are denied entry. Apologies to all you younger comedy fans out there!
+      Yes. The festival has an age limit of 16+, under 18's accompanied by an adult. You may be refused entry if our staff think you are under 18, so please bring ID if you're concerned. We do not offer refunds to ticket-holders who are denied entry. Apologies to all you younger comedy fans out there!
 
     * **You're sold out! Where can I apply for returns?**
       Check our facebook [page](https://www.facebook.com/greenwichcomedyfestival). Anyone who can't make it to a gig may try to pass on their tickets via our facebook page. Do not buy tickets from external sources as they may not be accepted on the door.
@@ -34,7 +34,7 @@ general:
     * **Cash or card?** We accept card and cash payments at the Box Office and across our bars, most of our food vendors will also accept card payments as well, of course, as cash!
 - title: Festival Timings
   text: "Weds 4 September: 6pm - 10:30pm   \nThurs 5 September: 6pm - 10:30pm  \nFri
-    5 September: 6pm - 10:30pm  \nSat 7 September: 3:15pm - 10:30pm   \nSun 8 September:
+    5 September: 6pm - 10:30pm  \nSat 7 September: 1pm - 10:30pm   \nSun 8 September:
     3:15pm - 10.30pm  \n\nPlease check your tickets for your show start times, all
     shows last approximately 2.5 hours with intervals."
 - title: The Big Top Venue
@@ -55,18 +55,12 @@ general:
 
     SEE Customer Services can be reached on 0871 220 0260 (open 24/7, calls cost 13p per minute plus network charges)
 - title: Work With Us - Front Of House
-  text: |+
+  text: |-
     Join our Front of House Team and get in on all the hilarious action. You’ll be the first point of contact with our lovely audiences so good communication skills and a friendly attitude are a must. Working with the Front of House Manager you’ll be responsible for getting our audiences to the right place at the right time, making sure the shows run on time and keeping the venue running smoothly. You should be confident, good with people, alert and interested in the programme and event you’re representing. This role is very active and a lot of fun, you should enjoy dealing with lots of people and manage all this with a level head.
 
     You will be expected to work all of the shifts throughout the Comedy Garden; you must be over 16 to apply.
 
     If you’re interested, please email [hannah@57festivals.com](mailto:hannah@57festivals.com) with your CV and these completed forms.
-
-    [BCG 19 FoH Job Application.pdf](/uploads/BCG%2019%20FoH%20Job%20Application.pdf)
-
-    [Equality and Diversity Monitoring Form-c6967a.docx](/uploads/Equality%20and%20Diversity%20Monitoring%20Form-c6967a.docx)
-
-
 - title: Work  With Us - Bar Staff
   text: |-
     We’re looking for friendly, confident and hard working people to come and work on our bars during the Comedy Garden. Previous bar experience is essential and you must be over 18. You’ll be part of the team and enjoy all the perks that go with that. In return you’ll be punctual, reliable and ready to hop to action at any given moment.
