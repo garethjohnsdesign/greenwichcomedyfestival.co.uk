@@ -393,12 +393,34 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_uploads/beyroots.jpg": {
+		"ft": 16384,
+		"iS": 372144,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/beyroots.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/bridget-christie.jpg": {
 		"ft": 16384,
 		"iS": 460234,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/bridget-christie.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/cheeky-burger.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/cheeky-burger.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -489,6 +511,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/fin-taylor.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/guasacaca.jpg": {
+		"ft": 16384,
+		"iS": 437307,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/guasacaca.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -599,6 +632,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/maisie-adam.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/melter-meatballs.jpg": {
+		"ft": 16384,
+		"iS": 414513,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/melter-meatballs.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2033,6 +2077,14 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"/food-and-drink.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/food-and-drink.html",
+		"oF": 0
 		},
 	"/food-and-drink.md": {
 		"cB": 0,
