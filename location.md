@@ -5,9 +5,9 @@ header: Once again the beautiful surroundings of the iconic National Maritime Mu
   in Royal Greenwich will be awash with even more legendary line-ups in the Big Top.
 details:
 - title: Car
-  text: Unfortunately there is no public parking available at the museum and limited
-    parking in Greenwich town centre. However there is blue badge parking area available
-    in the car park on the corner of Park Row and Romney Road.
+  text: There is no public parking available at the museum and limited parking in
+    Greenwich town centre. However there is blue badge parking area available in the
+    car park on the corner of Park Row and Romney Road.
 - title: Bus
   text: The following buses all pass through Greenwich town centre 177, 180, 188,
     199, 286, 386. For further information visit tfl.gov.uk
