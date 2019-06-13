@@ -1,9 +1,8 @@
 ---
 title: Food and Drink
 position: 1
-header: Arrive early and get into the comedy spirit at our bars serving up all the
-  usual tipples plus craft beer and summer-inspired cocktails, and arrive hungry for
-  food as well as great comedy and tuck into tasty morsels with one of our delicious
+header: Arrive early and get into the comedy spirit at our bars and arrive hungry
+  for food as well as great comedy and tuck into tasty morsels with one of our delicious
   street-foodies...
 vendors:
 - title: Melter Meatballs
@@ -38,7 +37,7 @@ vendors:
   social:
     instagram: https://www.instagram.com/cheeky_burger/
     facebook: https://www.facebook.com/Cheeky-Burger-512964702088187/
-- title: BeyROOTS
+- title: BEYRoots
   image: "/uploads/beyroots.jpg"
   description: BEYRoots are bringing a completely authentic and seriously tasty Lebanese
     taste experience to the UK! They serve up utterly delicious wraps and salad bowls
@@ -107,8 +106,8 @@ vendors:
 layout: food-and-drink
 ---
 
-Choose from Ghanaian goodness in [Zoe’s Ghana Kitchen](https://www.zoesghanakitchen.co.uk), aromatic crispy duck and epic double cooked duck fat chips from [Kwackers](https://www.facebook.com/whattheduckisthis/), greek grills on the go with [3 Little Pigs](https://www.the3littlepigsldn.com) or top tier Jamaican goodness using ethically sourced ingredients from [Tasty Ragga](https://www.facebook.com/TastyRagga/) plus some utterly delicious West Country ice cream handmade in Bristol by [The Ice Cream Box](https://www.facebook.com/theicecreamboxbristol).
+Choose your balls with [melter meatballs](https://www.facebook.com/meltermeatballs/), take your tastebuds to the lebanon with [beyroots](https://www.beyroots.co)delicious wraps, enjoy incredibly tasty pizza from the inspiring team at [the good slice](https://www.instagram.com/thegoodslice), munch on the award-winning burgers and made-from-scratch relishes from [cheeky burger](http://cheekyburgercompany.com) or go for the authentic Venezuelan Arepas by [Guasacaca](https://guasacacalondon.com) 
 
-All our bars will be serving up the usual tipples including craft beers, and summer-inspired cocktails plus some top-notch traders like [Routes Coffee](https://www.routescoffee.co.uk) serving up fresh brews and yummy treats.
+All our bars will be serving up the usual tipples including craft beers, and summer-inspired cocktails plus some top-notch traders like [Routes Coffee](https://www.routescoffee.co.uk) serving up fresh brews and the mindbendingly morish treats from [ravenous fudge](https://ravenousfudge.com).
 
 All of our traders offer a vegetarian option with vegan options available too. Our bars accept card payments as do most of our traders, as well as of course, cash!
