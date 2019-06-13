@@ -33,10 +33,10 @@ general:
 
     * **Cash or card?** We accept card and cash payments at the Box Office and across our bars, most of our food vendors will also accept card payments as well, of course, as cash!
 - title: Festival Timings
-  text: "Weds 4 September: 6pm - 10:30pm   \nThurs 5 September: 6pm - 10:30pm  \nFri 5 September:
-    6pm - 10:30pm  \nSat 7 September: 3:15pm - 10:30pm   \nSun 8 September: 3:15pm - 10.30pm
-    \ \n\nPlease check your tickets for your show start times, all shows last approximately
-    2.5 hours with intervals."
+  text: "Weds 4 September: 6pm - 10:30pm   \nThurs 5 September: 6pm - 10:30pm  \nFri
+    5 September: 6pm - 10:30pm  \nSat 7 September: 3:15pm - 10:30pm   \nSun 8 September:
+    3:15pm - 10.30pm  \n\nPlease check your tickets for your show start times, all
+    shows last approximately 2.5 hours with intervals."
 - title: The Big Top Venue
   text: 'The Big Top is a fully seated venue. There are two types of tickets; Front
     Stalls and Rear Stalls. The Front Stalls are allocated and positioned closest

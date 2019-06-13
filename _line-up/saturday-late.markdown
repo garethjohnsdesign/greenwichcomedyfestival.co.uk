@@ -11,14 +11,17 @@ acts:
   image: "/uploads/olga-koch.jpg"
 - name: Ed Gamble
   image: "/uploads/ed-gamble.jpg"
-quote: When a stand up gig goes this well, you do get a sense of how religions are started
+quote: When a stand up gig goes this well, you do get a sense of how religions are
+  started
 quote-cite: The Guardian
-secondary-text: Joining David is an exceptional line-up with cult comic/poet and Alan Partridge star Tim Key, fast-rising Edinburgh Comedy Award nominee Olga Koch and Mock The Week’s resident plucky scamp Ed Gamble as host.
+secondary-text: Joining David is an exceptional line-up with cult comic/poet and Alan
+  Partridge star Tim Key, fast-rising Edinburgh Comedy Award nominee Olga Koch and
+  Mock The Week’s resident plucky scamp Ed Gamble as host.
 festival-starts-at: 2019-09-07 19:00:00 Z
 show-starts-at: 2019-09-07 20:15:00 Z
 ticket-price: "£20 - £25"
-ticket-link:
-is-sold-out:
+ticket-link: 
+is-sold-out: 
 layout: event
 ---
 

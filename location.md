@@ -1,7 +1,8 @@
 ---
 title: Location
 position: 3
-header: Once again the beautiful surroundings of the iconic National Maritime Museum in Royal Greenwich will be awash with even more legendary line-ups in the Big Top.
+header: Once again the beautiful surroundings of the iconic National Maritime Museum
+  in Royal Greenwich will be awash with even more legendary line-ups in the Big Top.
 details:
 - title: Car
   text: Unfortunately there is no public parking available at the museum and limited

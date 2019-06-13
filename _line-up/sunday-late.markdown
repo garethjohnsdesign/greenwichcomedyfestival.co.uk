@@ -14,14 +14,17 @@ acts:
   image: "/uploads/larry-dean.jpg"
 - name: Jarred Christmas
   image: "/uploads/jarred-christmas.jpg"
-quote: He's blessed with the sort of laid-back charm and sharp turn of phrase you can't manufacture
+quote: He's blessed with the sort of laid-back charm and sharp turn of phrase you
+  can't manufacture
 quote-cite: Daily Telegraph
-secondary-text: Joining Jason is a blistering all-star line-up with multi-award winning grouchy genius Rich Hall, fast rising charmster Maisie Adam, Live At The Apollo star Larry Dean and kiwi live-wire Jarred Christmas as host.
+secondary-text: Joining Jason is a blistering all-star line-up with multi-award winning
+  grouchy genius Rich Hall, fast rising charmster Maisie Adam, Live At The Apollo
+  star Larry Dean and kiwi live-wire Jarred Christmas as host.
 festival-starts-at: 2019-09-08 18:00:00 Z
 show-starts-at: 2019-09-08 19:30:00 Z
 ticket-price: "£20 - £25"
-ticket-link:
-is-sold-out:
+ticket-link: 
+is-sold-out: 
 layout: event
 ---
 

@@ -11,7 +11,7 @@ carousel:
 - name: Sara Pascoe
   image: "/uploads/sara-pascoe.jpg"
   subheader: She is a comic in her prime — The Times
-  is-sold-out:
+  is-sold-out: 
   line-up: Saturday Early
 - name: Nish Kumar
   image: "/uploads/nish-kumar.jpg"
@@ -71,3 +71,4 @@ featured:
   line-up: Saturday Mid
 layout: home
 ---
+

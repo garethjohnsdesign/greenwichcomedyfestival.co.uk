@@ -13,12 +13,14 @@ acts:
   image: "/uploads/stephen-k-amos-01.jpg"
 quote: This is comedy of a rare scope”
 quote-cite: The Times
-secondary-text: Joining Reginald is a truly stupendous bill with self-dubbed Lie-in King and Live At The Apollo star Seann Walsh, acclaimed Radio 4 Favourite Shappi Khorsandi and globe-trotting laughter-master Stephen K Amos as host.
+secondary-text: Joining Reginald is a truly stupendous bill with self-dubbed Lie-in
+  King and Live At The Apollo star Seann Walsh, acclaimed Radio 4 Favourite Shappi
+  Khorsandi and globe-trotting laughter-master Stephen K Amos as host.
 festival-starts-at: 2019-09-07 16:00:00 Z
 show-starts-at: 2019-09-07 17:00:00 Z
 ticket-price: "£20 - £25"
-ticket-link:
-is-sold-out:
+ticket-link: 
+is-sold-out: 
 layout: event
 ---
 

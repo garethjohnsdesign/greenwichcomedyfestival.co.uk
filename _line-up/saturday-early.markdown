@@ -13,12 +13,14 @@ acts:
   image: "/uploads/andrew-maxwell.jpg"
 quote: She is a comic in her prime
 quote-cite: The Times
-secondary-text: Joining Sara is an almighty bill with groundbreaking ventriloquist and British Comedy Award winner Nina Conti, Taskmaster star Phil Wang and Irish raconteur Andrew Maxwell as host.
+secondary-text: Joining Sara is an almighty bill with groundbreaking ventriloquist
+  and British Comedy Award winner Nina Conti, Taskmaster star Phil Wang and Irish
+  raconteur Andrew Maxwell as host.
 festival-starts-at: 2019-07-06 13:00:00 Z
 show-starts-at: 2019-07-06 14:00:00 Z
 ticket-price: "£20 - £25"
-ticket-link:
-is-sold-out:
+ticket-link: 
+is-sold-out: 
 layout: event
 ---
 
