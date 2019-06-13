@@ -1,6 +1,6 @@
-# Greenwich Comedy Festival
+# Bristol Comedy Garden
 
-Website for Greenwich Comedy Festival. Please go to [https://www.greenwichcomedyfestival.co.uk](https://www.greenwichcomedyfestival.co.uk) in case you want to take a look at the website.
+Website for Bristol Comedy Garden. Please go to [https://www.bristolcomedygarden.co.uk](https://www.bristolcomedygarden.co.uk) in case you want to take a look at the website.
 
 * * *
 

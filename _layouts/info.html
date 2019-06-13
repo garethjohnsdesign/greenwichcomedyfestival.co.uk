@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="grid-container">
+  <div class="grid-x grid-padding-y">
+    <div class="expand cell">
+      <ul class="accordion" data-accordion  data-multi-expand="true" data-allow-all-closed="true">
+        {% for details in page.general %}
+          <li class="accordion-item" data-accordion-item>
+          <a href="#" class="accordion-title text-lowercase">{{details.title}}</a>
+            <div class="accordion-content padding-2" data-tab-content>
+            {{ details.text | markdownify }}
+            </div>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>

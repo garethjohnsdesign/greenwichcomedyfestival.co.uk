@@ -1,0 +1,32 @@
+<div class="grid-x grid-padding-y align-justify primary-background-colour show-for-small-only"> 
+
+    <div class="small-12 cell text-center">   
+      <div>{{site.event-span}} — {{site.event-address-short}}</div>
+    </div>
+
+</div>
+
+{% for entry in site.data.navigation.header %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
+
+
+<div class="grid-x align-justify align-middle navigation"> 
+
+    <div class="small-3 cell">  
+      <a data-toggle="offCanvas"><svg class="icon icon-sort"><use xlink:href="/assets/icons/symbol-defs.svg#icon-sort"></use></svg></a>
+    </div>
+
+    <div class="small-6 cell text-center">   
+      <a data-toggle="offCanvas">
+      <div class="show-for-medium"><svg class="icon icon-inline-logo"><use xlink:href="/assets/icons/symbol-defs.svg#icon-inline-logo"></use></svg></div>
+      <div class="show-for-small-only"><svg class="icon icon-logo"><use xlink:href="/assets/icons/symbol-defs.svg#icon-logo"></use></svg></div>
+      <div class="show-for-medium">{{site.event-span}}<span class="show-for-medium"> — {{site.event-address-short}}</span></div>
+      </a>
+    </div>
+
+    <div class="small-3 cell text-right">  
+      <a class="h4 text-lowercase underline" href="/tickets/">Tickets</a>
+    </div>
+
+</div>
+
+

@@ -1,0 +1,36 @@
+<div class="grid-x">
+  <div class="small-12 cell">
+    <div class="image--panorama align-center-middle" data-interchange="{% include images/interchange-img-small-12-medium-12-cell.html %}"></div>
+  </div>
+</div>
+
+<div class="vendor__description">
+    <div class="grid-x align-justify">
+      <div class="shrink cell">
+        <h2 class="text-lowercase">{{vendor.title}}</h2>
+      </div>
+
+      <div class="shrink cell show-for-xxlarge">
+        <ul class="menu">
+        {% for item in vendor.social %}  
+        <li><a href="{{ item[1] }}" target="_blank" rel="noopener" rel="noopener"><span class="show-for-sr">{{ item[0] }}</span><svg class="icon icon-socials icon-{{ item[0] }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ item[0] }}"></use></svg></a></li>
+        {% endfor %}
+        </ul>
+      </div>
+    </div>
+
+    <div class="grid-x grid-padding-y">
+      <div class="small-12 cell">
+        {{vendor.description | markdownify}}
+      </div>
+    </div>
+
+    <div class="shrink cell hide-for-xxlarge">
+      <ul class="menu">
+      {% for item in vendor.social %}  
+      <li><a href="{{ item[1] }}" target="_blank" rel="noopener" rel="noopener"><span class="show-for-sr">{{ item[0] }}</span><svg class="icon icon-socials icon-{{ item[0] }}"><use xlink:href="/assets/icons/symbol-defs.svg#icon-{{ item[0] }}"></use></svg></a></li>
+      {% endfor %}
+      </ul>
+    </div>
+</div>
+
