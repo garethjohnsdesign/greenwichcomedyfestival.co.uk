@@ -25,4 +25,4 @@ is-sold-out:
 layout: event
 ---
 
-The Lidl Enya, Broken Bublé, Greenwich Comedty Festival favourite David O’Doherty brings the goods time and time again with his unrivalled silly charm (and crappy keyboard). A perpetual award winner in his own right and touring companion of Flight of the Conchords, this Irish legend is good times guaranteed and should not be misse
+The Lidl Enya, Broken Bublé, Greenwich Comedy Festival favourite David O’Doherty brings the goods time and time again with his unrivalled silly charm (and crappy keyboard). A perpetual award winner in his own right and touring companion of Flight of the Conchords, this Irish legend is good times guaranteed and should not be missed.
