@@ -23,7 +23,7 @@ secondary-text: Joining Jason is a blistering all-star line-up with multi-award 
 festival-starts-at: 2019-09-08 18:00:00 Z
 show-starts-at: 2019-09-08 19:30:00 Z
 ticket-price: "£20 - £25"
-ticket-link: 
+ticket-link: https://greenwichcomedyfestival.seetickets.com/event/jason-manford/national-maritime-museum/1394410
 is-sold-out: 
 layout: event
 ---

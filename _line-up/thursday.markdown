@@ -20,7 +20,7 @@ secondary-text: Joining Josh is an exceptional line-up with the endlessly amusin
 festival-starts-at: 2019-09-05 18:00:00 Z
 show-starts-at: 2019-09-05 19:30:00 Z
 ticket-price: "£20 - £25"
-ticket-link: 
+ticket-link: https://greenwichcomedyfestival.seetickets.com/event/josh-widdicombe/national-maritime-museum/1394390
 is-sold-out: 
 layout: event
 ---

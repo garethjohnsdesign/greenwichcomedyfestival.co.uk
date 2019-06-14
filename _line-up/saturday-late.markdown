@@ -20,7 +20,7 @@ secondary-text: Joining David is an exceptional line-up with cult comic/poet and
 festival-starts-at: 2019-09-07 19:00:00 Z
 show-starts-at: 2019-09-07 20:15:00 Z
 ticket-price: "£20 - £25"
-ticket-link: 
+ticket-link: https://greenwichcomedyfestival.seetickets.com/event/david-o-doherty/national-maritime-museum/1394409
 is-sold-out: 
 layout: event
 ---

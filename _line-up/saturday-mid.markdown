@@ -19,7 +19,7 @@ secondary-text: Joining Reginald is a truly stupendous bill with self-dubbed Lie
 festival-starts-at: 2019-09-07 16:00:00 Z
 show-starts-at: 2019-09-07 17:00:00 Z
 ticket-price: "£20 - £25"
-ticket-link: 
+ticket-link: https://greenwichcomedyfestival.seetickets.com/event/reginald-d-hunter/national-maritime-museum/1394408
 is-sold-out: 
 layout: event
 ---

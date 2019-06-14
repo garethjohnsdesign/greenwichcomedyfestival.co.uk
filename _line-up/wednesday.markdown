@@ -19,7 +19,7 @@ secondary-text: Joining Sean is a blistering supporting line-up with Mock The We
 festival-starts-at: 2019-09-04 18:00:00 Z
 show-starts-at: 2019-09-04 19:30:00 Z
 ticket-price: "£20 - £25"
-ticket-link: 
+ticket-link: https://greenwichcomedyfestival.seetickets.com/event/sean-lock/national-maritime-museum/1394110
 is-sold-out: 
 layout: event
 ---

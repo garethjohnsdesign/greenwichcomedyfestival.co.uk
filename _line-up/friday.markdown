@@ -20,7 +20,7 @@ secondary-text: Joining Nish is a phenomenal bill with the magnificent Radio 4 r
 festival-starts-at: 2019-09-06 18:00:00 Z
 show-starts-at: 2019-09-06 19:30:00 Z
 ticket-price: "£20 - £25"
-ticket-link: 
+ticket-link: https://greenwichcomedyfestival.seetickets.com/event/nish-kumar/national-maritime-museum/1394391
 is-sold-out: 
 layout: event
 ---

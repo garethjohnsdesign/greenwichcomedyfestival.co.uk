@@ -19,7 +19,7 @@ secondary-text: Joining Sara is an almighty bill with groundbreaking ventriloqui
 festival-starts-at: 2019-07-06 13:00:00 Z
 show-starts-at: 2019-07-06 14:00:00 Z
 ticket-price: "£20 - £25"
-ticket-link: 
+ticket-link: https://greenwichcomedyfestival.seetickets.com/event/sara-pascoe/national-maritime-museum/1394406
 is-sold-out: 
 layout: event
 ---
