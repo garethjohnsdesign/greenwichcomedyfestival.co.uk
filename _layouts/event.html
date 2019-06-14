@@ -1,0 +1,97 @@
+---
+layout: default
+---
+
+<!-- Date -->
+<div class="grid-x grid-padding-y align-center">
+  <div class="small-12 cell text-center">
+    <div class="h3 text-lowercase">{{ page.date | date: "%A %-d %B" }}<span class="primary-color"> — </span>{{ page.date | date: "%l:%M%p" }}</div>
+    {% if page.is-sold-out == true %}<h4>Sold Out</h4>{% endif %}
+  </div>
+</div>
+<!-- End Date -->
+
+  
+<!-- Images -->
+{% if page.acts.size == 1 %}
+<div class="grid-x expanded align-center collapse small-up-1 event__acts">
+{% elsif page.acts.size == 2 %}
+<div class="grid-x expanded collapse small-up-1 medium-up-2 large-up-4 xlarge-up-4 event__acts">
+{% elsif page.acts.size == 3 %}
+<div class="grid-x expanded collapse small-up-1 medium-up-3 large-up-3 xlarge-up-3 event__acts">
+{% elsif page.acts.size == 4 %}
+<div class="grid-x expanded collapse small-up-1 medium-up-2 large-up-4 xlarge-up-4 event__acts">
+{% elsif page.acts.size == 5 %}
+<div class="grid-x expanded collapse small-up-1 medium-up-2 large-up-5 xlarge-up-5 event__acts">
+{% else %}
+<div class="grid-x expanded collapse small-up-1 medium-up-2 large-up-4 xlarge-up-4 event__acts">
+{% endif %}
+
+{% for act in page.acts %}
+<div class="cell">
+      {% assign image = act.image %}
+      {% include blocks/excerpt--act.html %}    
+</div>
+{% endfor %}
+</div>
+
+
+  <!-- End Images -->
+  
+
+  <!-- Content -->
+  <div class="grid-container">
+  <div class="grid-x grid-padding-y grid-padding-x event__text align-center margin-top-1">
+    
+    <!-- Left -->
+    <div class="small-11 medium-6 cell">
+      <div class="grid-x">
+        <div class="small-12 cell">
+          {{ page.content | markdownify }}
+        </div>
+      </div>
+    
+      <div class="grid-x">
+        <div class="small-12 cell">
+          <blockquote>
+        	<h3>{{page.quote}}</h3>
+        	<cite>{{page.quote-cite}}</cite>
+        	</blockquote>
+        </div>
+      </div>
+    
+      <div class="grid-x align-center show-secondary">
+      	<div class="small-12 medium-12 cell">
+      		{{page.secondary-text}}
+      	</div>
+      </div>
+    </div>
+    <!-- End Left -->
+    
+    <!-- Right -->
+    <div class="small-11 medium-3 cell text-center medium-text-left">
+        <h4 class="text-lowercase">Festival Opens</h4>
+        <p>{{ page.festival-starts-at | date: "%l:%M%p" }}</p>
+        <h4 class="text-lowercase">Show Starts</h4>
+        <p>{{ page.show-starts-at | date: "%l:%M%p" }}</p>
+        <h4 class="text-lowercase">Tickets</h4>
+        <p>{{ page.ticket-price }}</p>
+        
+        {% if page.is-sold-out == true %}
+        <a class="button large">Sold Out</a>
+        {% else %}
+        <a class="button large" href="{{page.ticket-link}}" target="_blank">Buy Tickets</a>
+        {% endif %}
+        
+    </div>
+    <!-- End Right -->
+  
+  </div>
+  </div>
+  <!-- End Content -->
+  
+  
+
+<!-- Pagination -->  
+{% include site/pagination.html %}
+<!-- End Pagination -->

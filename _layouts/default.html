@@ -1,0 +1,56 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html class="no-js" lang="en" dir="ltr">
+
+<!-- Head -->
+{% include site/head.html %}
+<!-- End Head -->
+
+<body class="{{page.layout | slugify}}">
+
+<div class="off-canvas position-right" id="offCanvas" data-off-canvas data-transition="overlap">
+{% include off-canvas/menu.html %}
+</div>
+
+<div class="off-canvas-content" id="main" data-off-canvas-content>
+<!-- Navigation -->  
+{% include site/navigation.html %}
+<!-- End Navigation -->
+<div class="{{page.layout | slugify}}__content">
+<!-- Content -->
+{{ content }}
+<!-- End Content -->
+
+<!-- Newsletter -->  
+{% include site/newsletter.html %}
+<!-- End Newsletter -->
+
+<!-- Socials -->  
+{% include site/socials.html %}
+<!-- End Socials -->
+</div>
+<!-- Footer -->  
+{% include site/footer.html %}
+<!-- End Footer -->
+</div>
+
+<!-- Cookies -->
+{% include site/cookies.html %}
+<!-- End Cookies -->
+
+<!-- Scripts -->
+{% include site/scripts.html %}
+<!-- End Scripts -->
+
+<!-- Google Analytics -->
+{% if site.analytics %}
+{% include site/analytics.html %}
+{% endif %}
+<!-- End Google Analytics -->
+
+</body>
+
+</html>

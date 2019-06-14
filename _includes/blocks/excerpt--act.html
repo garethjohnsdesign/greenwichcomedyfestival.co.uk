@@ -1,0 +1,10 @@
+<div class="image--default align-center-middle" data-interchange="{% include images/interchange-img-small-12-medium-4-cell.html %}">
+  <div class="grid-y height-100 align-center content">
+    <div class="shrink cell text-center text-lowercase padding-2">
+      <h3 class="white">{{act.name}}</h3>
+      {% if day.is-sold-out == true %}
+      <h5 class="white">Sold Out</h5>
+      {% endif %}
+    </div>
+  </div>
+</div>

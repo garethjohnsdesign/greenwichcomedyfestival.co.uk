@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="grid-container page__header">
+  <div class="grid-x grid-padding-x grid-padding-y">
+    <div class="small-12 large-6 cell">
+      <h3>{{page.header}}</h3>
+    </div>
+    <div class="small-12 large-6 cell">
+      {{content | markdownify}}
+    </div>
+  </div>
+</div>
+
+<div class="grid-container">
+<div class="grid-x">
+
+{% for vendor in page.vendors %}
+  <div class="small-12 large-6 cell">
+    {% assign image = vendor.image %}
+    {% include blocks/excerpt--vendor.html %}    
+  </div>
+{% endfor %}
+
+</div>
+</div>
