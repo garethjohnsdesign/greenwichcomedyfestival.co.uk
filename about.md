@@ -1,7 +1,8 @@
 ---
 title: About
 position: 4
-header: Another year, another outstanding line-up from London’s finest comedy festival.
+header: The magnificent Greenwich Comedy Festival returns with its annual cavalcade
+  of the very best comedians of the moment.
 images:
 - "/uploads/about-01.jpg"
 - "/uploads/about-02.jpg"
@@ -10,7 +11,7 @@ images:
 layout: about
 ---
 
-The magnificent Greenwich Comedy Festival returns with its annual cavalcade of the very best comedians of the moment including TV mega-stars like The Last Leg’s JOSH WIDDICOMBE, British Comedy Award winner SEAN LOCK, the multi-award winning SARA PASCOE and master observationalist JASON MANFORD, alt-comedy heroes like Rose d’Or winner BRIDGET CHRISTIE and cult poet/comic and Alan Partridge side-kick TIM KEY.
+Featuring TV mega-stars like The Last Leg’s JOSH WIDDICOMBE, British Comedy Award winner SEAN LOCK, the multi-award winning SARA PASCOE and master observationalist JASON MANFORD, alt-comedy heroes like Rose d’Or winner BRIDGET CHRISTIE and cult poet/comic and Alan Partridge side-kick TIM KEY.
 
 Trailblazers like The Mash Report’s NISH KUMAR and festival favourite REGINALD D HUNTER can be seen plus grouchy genius RICH HALL, groundbreaking ventriloquist NINA CONTI, the crappy keyboard wielding DAVID O’DOHERTY and many fast-rising wonders like PHIL WANG, ROSIE JONES, OLGA KOCH and LARRY DEAN.
 
