@@ -305,6 +305,14 @@
 		"oAP": "/_line-up/sunday-late.markdown",
 		"oF": 0
 		},
+	"/_line-up/sunday-mid.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/_line-up/sunday-mid.markdown",
+		"oF": 0
+		},
 	"/_line-up/thursday.markdown": {
 		"cB": 0,
 		"ft": 8192,
@@ -505,6 +513,17 @@
 		"oAP": "/_uploads/Equality and Diverstiy Monitoring Form.docx",
 		"oF": 0
 		},
+	"/_uploads/felicity-ward.jpg": {
+		"ft": 16384,
+		"iS": 1207993,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/felicity-ward.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/fin-taylor.jpg": {
 		"ft": 16384,
 		"iS": 746123,
@@ -580,6 +599,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/_uploads/kiri-pritchard-mclean.jpg": {
+		"ft": 16384,
+		"iS": 1042686,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/kiri-pritchard-mclean.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/_uploads/kurbside-kitchen.jpg": {
@@ -901,6 +931,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/_uploads/stewart-lee.jpg": {
+		"ft": 16384,
+		"iS": 333764,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/stewart-lee.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/_uploads/suzi-ruffell.jpg": {
 		"ft": 16384,
 		"iS": 260658,
@@ -973,6 +1014,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/_uploads/tim-key.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/_uploads/tony-law.jpg": {
+		"ft": 16384,
+		"iS": 1803599,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/_uploads/tony-law.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1232,16 +1284,6 @@
 		"oA": 2,
 		"oAP": "/assets/fonts/regular-pro.woff2",
 		"oF": 0
-		},
-	"/assets/icons/symbol-defs.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/assets/icons/symbol-defs.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
 		},
 	"/assets/img/illustrations/anchor.png": {
 		"ft": 32768,

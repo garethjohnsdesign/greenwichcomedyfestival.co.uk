@@ -16,7 +16,9 @@ header-full:
         url: /line-up/saturday-mid
       - title: Saturday 7 September — Late
         url: /line-up/saturday-late
-      - title: Sunday 8 July
+      - title: Sunday 8 July — Mid
+        url: /line-up/sunday-mid
+      - title: Sunday 8 July — Late
         url: /line-up/sunday-late
 
   - title: About
