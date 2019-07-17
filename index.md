@@ -3,6 +3,11 @@ title: Greenwich Comedy Festival
 position: 0
 image: "/assets/img/og-image.png"
 carousel:
+- name: Stewart Lee
+  image: "/uploads/stewart-lee.jpg"
+  subheader: Lee remains one of the best stand-ups in the country — Metro
+  is-sold-out: false
+  line-up: Sunday Mid
 - name: Josh Widdicombe
   image: "/uploads/josh-widdicombe.jpg"
   subheader: One of the most bankable talents in UK comedy — The Guardian
