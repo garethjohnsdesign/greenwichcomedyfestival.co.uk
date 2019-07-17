@@ -14,7 +14,9 @@ acts:
   image: "/uploads/kiri-pritchard-mclean.jpg"
 quote: Lee remains one of the best stand-ups in the country
 quote-cite: Metro
-secondary-text: Joining Stewart is an outstanding supporting line-up with multi-award winning surreal-wizard of comedy Tony Law, Edinburgh Comedy Award nominee Felicity Ward and the exceptional Kiri Pritchard-Mclean as host.
+secondary-text: Joining Stewart is an outstanding supporting line-up with multi-award
+  winning surreal-wizard of comedy Tony Law, Edinburgh Comedy Award nominee Felicity
+  Ward and the exceptional Kiri Pritchard-Mclean as host.
 festival-starts-at: 2019-09-08 14:45:00 Z
 show-starts-at: 2019-09-08 15:45:00 Z
 ticket-price: "£20 - £25"
