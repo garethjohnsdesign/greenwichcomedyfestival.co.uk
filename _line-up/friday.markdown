@@ -11,12 +11,14 @@ acts:
   image: "/uploads/steen-raskopoulos.jpg"
 - name: Lou Sanders
   image: "/uploads/lou-sanders.jpg"
+- name: Daniel Kitson
+  image: "/uploads/daniel-kitson.jpeg"
 quote: A masterclass by a no-frills stand-up at the height of his powers
 quote-cite: The Guardian
 secondary-text: Joining Nish is a phenomenal bill with the magnificent Radio 4 regular
   and Edinburgh Comedy Award winner Bridget Christie, multi-award winning improviser
-  Steen Raskopoulos and the brilliantly funny Taskmaster & 8 Out Of 10 Cats star Lou
-  Sanders.
+  Steen Raskopoulos, the brilliantly funny Taskmaster & 8 Out Of 10 Cats star Lou
+  Sanders and the inimitable Daniel Kitson as host.
 festival-starts-at: 2019-09-06 18:00:00 Z
 show-starts-at: 2019-09-06 19:30:00 Z
 ticket-price: "£20 - £25"
