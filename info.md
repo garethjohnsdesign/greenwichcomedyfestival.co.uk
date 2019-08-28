@@ -12,7 +12,7 @@ general:
 
 
     * **Is there an age limit?**
-      Yes. The festival has an age limit of 16+, under 18's accompanied by an adult. You may be refused entry if our staff think you are under 18, so please bring ID if you're concerned. We do not offer refunds to ticket-holders who are denied entry. Apologies to all you younger comedy fans out there!
+      Yes. The festival has an age limit of 16+, under 18's accompanied by an adult. You may be refused entry if our staff think you are under 18, so please bring ID if you're concerned. This age policy applies to babes-in-arms too. We do not offer refunds to ticket-holders who are denied entry. Apologies to all you younger comedy fans out there!
 
     * **You're sold out! Where can I apply for returns?**
       Check our facebook [page](https://www.facebook.com/greenwichcomedyfestival). Anyone who can't make it to a gig may try to pass on their tickets via our facebook page. Do not buy tickets from external sources as they may not be accepted on the door.
