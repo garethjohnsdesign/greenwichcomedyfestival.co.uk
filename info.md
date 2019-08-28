@@ -35,7 +35,7 @@ general:
 - title: Festival Timings
   text: "Weds 4 September: 6pm - 10:30pm   \nThurs 5 September: 6pm - 10:30pm  \nFri
     6 September: 6pm - 10:30pm  \nSat 7 September: 1pm - 10:30pm   \nSun 8 September:
-    3:15pm - 10.30pm  \n\nPlease check your tickets for your show start times, all
+    2:45pm - 10.30pm  \n\nPlease check your tickets for your show start times, all
     shows last approximately 2.5 hours with intervals."
 - title: The Big Top Venue
   text: 'The Big Top is a fully seated venue. There are two types of tickets; Front
