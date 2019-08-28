@@ -12,7 +12,7 @@ general:
 
 
     * **Is there an age limit?**
-      Yes. The festival has an age limit of 16+, under 18's accompanied by an adult. You may be refused entry if our staff think you are under 18, so please bring ID if you're concerned. We do not offer refunds to ticket-holders who are denied entry. Apologies to all you younger comedy fans out there!
+      Yes. The festival has an age limit of 16+, under 18's accompanied by an adult. You may be refused entry if our staff think you are under 18, so please bring ID if you're concerned. This age policy applies to babes-in-arms too. We do not offer refunds to ticket-holders who are denied entry. Apologies to all you younger comedy fans out there!
 
     * **You're sold out! Where can I apply for returns?**
       Check our facebook [page](https://www.facebook.com/greenwichcomedyfestival). Anyone who can't make it to a gig may try to pass on their tickets via our facebook page. Do not buy tickets from external sources as they may not be accepted on the door.
@@ -35,7 +35,7 @@ general:
 - title: Festival Timings
   text: "Weds 4 September: 6pm - 10:30pm   \nThurs 5 September: 6pm - 10:30pm  \nFri
     6 September: 6pm - 10:30pm  \nSat 7 September: 1pm - 10:30pm   \nSun 8 September:
-    3:15pm - 10.30pm  \n\nPlease check your tickets for your show start times, all
+    2:45pm - 10.30pm  \n\nPlease check your tickets for your show start times, all
     shows last approximately 2.5 hours with intervals."
 - title: The Big Top Venue
   text: 'The Big Top is a fully seated venue. There are two types of tickets; Front
