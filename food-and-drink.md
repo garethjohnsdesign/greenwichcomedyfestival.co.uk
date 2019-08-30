@@ -106,6 +106,8 @@ vendors:
 layout: food-and-drink
 ---
 
+Street-food marvels [Feast It](https://feast-it.com/) have hand-picked a gourmet group of traders... 
+
 Choose your balls with [melter meatballs](https://www.facebook.com/meltermeatballs/), take your tastebuds to the lebanon with [beyroots](https://www.beyroots.co) delicious wraps, enjoy incredibly tasty pizza from the inspiring team at [the good slice](https://www.instagram.com/thegoodslice), munch on the award-winning burgers and made-from-scratch relishes from [cheeky burger](http://cheekyburgercompany.com) or go for the authentic venezuelan arepas by [guasacaca](https://guasacacalondon.com) 
 
 All our bars will be serving up the usual tipples including craft beers, and summer-inspired cocktails plus some top-notch traders like [routes coffee](https://www.routescoffee.co.uk) serving up fresh brews and the mindbendingly morish treats from [ravenous fudge](https://ravenousfudge.com).
