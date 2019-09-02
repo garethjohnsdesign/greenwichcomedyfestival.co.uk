@@ -9,10 +9,10 @@ acts:
   image: "/uploads/tim-key-02.jpg"
 - name: Olga Koch
   image: "/uploads/olga-koch.jpg"
-- name: Ed Gamble
-  image: "/uploads/ed-gamble.jpg"
 - name: Jen Brister
   image: "/uploads/jen-brister.jpg"
+- name: Ed Gamble
+  image: "/uploads/ed-gamble.jpg"
 quote: When a stand up gig goes this well, you do get a sense of how religions are
   started
 quote-cite: The Guardian
