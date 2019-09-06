@@ -21,7 +21,7 @@ festival-starts-at: 2019-09-08 14:45:00 Z
 show-starts-at: 2019-09-08 15:45:00 Z
 ticket-price: "£20 - £25"
 ticket-link: https://greenwichcomedyfestival.seetickets.com/event/stewart-lee/national-maritime-museum/1410926
-is-sold-out: false
+is-sold-out: true
 layout: event
 ---
 
